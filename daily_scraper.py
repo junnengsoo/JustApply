@@ -186,6 +186,25 @@ def process_urls(urls: list[str]) -> None:
     append_to_markdown(results)
 
 
+def extract_latest_block_and_save():
+    """Extract the most recent update block and save it to a separate file for email use."""
+    try:
+        with open('changes.md', 'r', encoding='utf-8') as f:
+            content = f.read()
+
+        # Find the first block after a timestamp header
+        match = re.search(r'(## \d{4}-\d{2}-\d{2} \d{2}:\d{2}:\d{2}\n\n.*?)(?=\n## |\Z)', content, re.DOTALL)
+        if match:
+            latest = match.group(1).strip()
+            with open('latest.md', 'w', encoding='utf-8') as out:
+                out.write(latest)
+            print("✅ Extracted latest block to latest.md")
+        else:
+            print("⚠️ No matching markdown block found.")
+    except Exception as e:
+        print(f"Error extracting latest block: {e}")
+
+
 def main():
     urls = [
         "https://optiver.com/working-at-optiver/career-opportunities/?_gl=1*x7c8ib*_up*MQ..*_ga*MTA5OTMxMjk3Mi4xNzQ1NjQxMDk2*_ga_YMLN3CLJVE*MTc0NTY0MTA5NS4xLjEuMTc0NTY0MTA5OC4wLjAuMA..&numberposts=10&paged=1&office=singapore&level=internship",
@@ -204,6 +223,7 @@ def main():
 
     process_urls(urls)
     print("\nText storage and comparison completed. Check changes.md for the log.")
+    extract_latest_block_and_save()
 
 
 if __name__ == "__main__":
