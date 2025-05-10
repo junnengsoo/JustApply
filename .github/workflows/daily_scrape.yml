@@ -36,3 +36,24 @@ jobs:
           git add changes.md text_storage
           git commit -m "🔄 Daily scrape update: $(date -u '+%Y-%m-%d %H:%M:%S') UTC" || echo "No changes to commit"
           git push
+
+      - name: Read latest update into env var
+        id: read_latest
+        run: |
+          echo "LATEST_BLOCK<<EOF" >> $GITHUB_OUTPUT
+          cat latest.md >> $GITHUB_OUTPUT
+          echo "EOF" >> $GITHUB_OUTPUT
+
+      - name: Send email
+        if: ${{ secrets.EMAIL_USERNAME != '' && secrets.EMAIL_PASSWORD != '' }}
+        uses: dawidd6/action-send-mail@v5
+        with:
+          server_address: smtp.gmail.com
+          server_port: 587
+          username: ${{ secrets.EMAIL_USERNAME }}
+          password: ${{ secrets.EMAIL_PASSWORD }}
+          subject: "📋 Daily Scraper Update"
+          to: ${{ secrets.EMAIL_USERNAME }}
+          from: "Scraper Bot <${{ secrets.EMAIL_USERNAME }}}"
+          content_type: text/plain
+          body: ${{ steps.read_latest.outputs.LATEST_BLOCK }}
