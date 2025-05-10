@@ -424,6 +424,12 @@ Hong Kong
 Experienced
 C++
 We are looking for engineers to power Hudson River Trading's continued expansion into global markets. As an engineer based out of our Hong Kong office, you will play a critical role in the process of establishing HRT's presence in Asia-Pacific markets and work closely with our algo and operations teams...
+Data Center Technician
+↳ Apply Now
+Carteret
+Experienced
+Systems and Networking
+Hudson River Trading (HRT) is seeking a hands-on Data Center Technician with experience in data center operations to join our Trading Infrastructure (SysTrade) team. If you enjoy solving complex infrastructure challenges, working with cutting-edge technology, and thrive in a fast-paced, global environment, we’d love to hear from you. In this...
 Database SRE
 ↳ Apply Now
 New York

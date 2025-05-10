@@ -1,4 +1,130 @@
 
+## 2025-05-10 04:12:44
+
+### [https://www.janestreet.com/join-jane-street/open-roles/?type=internship&location=singapore](https://www.janestreet.com/join-jane-street/open-roles/?type=internship&location=singapore)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -83,8 +83,8 @@
+ Internship
+ LOCATION
+ All Locations
++New York
+ Hong Kong
+-New York
+ London
+ Singapore
+ Mumbai
+@@ -138,8 +138,8 @@
+ Internship
+ LOCATION
+ All Locations
++New York
+ Hong Kong
+-New York
+ London
+ Singapore
+ Mumbai
+```
+
+---
+### [https://www.hudsonrivertrading.com/careers/?_4118765=Internship&_offices=Singapore#newjobsboard](https://www.hudsonrivertrading.com/careers/?_4118765=Internship&_offices=Singapore#newjobsboard)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -424,6 +424,12 @@
+ Experienced
+ C++
+ We are looking for engineers to power Hudson River Trading's continued expansion into global markets. As an engineer based out of our Hong Kong office, you will play a critical role in the process of establishing HRT's presence in Asia-Pacific markets and work closely with our algo and operations teams...
++Data Center Technician
++↳ Apply Now
++Carteret
++Experienced
++Systems and Networking
++Hudson River Trading (HRT) is seeking a hands-on Data Center Technician with experience in data center operations to join our Trading Infrastructure (SysTrade) team. If you enjoy solving complex infrastructure challenges, working with cutting-edge technology, and thrive in a fast-paced, global environment, we’d love to hear from you. In this...
+ Database SRE
+ ↳ Apply Now
+ New York
+```
+
+---
+### [https://www.citadel.com/careers/open-opportunities?experience-filter=internships&loca tion-filter=singapore&selected-job-sections=388,389,387,390&current_page=1&sort_order=DESC&per_page=10&action=careers_listing_filter](https://www.citadel.com/careers/open-opportunities?experience-filter=internships&loca tion-filter=singapore&selected-job-sections=388,389,387,390&current_page=1&sort_order=DESC&per_page=10&action=careers_listing_filter)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -134,7 +134,7 @@
+ Open Opportunities
+ Open Opportunities
+ 1 filter applied
+-Opportunities (8)
++Opportunities (6)
+ Clear All Filters
+ Internships
+ Experience Level
+@@ -171,26 +171,20 @@
+ Newest
+ Oldest
+ Viewing
+-8
++6
+ of
+-8
++6
++Quantitative Researcher – PhD Intern (US)
++Chicago, Miami, New York
++Apply Now
+ Quantitative Researcher – 2025 PhD Intern (Asia)
+ Hong Kong, Singapore
+ Apply Now
+-Quantitative Researcher – 2025 PhD Intern (Europe)
+-London, Paris
+-Apply Now
+-Software Engineer – 2025 Intern (US)
+-Chicago, Miami, New York
+-Apply Now
+ Quantitative Research Analyst – 2025 Intern (Europe)
+ London, Paris
+ Apply Now
+ Quantitative Research Analyst – 2025 Intern (Asia)
+ Hong Kong, Singapore
+-Apply Now
+-Launch – 2025 Intern (US)
+-Chicago, Miami, New York
+ Apply Now
+ Operations Analyst – 2025 Intern (Europe)
+ London
+```
+
+---
+### [https://careers.jpmorgan.com/us/en/students/programs?search=&tags=location__AsiaPacific__Singapore](https://careers.jpmorgan.com/us/en/students/programs?search=&tags=location__AsiaPacific__Singapore)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -388,6 +388,8 @@
+ Australia, Hong Kong SAR, China, India, Philippines, Singapore, United Kingdom, United States of America, Japan
+ Applications Not Open
+ Applications Now Open
++To keep informed of when you can apply, please click
++here.
+ Learn More
+ Internship
+ Software Engineer Internship
+```
+
+---
+
 ## 2025-05-09 07:26:14
 
 ### [https://jobs.apple.com/en-us/search?location=singapore-SGP&team=internships-STDNT-INTRN](https://jobs.apple.com/en-us/search?location=singapore-SGP&team=internships-STDNT-INTRN)
