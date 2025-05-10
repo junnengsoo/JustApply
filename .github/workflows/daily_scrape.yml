@@ -44,8 +44,8 @@ jobs:
           cat latest.md >> $GITHUB_OUTPUT
           echo "EOF" >> $GITHUB_OUTPUT
 
-      - name: Send email
-        if: ${{ secrets.EMAIL_USERNAME != '' && secrets.EMAIL_PASSWORD != '' }}
+      - name: Send email (optional)
+        continue-on-error: true
         uses: dawidd6/action-send-mail@v5
         with:
           server_address: smtp.gmail.com
@@ -57,3 +57,4 @@ jobs:
           from: "Scraper Bot <${{ secrets.EMAIL_USERNAME }}}"
           content_type: text/plain
           body: ${{ steps.read_latest.outputs.LATEST_BLOCK }}
+
