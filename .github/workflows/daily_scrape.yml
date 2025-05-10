@@ -40,9 +40,11 @@ jobs:
       - name: Read latest update into env var
         id: read_latest
         run: |
-          echo "LATEST_BLOCK<<EOF" >> $GITHUB_OUTPUT
-          cat latest.md >> $GITHUB_OUTPUT
-          echo "EOF" >> $GITHUB_OUTPUT
+          {
+            echo "LATEST_BLOCK<<EOF"
+            cat latest.md
+            echo "EOF"
+          } >> $GITHUB_OUTPUT
 
       - name: Send email (optional)
         continue-on-error: true
