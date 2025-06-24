@@ -100,6 +100,8 @@ Platform Specialist - Observability
 London & Montreal
 Platform Specialist - Scheduler and Orchestrators
 Montreal & Singapore
+Platform Specialist - Storage Developer
+London, New York
 Platform Specialist - ULL
 London, New York
 Platform Specialist - Windows and Virtualization
