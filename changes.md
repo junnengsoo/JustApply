@@ -1,4 +1,186 @@
 
+## 2025-06-26 07:29:22
+
+### [https://www.janestreet.com/join-jane-street/open-roles/?type=internship&location=singapore](https://www.janestreet.com/join-jane-street/open-roles/?type=internship&location=singapore)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -83,8 +83,8 @@
+ Internship
+ LOCATION
+ All Locations
++Hong Kong
+ London
+-Hong Kong
+ New York
+ Singapore
+ Austin
+@@ -137,8 +137,8 @@
+ Internship
+ LOCATION
+ All Locations
++Hong Kong
+ London
+-Hong Kong
+ New York
+ Singapore
+ Austin
+```
+
+---
+### [https://www.metacareers.com/jobs?offices[0]=Singapore&roles[0]=Internship](https://www.metacareers.com/jobs?offices[0]=Singapore&roles[0]=Internship)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -16,6 +16,7 @@
+ Sales and Marketing
+ Careers Programs
+ Research
++Accelerate Eng Talent
+ Students and grads
+ Rotational Product Management
+ Working at Meta
+@@ -64,6 +65,7 @@
+ Job search
+ Career programs
+ Research
++Accelerate Eng Talent
+ Students and grads
+ Rotational Product Management
+ Teams
+```
+
+---
+### [https://www.squarepoint-capital.com/open-opportunities?id=6212106](https://www.squarepoint-capital.com/open-opportunities?id=6212106)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -11,6 +11,7 @@
+ Business Management
+ Compliance
+ Corporate Application Management
++Executive Assistance
+ Finance
+ Human Resources
+ Investment
+@@ -63,7 +64,7 @@
+ Graduate Support Specialist
+ London, Montreal, New York, Houston, Hong Kong
+ HR Systems Analyst - Workday
+-Bangalore, London
++Bangalore, London, Singapore, Montreal
+ Information Security Analyst
+ London
+ Junior Commodities Fundamental Analyst
+@@ -99,7 +100,7 @@
+ Platform Specialist - Middleware
+ Montreal
+ Platform Specialist - Observability
+-London & Montreal
++London, Warsaw & Montreal
+ Platform Specialist - Scheduler and Orchestrators
+ Montreal & Singapore
+ Platform Specialist - Storage Developer
+@@ -118,7 +119,7 @@
+ Singapore, London, New York
+ Quant Developer (Python)
+ Boston, Dubai, London, Montreal, Warsaw
+-Quantitative Researcher - CTA Macro
++Quantitative Researcher – FICC Modeling
+ New York
+ Quantitative Researcher – Market Structure Research
+ New York
+@@ -176,10 +177,10 @@
+ London, Montreal
+ Tax Analyst
+ Bangalore
++Team Executive Assistant
++London
+ Technical Business Analyst/Project Manager
+ London, Paris, Montreal, Singapore
+-Technology Procurement Analyst
+-Montreal, London
+ Trade Flow Support - Trading Application Support
+ London, Montreal, New York,Singapore,Bangalore,Hong Kong,Houston
+ Trade Flow Support - Trading Infrastructure Support
+```
+
+---
+### [https://www.citadel.com/careers/open-opportunities?experience-filter=internships&loca tion-filter=singapore&selected-job-sections=388,389,387,390&current_page=1&sort_order=DESC&per_page=10&action=careers_listing_filter](https://www.citadel.com/careers/open-opportunities?experience-filter=internships&loca tion-filter=singapore&selected-job-sections=388,389,387,390&current_page=1&sort_order=DESC&per_page=10&action=careers_listing_filter)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -134,7 +134,7 @@
+ Open Opportunities
+ Open Opportunities
+ 1 filter applied
+-Opportunities (8)
++Opportunities (4)
+ Clear All Filters
+ Internships
+ Experience Level
+@@ -170,29 +170,17 @@
+ Newest
+ Oldest
+ Viewing
+-8
++4
+ of
+-8
+-Sector Data Analyst – 2026 Intern (Europe)
+-London
+-Apply Now
+-Quantitative Researcher – 2025 PhD Intern (Asia)
+-Hong Kong, Singapore
+-Apply Now
+-Quantitative Research Analyst – 2025 Intern (Europe)
+-London, Paris
+-Apply Now
+-Quantitative Research Analyst – 2025 Intern (Asia)
+-Hong Kong, Singapore
+-Apply Now
++4
+ International Equities – 2026 Intern (Asia)
+ Hong Kong, Singapore
+ Apply Now
+-Quantitative Researcher – PhD Intern (US)
+-Chicago, Miami, New York
+-Apply Now
+ Quantitative Researcher – 2026 PhD Intern (Europe)
+ London, Paris
++Apply Now
++Sector Data Analyst – 2026 Intern (Europe)
++London
+ Apply Now
+ International Equities Associate – Intern (Europe)
+ London
+@@ -303,10 +291,6 @@
+ Disclosures
+ Copyright © Citadel Enterprise Americas LLC or one of its affiliates. All rights reserved.
+ Citadel is an equal opportunity employer. We provide all individuals consideration for employment and advancement opportunities without regard to race, religion, color, gender, pregnancy, national origin, age, disability, military or veteran status, sexual orientation, genetic information and any other classification protected by applicable federal, state and local laws.
+-Our website uses essential cookies that are strictly necessary to enable our website to function.  We also use cookies and similar technologies to improve your online experience, to provide advertisements based on your browsing habits, and for analytical (or performance) purposes. For more information, see Manage My Preferences.
+-Manage My Preferences
+-Reject Non-Essential Cookies
+-Accept All Cookies
+ Privacy Preference Center
+ When you visit any website, it may store or retrieve information on your browser, mostly in the form of cookies. This information might be about you, your preferences or your device and is mostly used to make the site work as you expect it to. The information does not usually directly identify you, but it can give you a more personalized web experience. Because we respect your right to privacy, you can choose not to allow some types of cookies. Click on the different category headings to find out more and change our default settings. You can also find out more about the specific cookies that are dropped by clicking ‘Cookie Details’.  However, blocking some types of cookies may impact your experience of the site and the services we are able to offer.
+ More information
+```
+
+---
+
 ## 2025-06-25 07:29:29
 
 ### [https://www.janestreet.com/join-jane-street/open-roles/?type=internship&location=singapore](https://www.janestreet.com/join-jane-street/open-roles/?type=internship&location=singapore)

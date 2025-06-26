@@ -11,6 +11,7 @@ Departments
 Business Management
 Compliance
 Corporate Application Management
+Executive Assistance
 Finance
 Human Resources
 Investment
@@ -63,7 +64,7 @@ London, Montreal, Warsaw, New York
 Graduate Support Specialist
 London, Montreal, New York, Houston, Hong Kong
 HR Systems Analyst - Workday
-Bangalore, London
+Bangalore, London, Singapore, Montreal
 Information Security Analyst
 London
 Junior Commodities Fundamental Analyst
@@ -99,7 +100,7 @@ London, New York
 Platform Specialist - Middleware
 Montreal
 Platform Specialist - Observability
-London & Montreal
+London, Warsaw & Montreal
 Platform Specialist - Scheduler and Orchestrators
 Montreal & Singapore
 Platform Specialist - Storage Developer
@@ -118,7 +119,7 @@ Quant Developer (C++)
 Singapore, London, New York
 Quant Developer (Python)
 Boston, Dubai, London, Montreal, Warsaw
-Quantitative Researcher - CTA Macro
+Quantitative Researcher – FICC Modeling
 New York
 Quantitative Researcher – Market Structure Research
 New York
@@ -176,10 +177,10 @@ Support Analyst - Integration & Deployment Management
 London, Montreal
 Tax Analyst
 Bangalore
+Team Executive Assistant
+London
 Technical Business Analyst/Project Manager
 London, Paris, Montreal, Singapore
-Technology Procurement Analyst
-Montreal, London
 Trade Flow Support - Trading Application Support
 London, Montreal, New York,Singapore,Bangalore,Hong Kong,Houston
 Trade Flow Support - Trading Infrastructure Support
