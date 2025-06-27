@@ -1,4 +1,137 @@
 
+## 2025-06-27 07:28:32
+
+### [https://optiver.com/working-at-optiver/career-opportunities/?_gl=1*x7c8ib*_up*MQ..*_ga*MTA5OTMxMjk3Mi4xNzQ1NjQxMDk2*_ga_YMLN3CLJVE*MTc0NTY0MTA5NS4xLjEuMTc0NTY0MTA5OC4wLjAuMA..&numberposts=10&paged=1&office=singapore&level=internship](https://optiver.com/working-at-optiver/career-opportunities/?_gl=1*x7c8ib*_up*MQ..*_ga*MTA5OTMxMjk3Mi4xNzQ1NjQxMDk2*_ga_YMLN3CLJVE*MTc0NTY0MTA5NS4xLjEuMTc0NTY0MTA5OC4wLjAuMA..&numberposts=10&paged=1&office=singapore&level=internship)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -71,6 +71,7 @@
+ Shanghai
+ Singapore
+ Sydney
++Taipei
+ United States
+ Singapore
+ Sorry, no results available.
+```
+
+---
+### [https://www.hudsonrivertrading.com/careers/?locations=singapore%2C&job-category=software-engineeringc%2Csoftware-engineeringpython%2C&job-type=internship%2C](https://www.hudsonrivertrading.com/careers/?locations=singapore%2C&job-category=software-engineeringc%2Csoftware-engineeringpython%2C&job-type=internship%2C)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -106,6 +106,12 @@
+ Locations
+ 
+ Clear All
++Software Engineering Internship – Summer 2026
++↳ Apply Now
++Singapore
++Internship
++Python
++Hudson River Trading (HRT) is seeking highly motivated full-time students for our Software Engineering Summer Internship Program. We are looking for smart programmers who love to code, love to learn, and can thrive in an entrepreneurial environment. At HRT, our engineers create and maintain critical technology and infrastructure that is...
+ There are no jobs that fit these filter criteria. Please change filters to view other jobs.
+ Back to Top ↑
+ Join Our Community
+@@ -243,6 +249,7 @@
+ Business Development
+ Finance
+ Hardware Engineering
++Information Security
+ People Operations
+ Risk
+ Software Engineering
+```
+
+---
+### [https://www.squarepoint-capital.com/open-opportunities?id=6212106](https://www.squarepoint-capital.com/open-opportunities?id=6212106)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -15,6 +15,7 @@
+ Finance
+ Human Resources
+ Investment
++Office Acquisition and Development
+ Operations
+ Recruiting & Talent Development
+ Tax
+@@ -64,7 +65,7 @@
+ Graduate Support Specialist
+ London, Montreal, New York, Houston, Hong Kong
+ HR Systems Analyst - Workday
+-Bangalore, London, Singapore, Montreal
++Bangalore, London, Singapore, Montreal, New York
+ Information Security Analyst
+ London
+ Junior Commodities Fundamental Analyst
+@@ -113,6 +114,8 @@
+ Montreal, London & New York
+ Project Coordinator
+ London, Bangalore
++Property Assistant
++New York
+ Quant Developer
+ London, Montreal, Warsaw
+ Quant Developer (C++)
+```
+
+---
+### [https://opengovernmentproducts.recruitee.com/?jobs-c88dea0d%5Bcountry%5D%5B%5D=SG&jobs-c88dea0d%5Bcity%5D%5B%5D=Singapore&jobs-c88dea0d%5Btab%5D=Software%20Engineering](https://opengovernmentproducts.recruitee.com/?jobs-c88dea0d%5Bcountry%5D%5B%5D=SG&jobs-c88dea0d%5Bcity%5D%5B%5D=Singapore&jobs-c88dea0d%5Btab%5D=Software%20Engineering)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -44,7 +44,7 @@
+ Singapore
+ Singapore
+ Singapore
+-7 jobs
++6 jobs
+ Share
+ Clear
+ Filters
+@@ -52,7 +52,7 @@
+ Singapore
+ Singapore
+ Singapore
+-7 jobs
++6 jobs
+ Share
+ Clear
+ Job title
+@@ -75,9 +75,6 @@
+ Software Engineer / Senior Software Engineer, HealthTech
+ Hybrid
+ View job
+-Software Engineer / Senior Software Engineer, Tooling
+-Hybrid
+-View job
+ Senior / Lead Software Engineer, FindX
+ Hybrid
+ View job
+@@ -96,6 +93,3 @@
+ Software Engineer / Senior Software Engineer, HealthTech
+ Hybrid
+ View job
+-Software Engineer / Senior Software Engineer, Tooling
+-Hybrid
+-View job
+```
+
+---
+
 ## 2025-06-26 07:29:22
 
 ### [https://www.janestreet.com/join-jane-street/open-roles/?type=internship&location=singapore](https://www.janestreet.com/join-jane-street/open-roles/?type=internship&location=singapore)

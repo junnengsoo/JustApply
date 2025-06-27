@@ -15,6 +15,7 @@ Executive Assistance
 Finance
 Human Resources
 Investment
+Office Acquisition and Development
 Operations
 Recruiting & Talent Development
 Tax
@@ -64,7 +65,7 @@ London, Montreal, Warsaw, New York
 Graduate Support Specialist
 London, Montreal, New York, Houston, Hong Kong
 HR Systems Analyst - Workday
-Bangalore, London, Singapore, Montreal
+Bangalore, London, Singapore, Montreal, New York
 Information Security Analyst
 London
 Junior Commodities Fundamental Analyst
@@ -113,6 +114,8 @@ Platforms ULL - Colo - Strategic
 Montreal, London & New York
 Project Coordinator
 London, Bangalore
+Property Assistant
+New York
 Quant Developer
 London, Montreal, Warsaw
 Quant Developer (C++)

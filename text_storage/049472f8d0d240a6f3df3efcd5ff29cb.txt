@@ -44,7 +44,7 @@ Singapore
 Singapore
 Singapore
 Singapore
-7 jobs
+6 jobs
 Share
 Clear
 Filters
@@ -52,7 +52,7 @@ Singapore
 Singapore
 Singapore
 Singapore
-7 jobs
+6 jobs
 Share
 Clear
 Job title
@@ -75,9 +75,6 @@ View job
 Software Engineer / Senior Software Engineer, HealthTech
 Hybrid
 View job
-Software Engineer / Senior Software Engineer, Tooling
-Hybrid
-View job
 Senior / Lead Software Engineer, FindX
 Hybrid
 View job
@@ -94,8 +91,5 @@ Senior Software Engineer, Transport
 Hybrid
 View job
 Software Engineer / Senior Software Engineer, HealthTech
-Hybrid
-View job
-Software Engineer / Senior Software Engineer, Tooling
 Hybrid
 View job
