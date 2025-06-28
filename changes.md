@@ -1,4 +1,202 @@
 
+## 2025-06-28 07:26:29
+
+### [https://optiver.com/working-at-optiver/career-opportunities/?_gl=1*x7c8ib*_up*MQ..*_ga*MTA5OTMxMjk3Mi4xNzQ1NjQxMDk2*_ga_YMLN3CLJVE*MTc0NTY0MTA5NS4xLjEuMTc0NTY0MTA5OC4wLjAuMA..&numberposts=10&paged=1&office=singapore&level=internship](https://optiver.com/working-at-optiver/career-opportunities/?_gl=1*x7c8ib*_up*MQ..*_ga*MTA5OTMxMjk3Mi4xNzQ1NjQxMDk2*_ga_YMLN3CLJVE*MTc0NTY0MTA5NS4xLjEuMTc0NTY0MTA5OC4wLjAuMA..&numberposts=10&paged=1&office=singapore&level=internship)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -65,6 +65,7 @@
+ Amsterdam
+ Austin
+ Chicago
++Frankfurt
+ London
+ Mumbai
+ New York
+@@ -72,9 +73,14 @@
+ Singapore
+ Sydney
+ Taipei
+-United States
+ Singapore
+ Sorry, no results available.
++Internship
++Quantitative Trading Internship (Singapore) – 2026
++Trading, Research and Machine Learning
++•
++Singapore
++Learn more
+ Internship
+ FutureFocus Singapore 2025 – Quantitative Trading
+ Events
+```
+
+---
+### [https://www.janestreet.com/join-jane-street/open-roles/?type=internship&location=singapore](https://www.janestreet.com/join-jane-street/open-roles/?type=internship&location=singapore)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -83,9 +83,9 @@
+ Internship
+ LOCATION
+ All Locations
+-Hong Kong
+ London
+ New York
++Hong Kong
+ Singapore
+ Austin
+ Mumbai
+@@ -137,9 +137,9 @@
+ Internship
+ LOCATION
+ All Locations
+-Hong Kong
+ London
+ New York
++Hong Kong
+ Singapore
+ Austin
+ Mumbai
+```
+
+---
+### [https://www.hudsonrivertrading.com/careers/?locations=singapore%2C&job-category=software-engineeringc%2Csoftware-engineeringpython%2C&job-type=internship%2C](https://www.hudsonrivertrading.com/careers/?locations=singapore%2C&job-category=software-engineeringc%2Csoftware-engineeringpython%2C&job-type=internship%2C)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -226,7 +226,6 @@
+ Boston
+ Boulder
+ Carteret
+-Chicago QTS
+ Chicago
+ Dublin
+ Hong Kong
+@@ -257,6 +256,5 @@
+ Python
+ Strategy Development
+ Systems and Networking
+-Information Security
+ Trade Operations
+ ↳ Apply Filter
+```
+
+---
+### [https://www.squarepoint-capital.com/open-opportunities?id=6212106](https://www.squarepoint-capital.com/open-opportunities?id=6212106)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -40,6 +40,8 @@
+ London, Montreal, Warsaw, Jersey
+ Accountant - Physical Metal
+ London, Jersey, Singapore, Hong Kong
++Accounts Payable Manager
++London, New York, Montreal
+ Assistant Controller - Management Company
+ London, Montreal
+ Assistant Tax Manager
+@@ -93,17 +95,17 @@
+ Platform Compute and Storage Specialist
+ Montreal , New York & London
+ Platform Specialist - Databases
+-Montreal & Singapore
++Montreal, New York, Houston , Boston , Singapore Hong Kong
+ Platform Specialist - Development Tools
+-Montreal & Singapore
++Montreal, New York, Houston , Boston , Singapore & Hong Kong
+ Platform Specialist - HPC
+ London, New York
+ Platform Specialist - Middleware
+-Montreal
++Montreal, New York, Houston & Boston
+ Platform Specialist - Observability
+-London, Warsaw & Montreal
++London, Warsaw , Montreal, New York, Houston & Boston
+ Platform Specialist - Scheduler and Orchestrators
+-Montreal & Singapore
++Montreal, New York, Houston , Boston , Singapore & Hong Kong
+ Platform Specialist - Storage Developer
+ London, New York
+ Platform Specialist - ULL
+```
+
+---
+### [https://www.citadel.com/careers/open-opportunities?experience-filter=internships&loca tion-filter=singapore&selected-job-sections=388,389,387,390&current_page=1&sort_order=DESC&per_page=10&action=careers_listing_filter](https://www.citadel.com/careers/open-opportunities?experience-filter=internships&loca tion-filter=singapore&selected-job-sections=388,389,387,390&current_page=1&sort_order=DESC&per_page=10&action=careers_listing_filter)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -134,7 +134,7 @@
+ Open Opportunities
+ Open Opportunities
+ 1 filter applied
+-Opportunities (4)
++Opportunities (6)
+ Clear All Filters
+ Internships
+ Experience Level
+@@ -170,9 +170,9 @@
+ Newest
+ Oldest
+ Viewing
+-4
++6
+ of
+-4
++6
+ International Equities – 2026 Intern (Asia)
+ Hong Kong, Singapore
+ Apply Now
+@@ -184,6 +184,12 @@
+ Apply Now
+ International Equities Associate – Intern (Europe)
+ London
++Apply Now
++Quantitative Research Engineer – PhD Intern (US)
++Miami, New York
++Apply Now
++Quantitative Researcher – PhD Intern (US)
++Greenwich, Miami, New York
+ Apply Now
+ Filtering results
+ Explore Careers
+```
+
+---
+### [https://opengovernmentproducts.recruitee.com/?jobs-c88dea0d%5Bcountry%5D%5B%5D=SG&jobs-c88dea0d%5Bcity%5D%5B%5D=Singapore&jobs-c88dea0d%5Btab%5D=Software%20Engineering](https://opengovernmentproducts.recruitee.com/?jobs-c88dea0d%5Bcountry%5D%5B%5D=SG&jobs-c88dea0d%5Bcity%5D%5B%5D=Singapore&jobs-c88dea0d%5Btab%5D=Software%20Engineering)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -32,7 +32,6 @@
+ Open positions
+ All departments
+ Internship
+-Marketing
+ Policy
+ Product Design
+ Product Operations
+```
+
+---
+
 ## 2025-06-27 07:28:32
 
 ### [https://optiver.com/working-at-optiver/career-opportunities/?_gl=1*x7c8ib*_up*MQ..*_ga*MTA5OTMxMjk3Mi4xNzQ1NjQxMDk2*_ga_YMLN3CLJVE*MTc0NTY0MTA5NS4xLjEuMTc0NTY0MTA5OC4wLjAuMA..&numberposts=10&paged=1&office=singapore&level=internship](https://optiver.com/working-at-optiver/career-opportunities/?_gl=1*x7c8ib*_up*MQ..*_ga*MTA5OTMxMjk3Mi4xNzQ1NjQxMDk2*_ga_YMLN3CLJVE*MTc0NTY0MTA5NS4xLjEuMTc0NTY0MTA5OC4wLjAuMA..&numberposts=10&paged=1&office=singapore&level=internship)

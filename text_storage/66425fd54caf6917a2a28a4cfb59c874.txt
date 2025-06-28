@@ -40,6 +40,8 @@ Accountant
 London, Montreal, Warsaw, Jersey
 Accountant - Physical Metal
 London, Jersey, Singapore, Hong Kong
+Accounts Payable Manager
+London, New York, Montreal
 Assistant Controller - Management Company
 London, Montreal
 Assistant Tax Manager
@@ -93,17 +95,17 @@ Montreal & Singapore
 Platform Compute and Storage Specialist
 Montreal , New York & London
 Platform Specialist - Databases
-Montreal & Singapore
+Montreal, New York, Houston , Boston , Singapore Hong Kong
 Platform Specialist - Development Tools
-Montreal & Singapore
+Montreal, New York, Houston , Boston , Singapore & Hong Kong
 Platform Specialist - HPC
 London, New York
 Platform Specialist - Middleware
-Montreal
+Montreal, New York, Houston & Boston
 Platform Specialist - Observability
-London, Warsaw & Montreal
+London, Warsaw , Montreal, New York, Houston & Boston
 Platform Specialist - Scheduler and Orchestrators
-Montreal & Singapore
+Montreal, New York, Houston , Boston , Singapore & Hong Kong
 Platform Specialist - Storage Developer
 London, New York
 Platform Specialist - ULL

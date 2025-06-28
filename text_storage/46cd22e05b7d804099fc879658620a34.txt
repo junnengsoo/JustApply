@@ -226,7 +226,6 @@ Austin
 Boston
 Boulder
 Carteret
-Chicago QTS
 Chicago
 Dublin
 Hong Kong
@@ -257,6 +256,5 @@ C++
 Python
 Strategy Development
 Systems and Networking
-Information Security
 Trade Operations
 ↳ Apply Filter
