@@ -80,6 +80,8 @@ Junior Quant Researcher
 London, New York, Singapore, Boston, Paris, Zug, Geneva, Hong Kong, Bangalore
 Junior Quant Researcher - ML Alpha Research
 London, New York, Singapore, Boston, Paris, Zug, Geneva, Hong Kong, Bangalore
+Junior Risk Manager
+New York, London
 Junior Shift Trader
 Dubai, Singapore
 Operational Risk Analyst
@@ -91,7 +93,7 @@ Montreal
 Operations Intern
 Montreal
 Platform Applications Specialist
-Montreal & Singapore
+Montreal, London & Singapore
 Platform Compute and Storage Specialist
 Montreal , New York & London
 Platform Specialist - Databases

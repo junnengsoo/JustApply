@@ -226,9 +226,11 @@ Austin
 Boston
 Boulder
 Carteret
+Chicago QTS
 Chicago
 Dublin
 Hong Kong
+London
 London
 Mumbai
 New York

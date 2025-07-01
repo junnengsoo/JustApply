@@ -1,4 +1,194 @@
 
+## 2025-07-01 07:30:48
+
+### [https://www.google.com/about/careers/applications/jobs/results/?src=Online%2FGoogle%20Website%2FByF&utm_source=Online%20&utm_medium=careers_site%20&utm_campaign=ByF&distance=50&employment_type=INTERN&company=Fitbit&company=Google&location=Singapore](https://www.google.com/about/careers/applications/jobs/results/?src=Online%2FGoogle%20Website%2FByF&utm_source=Online%20&utm_medium=careers_site%20&utm_campaign=ByF&distance=50&employment_type=INTERN&company=Fitbit&company=Google&location=Singapore)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -1,4 +1,5 @@
+ Search Jobs — Google Careers
++Careers
+ Careers
+ Careers
+ Skip navigation links
+@@ -218,5 +219,6 @@
+ help
+ Help
+ open_in_new
++Careers
+ Main menu
+ Google apps
+```
+
+---
+### [https://www.janestreet.com/join-jane-street/open-roles/?type=internship&location=singapore](https://www.janestreet.com/join-jane-street/open-roles/?type=internship&location=singapore)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -55,11 +55,13 @@
+ Our open roles are organized and presented with you in mind. Please start by selecting where you are in your career.
+ Experienced Candidates
+ Space to solve hard problems.
+-Jane Street is always looking for experienced hires to help us grow our capabilities.
++Jane Street is always looking for
++experienced hires to help us grow our capabilities.
+ View open roles
+ Students and New Grads
+ Exceptional opportunities.
+-Roles for new grads and interns are an investment in the future of Jane Street.
++Roles for new grads and interns are an
++investment in the future of Jane Street.
+ View open roles
+ Protect yourself from recruiting scams
+ Emails from Jane Street recruiters will always come from an email address ending in @janestreet.com or our
+```
+
+---
+### [https://www.hudsonrivertrading.com/careers/?locations=singapore%2C&job-category=software-engineeringc%2Csoftware-engineeringpython%2C&job-type=internship%2C](https://www.hudsonrivertrading.com/careers/?locations=singapore%2C&job-category=software-engineeringc%2Csoftware-engineeringpython%2C&job-type=internship%2C)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -226,9 +226,11 @@
+ Boston
+ Boulder
+ Carteret
++Chicago QTS
+ Chicago
+ Dublin
+ Hong Kong
++London
+ London
+ Mumbai
+ New York
+```
+
+---
+### [https://www.squarepoint-capital.com/open-opportunities?id=6212106](https://www.squarepoint-capital.com/open-opportunities?id=6212106)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -80,6 +80,8 @@
+ London, New York, Singapore, Boston, Paris, Zug, Geneva, Hong Kong, Bangalore
+ Junior Quant Researcher - ML Alpha Research
+ London, New York, Singapore, Boston, Paris, Zug, Geneva, Hong Kong, Bangalore
++Junior Risk Manager
++New York, London
+ Junior Shift Trader
+ Dubai, Singapore
+ Operational Risk Analyst
+@@ -91,7 +93,7 @@
+ Operations Intern
+ Montreal
+ Platform Applications Specialist
+-Montreal & Singapore
++Montreal, London & Singapore
+ Platform Compute and Storage Specialist
+ Montreal , New York & London
+ Platform Specialist - Databases
+```
+
+---
+### [https://opengovernmentproducts.recruitee.com/?jobs-c88dea0d%5Bcountry%5D%5B%5D=SG&jobs-c88dea0d%5Bcity%5D%5B%5D=Singapore&jobs-c88dea0d%5Btab%5D=Software%20Engineering](https://opengovernmentproducts.recruitee.com/?jobs-c88dea0d%5Bcountry%5D%5B%5D=SG&jobs-c88dea0d%5Bcity%5D%5B%5D=Singapore&jobs-c88dea0d%5Btab%5D=Software%20Engineering)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -43,7 +43,7 @@
+ Singapore
+ Singapore
+ Singapore
+-6 jobs
++5 jobs
+ Share
+ Clear
+ Filters
+@@ -51,7 +51,7 @@
+ Singapore
+ Singapore
+ Singapore
+-6 jobs
++5 jobs
+ Share
+ Clear
+ Job title
+@@ -66,9 +66,6 @@
+ Hybrid
+ View job
+ Senior Software Engineer, RedeemSG
+-Hybrid
+-View job
+-Senior Software Engineer, Transport
+ Hybrid
+ View job
+ Software Engineer / Senior Software Engineer, HealthTech
+@@ -86,9 +83,6 @@
+ Senior Software Engineer, RedeemSG
+ Hybrid
+ View job
+-Senior Software Engineer, Transport
+-Hybrid
+-View job
+ Software Engineer / Senior Software Engineer, HealthTech
+ Hybrid
+ View job
+```
+
+---
+### [https://careers.jpmorgan.com/us/en/students/programs?search=&tags=location__AsiaPacific__Singapore](https://careers.jpmorgan.com/us/en/students/programs?search=&tags=location__AsiaPacific__Singapore)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -1128,6 +1128,14 @@
+ To keep informed of when you can apply, please click
+ here.
+ Learn More
++Internship
++Payments Internship
++Spend the summer collaborating with industry leaders and researching and developing the strategic initiatives that promote economic efficiency and grow global business.
++Where you can work:
++Bahrain, Hong Kong SAR, China, India, Japan, Mainland China, Singapore, United Kingdom, United States of America
++Applications Not Open
++Applications Now Open
++Learn More
+ Full-Time
+ Design Development Program
+ Launch your career as a UI/UX professional, helping to develop useful and desirable products for our clients, customers and employees.
+@@ -1157,14 +1165,6 @@
+ Applications Now Open
+ To keep informed of when you can apply, please click
+ here.
+-Learn More
+-Internship
+-Payments Internship
+-Spend the summer collaborating with industry leaders and researching and developing the strategic initiatives that promote economic efficiency and grow global business.
+-Where you can work:
+-Bahrain, Hong Kong SAR, China, India, Japan, Mainland China, Singapore, United Kingdom, United States of America
+-Applications Not Open
+-Applications Now Open
+ Learn More
+ School Programs & Apprenticeships
+ Chase Customer Service Modern Apprenticeship
+```
+
+---
+
 ## 2025-06-30 07:30:40
 
 ### [https://optiver.com/working-at-optiver/career-opportunities/?_gl=1*x7c8ib*_up*MQ..*_ga*MTA5OTMxMjk3Mi4xNzQ1NjQxMDk2*_ga_YMLN3CLJVE*MTc0NTY0MTA5NS4xLjEuMTc0NTY0MTA5OC4wLjAuMA..&numberposts=10&paged=1&office=singapore&level=internship](https://optiver.com/working-at-optiver/career-opportunities/?_gl=1*x7c8ib*_up*MQ..*_ga*MTA5OTMxMjk3Mi4xNzQ1NjQxMDk2*_ga_YMLN3CLJVE*MTc0NTY0MTA5NS4xLjEuMTc0NTY0MTA5OC4wLjAuMA..&numberposts=10&paged=1&office=singapore&level=internship)
