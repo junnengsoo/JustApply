@@ -88,8 +88,6 @@ Operational Risk Analyst
 London
 Operations Analyst
 Warsaw
-Operations Analyst - Options
-Montreal
 Operations Intern
 Montreal
 Platform Applications Specialist
@@ -114,7 +112,9 @@ Platform Specialist - ULL
 London, New York
 Platform Specialist - Windows and Virtualization
 London, Montreal
-Platforms ULL - Colo - Strategic
+Platform ULL - Colo - Reliability
+London, United Kingdom, Montreal, QC, Canada, New York, NY, United States, Singapore
+Platform ULL - Colo - Strategic
 Montreal, London & New York
 Project Coordinator
 London, Bangalore
@@ -184,6 +184,8 @@ Support Analyst - Integration & Deployment Management
 London, Montreal
 Tax Analyst
 Bangalore
+Tax Analyst - Funds
+London
 Team Executive Assistant
 London
 Technical Business Analyst/Project Manager
@@ -197,7 +199,7 @@ London, Singapore, Houston, New York
 Trading Infrastructure Specialist
 London ,Montreal & Hong Kong
 Workday Integration Specialist
-Bangalore, Dubai
+Bangalore, Dubai, London
 Squarepoint logo
 About us
 Philosophy

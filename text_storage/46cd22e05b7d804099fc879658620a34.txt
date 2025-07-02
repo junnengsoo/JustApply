@@ -231,7 +231,6 @@ Chicago
 Dublin
 Hong Kong
 London
-London
 Mumbai
 New York
 Remote

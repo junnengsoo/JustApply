@@ -1,4 +1,312 @@
 
+## 2025-07-02 07:29:33
+
+### [https://optiver.com/working-at-optiver/career-opportunities/?_gl=1*x7c8ib*_up*MQ..*_ga*MTA5OTMxMjk3Mi4xNzQ1NjQxMDk2*_ga_YMLN3CLJVE*MTc0NTY0MTA5NS4xLjEuMTc0NTY0MTA5OC4wLjAuMA..&numberposts=10&paged=1&office=singapore&level=internship](https://optiver.com/working-at-optiver/career-opportunities/?_gl=1*x7c8ib*_up*MQ..*_ga*MTA5OTMxMjk3Mi4xNzQ1NjQxMDk2*_ga_YMLN3CLJVE*MTc0NTY0MTA5NS4xLjEuMTc0NTY0MTA5OC4wLjAuMA..&numberposts=10&paged=1&office=singapore&level=internship)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -52,6 +52,7 @@
+ All levels
+ Experienced
+ Internship
++Student and Graduate
+ Internship
+ All departments
+ Business Operations
+```
+
+---
+### [https://www.janestreet.com/join-jane-street/open-roles/?type=internship&location=singapore](https://www.janestreet.com/join-jane-street/open-roles/?type=internship&location=singapore)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -85,9 +85,9 @@
+ Internship
+ LOCATION
+ All Locations
+-London
+ New York
+ Hong Kong
++London
+ Singapore
+ Austin
+ Mumbai
+@@ -139,9 +139,9 @@
+ Internship
+ LOCATION
+ All Locations
+-London
+ New York
+ Hong Kong
++London
+ Singapore
+ Austin
+ Mumbai
+```
+
+---
+### [https://www.hudsonrivertrading.com/careers/?locations=singapore%2C&job-category=software-engineeringc%2Csoftware-engineeringpython%2C&job-type=internship%2C](https://www.hudsonrivertrading.com/careers/?locations=singapore%2C&job-category=software-engineeringc%2Csoftware-engineeringpython%2C&job-type=internship%2C)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -231,7 +231,6 @@
+ Dublin
+ Hong Kong
+ London
+-London
+ Mumbai
+ New York
+ Remote
+```
+
+---
+### [https://www.squarepoint-capital.com/open-opportunities?id=6212106](https://www.squarepoint-capital.com/open-opportunities?id=6212106)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -88,8 +88,6 @@
+ London
+ Operations Analyst
+ Warsaw
+-Operations Analyst - Options
+-Montreal
+ Operations Intern
+ Montreal
+ Platform Applications Specialist
+@@ -114,7 +112,9 @@
+ London, New York
+ Platform Specialist - Windows and Virtualization
+ London, Montreal
+-Platforms ULL - Colo - Strategic
++Platform ULL - Colo - Reliability
++London, United Kingdom, Montreal, QC, Canada, New York, NY, United States, Singapore
++Platform ULL - Colo - Strategic
+ Montreal, London & New York
+ Project Coordinator
+ London, Bangalore
+@@ -184,6 +184,8 @@
+ London, Montreal
+ Tax Analyst
+ Bangalore
++Tax Analyst - Funds
++London
+ Team Executive Assistant
+ London
+ Technical Business Analyst/Project Manager
+@@ -197,7 +199,7 @@
+ Trading Infrastructure Specialist
+ London ,Montreal & Hong Kong
+ Workday Integration Specialist
+-Bangalore, Dubai
++Bangalore, Dubai, London
+ Squarepoint logo
+ About us
+ Philosophy
+```
+
+---
+### [https://www.citadel.com/careers/open-opportunities?experience-filter=internships&loca tion-filter=singapore&selected-job-sections=388,389,387,390&current_page=1&sort_order=DESC&per_page=10&action=careers_listing_filter](https://www.citadel.com/careers/open-opportunities?experience-filter=internships&loca tion-filter=singapore&selected-job-sections=388,389,387,390&current_page=1&sort_order=DESC&per_page=10&action=careers_listing_filter)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -134,7 +134,7 @@
+ Open Opportunities
+ Open Opportunities
+ 1 filter applied
+-Opportunities (6)
++Opportunities (13)
+ Clear All Filters
+ Internships
+ Experience Level
+@@ -156,41 +156,61 @@
+ Houston
+ Miami
+ New York
++Europe
++Dublin
++London
++Paris
++Zurich
+ Asia-Pacific
+ Hong Kong
+ Singapore
+ Sydney
+ Tokyo
+-Europe
+-London
+-Paris
+ Clear Selection
+ Save
+ Newest
+ Newest
+ Oldest
+ Viewing
+-6
++10
+ of
+-6
++13
++Sector Data Analyst – 2026 Intern (Europe)
++London
++Apply Now
++Quantitative Research Engineer – PhD Intern (US)
++Miami, New York
++Apply Now
++Quantitative Researcher – PhD Intern (US)
++Greenwich, Miami, New York
++Apply Now
++Quantitative Researcher – PhD Intern (Europe)
++London, Paris, Zurich
++Apply Now
++Software Engineer – Intern (US)
++Chicago, Miami, New York
++Apply Now
++Quantitative Researcher – PhD Intern (Asia)
++Hong Kong, Singapore
++Apply Now
+ International Equities – 2026 Intern (Asia)
+ Hong Kong, Singapore
+ Apply Now
+-Quantitative Researcher – 2026 PhD Intern (Europe)
+-London, Paris
+-Apply Now
+-Sector Data Analyst – 2026 Intern (Europe)
+-London
+-Apply Now
+ International Equities Associate – Intern (Europe)
+ London
+ Apply Now
+-Quantitative Research Engineer – PhD Intern (US)
+-Miami, New York
+-Apply Now
+-Quantitative Researcher – PhD Intern (US)
++Investment & Trading – Intern (US)
+ Greenwich, Miami, New York
+ Apply Now
++Launch Intern – (US)
++Chicago, Miami, New York
++Apply Now
++1
++2
++Next
++1
++2
++Next
+ Filtering results
+ Explore Careers
+ by Team
+```
+
+---
+### [https://careers.jpmorgan.com/us/en/students/programs?search=&tags=location__AsiaPacific__Singapore](https://careers.jpmorgan.com/us/en/students/programs?search=&tags=location__AsiaPacific__Singapore)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -935,6 +935,8 @@
+ Hong Kong SAR, China, Singapore, France, Germany, United Kingdom
+ Applications Not Open
+ Applications Now Open
++To keep informed of when you can apply, please click
++here.
+ Learn More
+ Internship
+ Asia Analyst Development Program Internship
+@@ -1128,6 +1130,36 @@
+ To keep informed of when you can apply, please click
+ here.
+ Learn More
++Full-Time
++Design Development Program
++Launch your career as a UI/UX professional, helping to develop useful and desirable products for our clients, customers and employees.
++Where you can work:
++United Kingdom, United States of America
++Applications Not Open
++Applications Now Open
++To keep informed of when you can apply, please click
++here.
++Learn More
++Internship
++Design Development Program Internship
++Start your career in UI/UX research and design, collaborating on desirable products for our clients, customers and employees.
++Where you can work:
++United Kingdom, United States of America
++Applications Not Open
++Applications Now Open
++To keep informed of when you can apply, please click
++here.
++Learn More
++Full-Time
++Payments Full-time Analyst
++Join one of the largest providers of Treasury Management services in the U.S. and abroad, and help facilitate the essential transactions that drive economic progress.
++Where you can work:
++Hong Kong SAR, China, Japan, Singapore, United States of America
++Applications Not Open
++Applications Now Open
++To keep informed of when you can apply, please click
++here.
++Learn More
+ Internship
+ Payments Internship
+ Spend the summer collaborating with industry leaders and researching and developing the strategic initiatives that promote economic efficiency and grow global business.
+@@ -1135,36 +1167,6 @@
+ Bahrain, Hong Kong SAR, China, India, Japan, Mainland China, Singapore, United Kingdom, United States of America
+ Applications Not Open
+ Applications Now Open
+-Learn More
+-Full-Time
+-Design Development Program
+-Launch your career as a UI/UX professional, helping to develop useful and desirable products for our clients, customers and employees.
+-Where you can work:
+-United Kingdom, United States of America
+-Applications Not Open
+-Applications Now Open
+-To keep informed of when you can apply, please click
+-here.
+-Learn More
+-Internship
+-Design Development Program Internship
+-Start your career in UI/UX research and design, collaborating on desirable products for our clients, customers and employees.
+-Where you can work:
+-United Kingdom, United States of America
+-Applications Not Open
+-Applications Now Open
+-To keep informed of when you can apply, please click
+-here.
+-Learn More
+-Full-Time
+-Payments Full-time Analyst
+-Join one of the largest providers of Treasury Management services in the U.S. and abroad, and help facilitate the essential transactions that drive economic progress.
+-Where you can work:
+-Hong Kong SAR, China, Japan, Singapore, United States of America
+-Applications Not Open
+-Applications Now Open
+-To keep informed of when you can apply, please click
+-here.
+ Learn More
+ School Programs & Apprenticeships
+ Chase Customer Service Modern Apprenticeship
+```
+
+---
+
 ## 2025-07-01 07:30:48
 
 ### [https://www.google.com/about/careers/applications/jobs/results/?src=Online%2FGoogle%20Website%2FByF&utm_source=Online%20&utm_medium=careers_site%20&utm_campaign=ByF&distance=50&employment_type=INTERN&company=Fitbit&company=Google&location=Singapore](https://www.google.com/about/careers/applications/jobs/results/?src=Online%2FGoogle%20Website%2FByF&utm_source=Online%20&utm_medium=careers_site%20&utm_campaign=ByF&distance=50&employment_type=INTERN&company=Fitbit&company=Google&location=Singapore)
