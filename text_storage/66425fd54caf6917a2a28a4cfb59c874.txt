@@ -28,12 +28,12 @@ Warsaw
 Hong Kong
 Singapore
 New York
-Bangalore
 Dubai
+Bangalore
 Madrid
 Houston
-Geneva
 Paris
+Geneva
 Zug
 Boston
 Accountant
@@ -50,8 +50,6 @@ Business Analyst
 London
 Compliance Analyst - Discretionary Trading & Fundamental Research
 New York
-Compliance Analyst - Surveillance
-Bangalore
 Corporate Actions Analyst
 Warsaw
 Data Center Technician
@@ -68,8 +66,12 @@ Graduate Support Specialist
 London, Montreal, New York, Houston, Hong Kong
 HR Systems Analyst - Workday
 Bangalore, London, Singapore, Montreal, New York
+Human Resources Specialist
+London
 Information Security Analyst
 London
+Intern Quant Researcher
+London, Paris, New York, Singapore, Hong Kong
 Junior Commodities Fundamental Analyst
 Geneva, Houston, London, New York, Paris
 Junior Discretionary Trader

@@ -1,4 +1,292 @@
 
+## 2025-07-03 07:29:05
+
+### [https://www.janestreet.com/join-jane-street/open-roles/?type=internship&location=singapore](https://www.janestreet.com/join-jane-street/open-roles/?type=internship&location=singapore)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -85,9 +85,9 @@
+ Internship
+ LOCATION
+ All Locations
++London
++Hong Kong
+ New York
+-Hong Kong
+-London
+ Singapore
+ Austin
+ Mumbai
+@@ -139,9 +139,9 @@
+ Internship
+ LOCATION
+ All Locations
++London
++Hong Kong
+ New York
+-Hong Kong
+-London
+ Singapore
+ Austin
+ Mumbai
+```
+
+---
+### [https://www.hudsonrivertrading.com/careers/?locations=singapore%2C&job-category=software-engineeringc%2Csoftware-engineeringpython%2C&job-type=internship%2C](https://www.hudsonrivertrading.com/careers/?locations=singapore%2C&job-category=software-engineeringc%2Csoftware-engineeringpython%2C&job-type=internship%2C)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -226,7 +226,6 @@
+ Boston
+ Boulder
+ Carteret
+-Chicago QTS
+ Chicago
+ Dublin
+ Hong Kong
+```
+
+---
+### [https://www.squarepoint-capital.com/open-opportunities?id=6212106](https://www.squarepoint-capital.com/open-opportunities?id=6212106)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -28,12 +28,12 @@
+ Hong Kong
+ Singapore
+ New York
++Dubai
+ Bangalore
+-Dubai
+ Madrid
+ Houston
++Paris
+ Geneva
+-Paris
+ Zug
+ Boston
+ Accountant
+@@ -50,8 +50,6 @@
+ London
+ Compliance Analyst - Discretionary Trading & Fundamental Research
+ New York
+-Compliance Analyst - Surveillance
+-Bangalore
+ Corporate Actions Analyst
+ Warsaw
+ Data Center Technician
+@@ -68,8 +66,12 @@
+ London, Montreal, New York, Houston, Hong Kong
+ HR Systems Analyst - Workday
+ Bangalore, London, Singapore, Montreal, New York
++Human Resources Specialist
++London
+ Information Security Analyst
+ London
++Intern Quant Researcher
++London, Paris, New York, Singapore, Hong Kong
+ Junior Commodities Fundamental Analyst
+ Geneva, Houston, London, New York, Paris
+ Junior Discretionary Trader
+```
+
+---
+### [https://www.citadel.com/careers/open-opportunities?experience-filter=internships&loca tion-filter=singapore&selected-job-sections=388,389,387,390&current_page=1&sort_order=DESC&per_page=10&action=careers_listing_filter](https://www.citadel.com/careers/open-opportunities?experience-filter=internships&loca tion-filter=singapore&selected-job-sections=388,389,387,390&current_page=1&sort_order=DESC&per_page=10&action=careers_listing_filter)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -317,6 +317,10 @@
+ Disclosures
+ Copyright © Citadel Enterprise Americas LLC or one of its affiliates. All rights reserved.
+ Citadel is an equal opportunity employer. We provide all individuals consideration for employment and advancement opportunities without regard to race, religion, color, gender, pregnancy, national origin, age, disability, military or veteran status, sexual orientation, genetic information and any other classification protected by applicable federal, state and local laws.
++Our website uses essential cookies that are strictly necessary to enable our website to function.  We also use cookies and similar technologies to improve your online experience, to provide advertisements based on your browsing habits, and for analytical (or performance) purposes. For more information, see Manage My Preferences.
++Manage My Preferences
++Reject Non-Essential Cookies
++Accept All Cookies
+ Privacy Preference Center
+ When you visit any website, it may store or retrieve information on your browser, mostly in the form of cookies. This information might be about you, your preferences or your device and is mostly used to make the site work as you expect it to. The information does not usually directly identify you, but it can give you a more personalized web experience. Because we respect your right to privacy, you can choose not to allow some types of cookies. Click on the different category headings to find out more and change our default settings. You can also find out more about the specific cookies that are dropped by clicking ‘Cookie Details’.  However, blocking some types of cookies may impact your experience of the site and the services we are able to offer.
+ More information
+```
+
+---
+### [https://careers.jpmorgan.com/us/en/students/programs?search=&tags=location__AsiaPacific__Singapore](https://careers.jpmorgan.com/us/en/students/programs?search=&tags=location__AsiaPacific__Singapore)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -101,22 +101,6 @@
+ Treasury & Chief Investment Office
+ Compliance
+ Risk Management & Compliance
+-Commercial & Investment Bank
+-Commercial & Investment Bank
+-Credit Markets & Treasury Services
+-Public Finance
+-International Banking
+-Real Estate Banking
+-Investment Banking
+-Quantitative Research
+-Middle Market Banking
+-Markets
+-Payments
+-Commercial Term Lending
+-Community Development Banking
+-Corporate Banking
+-Corporate Client Banking
+-Securities Services
+ Consumer & Community Banking
+ Consumer & Community Banking
+ Auto Finance
+@@ -137,8 +121,6 @@
+ Asset & Wealth Management
+ Cross-firm Functions
+ Cross-firm Functions
+-Commercial & Investment Bank
+-Commercial & Investment Bank
+ Consumer & Community Banking
+ Consumer & Community Banking
+ Technology
+@@ -213,20 +195,6 @@
+ Treasury & Chief Investment Office
+ Compliance
+ Risk Management & Compliance
+-Credit Markets & Treasury Services
+-Public Finance
+-International Banking
+-Real Estate Banking
+-Investment Banking
+-Quantitative Research
+-Middle Market Banking
+-Markets
+-Payments
+-Commercial Term Lending
+-Community Development Banking
+-Corporate Banking
+-Corporate Client Banking
+-Securities Services
+ Auto Finance
+ Business Banking
+ Card Services
+@@ -299,20 +267,6 @@
+ Treasury & Chief Investment Office
+ Compliance
+ Risk Management & Compliance
+-Credit Markets & Treasury Services
+-Public Finance
+-International Banking
+-Real Estate Banking
+-Investment Banking
+-Quantitative Research
+-Middle Market Banking
+-Markets
+-Payments
+-Commercial Term Lending
+-Community Development Banking
+-Corporate Banking
+-Corporate Client Banking
+-Securities Services
+ Auto Finance
+ Business Banking
+ Card Services
+@@ -380,8 +334,6 @@
+ Hong Kong SAR, China, India, Ireland, Israel, Singapore, Switzerland, United Kingdom, United States of America, Mainland China
+ Applications Not Open
+ Applications Now Open
+-To keep informed of when you can apply, please click
+-here.
+ Learn More
+ Internship
+ Markets Internship
+@@ -552,8 +504,6 @@
+ France, Hong Kong SAR, China, Italy, Luxembourg, Singapore, Spain, Sweden, Switzerland, United Kingdom, United States of America
+ Applications Not Open
+ Applications Now Open
+-To keep informed of when you can apply, please click
+-here.
+ Learn More
+ Full-Time
+ Tech Connect
+@@ -572,8 +522,6 @@
+ United States of America, Australia, Canada, France, Germany, Hong Kong SAR, China, Italy, Japan, Russia, Singapore, South Africa, Spain, United Arab Emirates, United Kingdom
+ Applications Not Open
+ Applications Now Open
+-To keep informed of when you can apply, please click
+-here.
+ Learn More
+ Internship
+ Securities Services Leadership Program
+@@ -688,8 +636,6 @@
+ Japan, Hong Kong SAR, China, Singapore
+ Applications Not Open
+ Applications Now Open
+-To keep informed of when you can apply, please click
+-here.
+ Learn More
+ Internship
+ Investment Banking Seasonal Internship
+@@ -726,8 +672,6 @@
+ United States of America, Hong Kong SAR, China, Philippines, Singapore, United Kingdom, Poland, India
+ Applications Not Open
+ Applications Now Open
+-To keep informed of when you can apply, please click
+-here.
+ Learn More
+ Internship
+ Risk Management & Compliance
+@@ -832,8 +776,6 @@
+ United States of America
+ Applications Not Open
+ Applications Now Open
+-To keep informed of when you can apply, please click
+-here.
+ Learn More
+ Internship
+ Chase Associate Program Internship
+@@ -862,8 +804,6 @@
+ Hong Kong SAR, China, Mainland China, Singapore, Taiwan
+ Applications Not Open
+ Applications Now Open
+-To keep informed of when you can apply, please click
+-here.
+ Learn More
+ Internship
+ Investment Banking Associate Internship
+@@ -935,8 +875,6 @@
+ Hong Kong SAR, China, Singapore, France, Germany, United Kingdom
+ Applications Not Open
+ Applications Now Open
+-To keep informed of when you can apply, please click
+-here.
+ Learn More
+ Internship
+ Asia Analyst Development Program Internship
+@@ -1041,8 +979,6 @@
+ United States of America
+ Applications Not Open
+ Applications Now Open
+-To keep informed of when you can apply, please click
+-here.
+ Learn More
+ Full-Time
+ Operations Analyst Program
+```
+
+---
+
 ## 2025-07-02 07:29:33
 
 ### [https://optiver.com/working-at-optiver/career-opportunities/?_gl=1*x7c8ib*_up*MQ..*_ga*MTA5OTMxMjk3Mi4xNzQ1NjQxMDk2*_ga_YMLN3CLJVE*MTc0NTY0MTA5NS4xLjEuMTc0NTY0MTA5OC4wLjAuMA..&numberposts=10&paged=1&office=singapore&level=internship](https://optiver.com/working-at-optiver/career-opportunities/?_gl=1*x7c8ib*_up*MQ..*_ga*MTA5OTMxMjk3Mi4xNzQ1NjQxMDk2*_ga_YMLN3CLJVE*MTc0NTY0MTA5NS4xLjEuMTc0NTY0MTA5OC4wLjAuMA..&numberposts=10&paged=1&office=singapore&level=internship)
