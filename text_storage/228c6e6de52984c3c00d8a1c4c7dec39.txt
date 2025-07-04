@@ -398,8 +398,6 @@ Where you can work:
 Hong Kong SAR, China, India, Poland, Singapore, United Kingdom, United States of America
 Applications Not Open
 Applications Now Open
-To keep informed of when you can apply, please click
-here.
 Learn More
 School Programs & Apprenticeships
 Financial Services Apprenticeship
@@ -428,8 +426,6 @@ Where you can work:
 United States of America, United Kingdom
 Applications Not Open
 Applications Now Open
-To keep informed of when you can apply, please click
-here.
 Learn More
 Internship
 AI & Data Science Opportunities
@@ -756,8 +752,6 @@ Where you can work:
 Canada, Hong Kong SAR, China, Singapore, Taiwan, United Kingdom, United States of America
 Applications Not Open
 Applications Now Open
-To keep informed of when you can apply, please click
-here.
 Learn More
 Internship
 Global Private Bank Associate Internship
@@ -1093,8 +1087,6 @@ Where you can work:
 Hong Kong SAR, China, Japan, Singapore, United States of America
 Applications Not Open
 Applications Now Open
-To keep informed of when you can apply, please click
-here.
 Learn More
 Internship
 Payments Internship
@@ -1121,6 +1113,8 @@ Where you can work:
 Germany, Luxembourg, Poland, United States of America
 Applications Not Open
 Applications Now Open
+To keep informed of when you can apply, please click
+here.
 Learn More
 Internship
 Marketing Leadership Development Program Internship

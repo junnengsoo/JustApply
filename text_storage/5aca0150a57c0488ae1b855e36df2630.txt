@@ -299,8 +299,9 @@ Treasury
 Solutions
 Startups
 Enterprises
-SaaS
 Retail
+Nonprofits
+SaaS
 Platforms
 Ecommerce
 Marketplaces
