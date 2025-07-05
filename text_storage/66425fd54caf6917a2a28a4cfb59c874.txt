@@ -118,6 +118,8 @@ Platform ULL - Colo - Reliability
 London, United Kingdom, Montreal, QC, Canada, New York, NY, United States, Singapore
 Platform ULL - Colo - Strategic
 Montreal, London & New York
+Project Manager
+London
 Property Assistant
 New York
 Quant Developer
