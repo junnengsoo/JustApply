@@ -99,14 +99,3 @@ Community Standards
 Data Policy
 Terms
 Cookie Policy
-Close
-Meta Careers
-1. How likely or unlikely are you to apply for a role at Meta?
-Very unlikely
-Unlikely
-Neither likely nor unlikely
-Likely
-Very likely
-I’ve already applied
-Cancel
-Submit

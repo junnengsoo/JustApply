@@ -1,4 +1,103 @@
 
+## 2025-07-08 07:29:28
+
+### [https://www.janestreet.com/join-jane-street/open-roles/?type=internship&location=singapore](https://www.janestreet.com/join-jane-street/open-roles/?type=internship&location=singapore)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -85,8 +85,8 @@
+ Internship
+ LOCATION
+ All Locations
++New York
+ Hong Kong
+-New York
+ London
+ Singapore
+ Austin
+@@ -139,8 +139,8 @@
+ Internship
+ LOCATION
+ All Locations
++New York
+ Hong Kong
+-New York
+ London
+ Singapore
+ Austin
+```
+
+---
+### [https://www.metacareers.com/jobs?offices[0]=Singapore&roles[0]=Internship](https://www.metacareers.com/jobs?offices[0]=Singapore&roles[0]=Internship)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -99,14 +99,3 @@
+ Data Policy
+ Terms
+ Cookie Policy
+-Close
+-Meta Careers
+-1. How likely or unlikely are you to apply for a role at Meta?
+-Very unlikely
+-Unlikely
+-Neither likely nor unlikely
+-Likely
+-Very likely
+-I’ve already applied
+-Cancel
+-Submit
+```
+
+---
+### [https://www.citadel.com/careers/open-opportunities?experience-filter=internships&loca tion-filter=singapore&selected-job-sections=388,389,387,390&current_page=1&sort_order=DESC&per_page=10&action=careers_listing_filter](https://www.citadel.com/careers/open-opportunities?experience-filter=internships&loca tion-filter=singapore&selected-job-sections=388,389,387,390&current_page=1&sort_order=DESC&per_page=10&action=careers_listing_filter)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -134,7 +134,7 @@
+ Open Opportunities
+ Open Opportunities
+ 1 filter applied
+-Opportunities (13)
++Opportunities (12)
+ Clear All Filters
+ Internships
+ Experience Level
+@@ -174,10 +174,7 @@
+ Viewing
+ 10
+ of
+-13
+-Sector Data Analyst – 2026 Intern (Europe)
+-London
+-Apply Now
++12
+ Quantitative Research Engineer – PhD Intern (US)
+ Miami, New York
+ Apply Now
+@@ -204,6 +201,9 @@
+ Apply Now
+ Launch Intern – (US)
+ Chicago, Miami, New York
++Apply Now
++Quantitative Research Analyst Intern – BS/MS (US)
++Greenwich, Miami, New York
+ Apply Now
+ 1
+ 2
+```
+
+---
+
 ## 2025-07-07 07:30:31
 
 ### [https://optiver.com/working-at-optiver/career-opportunities/?_gl=1*x7c8ib*_up*MQ..*_ga*MTA5OTMxMjk3Mi4xNzQ1NjQxMDk2*_ga_YMLN3CLJVE*MTc0NTY0MTA5NS4xLjEuMTc0NTY0MTA5OC4wLjAuMA..&numberposts=10&paged=1&office=singapore&level=internship](https://optiver.com/working-at-optiver/career-opportunities/?_gl=1*x7c8ib*_up*MQ..*_ga*MTA5OTMxMjk3Mi4xNzQ1NjQxMDk2*_ga_YMLN3CLJVE*MTc0NTY0MTA5NS4xLjEuMTc0NTY0MTA5OC4wLjAuMA..&numberposts=10&paged=1&office=singapore&level=internship)
