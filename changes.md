@@ -1,4 +1,86 @@
 
+## 2025-07-09 07:29:57
+
+### [https://optiver.com/working-at-optiver/career-opportunities/?_gl=1*x7c8ib*_up*MQ..*_ga*MTA5OTMxMjk3Mi4xNzQ1NjQxMDk2*_ga_YMLN3CLJVE*MTc0NTY0MTA5NS4xLjEuMTc0NTY0MTA5OC4wLjAuMA..&numberposts=10&paged=1&office=singapore&level=internship](https://optiver.com/working-at-optiver/career-opportunities/?_gl=1*x7c8ib*_up*MQ..*_ga*MTA5OTMxMjk3Mi4xNzQ1NjQxMDk2*_ga_YMLN3CLJVE*MTc0NTY0MTA5NS4xLjEuMTc0NTY0MTA5OC4wLjAuMA..&numberposts=10&paged=1&office=singapore&level=internship)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -1,8 +1,4 @@
+ Make an Impact with Optiver Careers
+-i
+-Spot a fraudulent website or app impersonating Optiver? Report it
+-here.
+-This message will disappear as you scroll or click the close icon to hide it permanently.
+ About us
+ Working at Optiver
+ Institutional Sales
+```
+
+---
+### [https://www.janestreet.com/join-jane-street/open-roles/?type=internship&location=singapore](https://www.janestreet.com/join-jane-street/open-roles/?type=internship&location=singapore)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -85,9 +85,9 @@
+ Internship
+ LOCATION
+ All Locations
++London
+ New York
+ Hong Kong
+-London
+ Singapore
+ Austin
+ Mumbai
+@@ -139,9 +139,9 @@
+ Internship
+ LOCATION
+ All Locations
++London
+ New York
+ Hong Kong
+-London
+ Singapore
+ Austin
+ Mumbai
+```
+
+---
+### [https://www.squarepoint-capital.com/open-opportunities?id=6212106](https://www.squarepoint-capital.com/open-opportunities?id=6212106)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -68,8 +68,6 @@
+ Bangalore, London, Singapore, Montreal, New York
+ Human Resources Specialist
+ London
+-Information Security Analyst
+-London
+ Intern Quant Researcher
+ London, Paris, New York, Singapore, Hong Kong
+ Junior Commodities Fundamental Analyst
+@@ -86,6 +84,8 @@
+ New York, London
+ Junior Shift Trader
+ Dubai, Singapore
++Network Specialist
++Montreal, London, New York
+ Operational Risk Analyst
+ London
+ Operations Analyst
+```
+
+---
+
 ## 2025-07-08 07:29:28
 
 ### [https://www.janestreet.com/join-jane-street/open-roles/?type=internship&location=singapore](https://www.janestreet.com/join-jane-street/open-roles/?type=internship&location=singapore)

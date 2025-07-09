@@ -68,8 +68,6 @@ HR Systems Analyst - Workday
 Bangalore, London, Singapore, Montreal, New York
 Human Resources Specialist
 London
-Information Security Analyst
-London
 Intern Quant Researcher
 London, Paris, New York, Singapore, Hong Kong
 Junior Commodities Fundamental Analyst
@@ -86,6 +84,8 @@ Junior Risk Manager
 New York, London
 Junior Shift Trader
 Dubai, Singapore
+Network Specialist
+Montreal, London, New York
 Operational Risk Analyst
 London
 Operations Analyst
