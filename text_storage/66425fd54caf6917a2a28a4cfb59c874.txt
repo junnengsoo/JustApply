@@ -46,8 +46,6 @@ Assistant Controller - Management Company
 London, Montreal
 Assistant Tax Manager
 London
-Business Analyst
-London
 Compliance Analyst - Discretionary Trading & Fundamental Research
 New York
 Corporate Actions Analyst
@@ -118,8 +116,6 @@ Platform ULL - Colo - Reliability
 London, United Kingdom, Montreal, QC, Canada, New York, NY, United States, Singapore
 Platform ULL - Colo - Strategic
 Montreal, London & New York
-Project Manager
-London
 Property Assistant
 New York
 Quant Developer

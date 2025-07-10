@@ -1,4 +1,134 @@
 
+## 2025-07-10 07:30:17
+
+### [https://www.janestreet.com/join-jane-street/open-roles/?type=internship&location=singapore](https://www.janestreet.com/join-jane-street/open-roles/?type=internship&location=singapore)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -85,9 +85,9 @@
+ Internship
+ LOCATION
+ All Locations
+-London
+ New York
+ Hong Kong
++London
+ Singapore
+ Austin
+ Mumbai
+@@ -139,9 +139,9 @@
+ Internship
+ LOCATION
+ All Locations
+-London
+ New York
+ Hong Kong
++London
+ Singapore
+ Austin
+ Mumbai
+```
+
+---
+### [https://www.squarepoint-capital.com/open-opportunities?id=6212106](https://www.squarepoint-capital.com/open-opportunities?id=6212106)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -46,8 +46,6 @@
+ London, Montreal
+ Assistant Tax Manager
+ London
+-Business Analyst
+-London
+ Compliance Analyst - Discretionary Trading & Fundamental Research
+ New York
+ Corporate Actions Analyst
+@@ -118,8 +116,6 @@
+ London, United Kingdom, Montreal, QC, Canada, New York, NY, United States, Singapore
+ Platform ULL - Colo - Strategic
+ Montreal, London & New York
+-Project Manager
+-London
+ Property Assistant
+ New York
+ Quant Developer
+```
+
+---
+### [https://www.citadel.com/careers/open-opportunities?experience-filter=internships&loca tion-filter=singapore&selected-job-sections=388,389,387,390&current_page=1&sort_order=DESC&per_page=10&action=careers_listing_filter](https://www.citadel.com/careers/open-opportunities?experience-filter=internships&loca tion-filter=singapore&selected-job-sections=388,389,387,390&current_page=1&sort_order=DESC&per_page=10&action=careers_listing_filter)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -190,9 +190,6 @@
+ Quantitative Researcher – PhD Intern (Asia)
+ Hong Kong, Singapore
+ Apply Now
+-International Equities – 2026 Intern (Asia)
+-Hong Kong, Singapore
+-Apply Now
+ International Equities Associate – Intern (Europe)
+ London
+ Apply Now
+@@ -204,6 +201,9 @@
+ Apply Now
+ Quantitative Research Analyst Intern – BS/MS (US)
+ Greenwich, Miami, New York
++Apply Now
++Quantitative Research Analyst Intern – BS/MS (Asia)
++Hong Kong, Singapore
+ Apply Now
+ 1
+ 2
+```
+
+---
+### [https://opengovernmentproducts.recruitee.com/?jobs-c88dea0d%5Bcountry%5D%5B%5D=SG&jobs-c88dea0d%5Bcity%5D%5B%5D=Singapore&jobs-c88dea0d%5Btab%5D=Software%20Engineering](https://opengovernmentproducts.recruitee.com/?jobs-c88dea0d%5Bcountry%5D%5B%5D=SG&jobs-c88dea0d%5Bcity%5D%5B%5D=Singapore&jobs-c88dea0d%5Btab%5D=Software%20Engineering)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -31,6 +31,7 @@
+ Work on meaningful projects from healthcare to anti-scam technology. Use your skills to fix actual problems in the community and build a better Singapore.
+ Open positions
+ All departments
++Corporate
+ Internship
+ Policy
+ Product Design
+```
+
+---
+### [https://careers.jpmorgan.com/us/en/students/programs?search=&tags=location__AsiaPacific__Singapore](https://careers.jpmorgan.com/us/en/students/programs?search=&tags=location__AsiaPacific__Singapore)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -750,6 +750,8 @@
+ Canada, Hong Kong SAR, China, Singapore, Taiwan, United Kingdom, United States of America
+ Applications Not Open
+ Applications Now Open
++To keep informed of when you can apply, please click
++here.
+ Learn More
+ Internship
+ Global Private Bank Associate Internship
+```
+
+---
+
 ## 2025-07-09 07:29:57
 
 ### [https://optiver.com/working-at-optiver/career-opportunities/?_gl=1*x7c8ib*_up*MQ..*_ga*MTA5OTMxMjk3Mi4xNzQ1NjQxMDk2*_ga_YMLN3CLJVE*MTc0NTY0MTA5NS4xLjEuMTc0NTY0MTA5OC4wLjAuMA..&numberposts=10&paged=1&office=singapore&level=internship](https://optiver.com/working-at-optiver/career-opportunities/?_gl=1*x7c8ib*_up*MQ..*_ga*MTA5OTMxMjk3Mi4xNzQ1NjQxMDk2*_ga_YMLN3CLJVE*MTc0NTY0MTA5NS4xLjEuMTc0NTY0MTA5OC4wLjAuMA..&numberposts=10&paged=1&office=singapore&level=internship)
