@@ -1,4 +1,163 @@
 
+## 2025-07-11 07:31:03
+
+### [https://stripe.com/jobs/search?office_locations=Asia+Pacific--Singapore&tags=University](https://stripe.com/jobs/search?office_locations=Asia+Pacific--Singapore&tags=University)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -76,9 +76,10 @@
+ Atlanta
+ Chicago
+ New York
+-San Francisco Bridge HQ
++New York Privy HQ
+ Seattle
+ South San Francisco HQ
++San Francisco Bridge HQ
+ Washington DC
+ Toronto
+ Mexico City
+```
+
+---
+### [https://www.google.com/about/careers/applications/jobs/results/?src=Online%2FGoogle%20Website%2FByF&utm_source=Online%20&utm_medium=careers_site%20&utm_campaign=ByF&distance=50&employment_type=INTERN&company=Fitbit&company=Google&location=Singapore](https://www.google.com/about/careers/applications/jobs/results/?src=Online%2FGoogle%20Website%2FByF&utm_source=Online%20&utm_medium=careers_site%20&utm_campaign=ByF&distance=50&employment_type=INTERN&company=Fitbit&company=Google&location=Singapore)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -132,6 +132,7 @@
+ open_in_new
+ Terms
+ open_in_new
++Manage cookies
+ help
+ Help
+ open_in_new
+@@ -178,6 +179,7 @@
+ open_in_new
+ Terms
+ open_in_new
++Manage cookies
+ help
+ Help
+ open_in_new
+@@ -216,6 +218,7 @@
+ open_in_new
+ Terms
+ open_in_new
++Manage cookies
+ help
+ Help
+ open_in_new
+```
+
+---
+### [https://www.janestreet.com/join-jane-street/open-roles/?type=internship&location=singapore](https://www.janestreet.com/join-jane-street/open-roles/?type=internship&location=singapore)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -85,9 +85,9 @@
+ Internship
+ LOCATION
+ All Locations
+-New York
+ Hong Kong
+ London
++New York
+ Singapore
+ Austin
+ Mumbai
+@@ -139,9 +139,9 @@
+ Internship
+ LOCATION
+ All Locations
+-New York
+ Hong Kong
+ London
++New York
+ Singapore
+ Austin
+ Mumbai
+```
+
+---
+### [https://www.squarepoint-capital.com/open-opportunities?id=6212106](https://www.squarepoint-capital.com/open-opportunities?id=6212106)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -86,8 +86,6 @@
+ Montreal, London, New York
+ Operational Risk Analyst
+ London
+-Operations Analyst
+-Warsaw
+ Operations Intern
+ Montreal
+ Platform Applications Specialist
+```
+
+---
+### [https://www.citadel.com/careers/open-opportunities?experience-filter=internships&loca tion-filter=singapore&selected-job-sections=388,389,387,390&current_page=1&sort_order=DESC&per_page=10&action=careers_listing_filter](https://www.citadel.com/careers/open-opportunities?experience-filter=internships&loca tion-filter=singapore&selected-job-sections=388,389,387,390&current_page=1&sort_order=DESC&per_page=10&action=careers_listing_filter)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -175,23 +175,23 @@
+ 10
+ of
+ 12
++Quantitative Researcher – PhD Intern (US)
++Greenwich, Miami, New York
++Apply Now
++Quantitative Researcher – PhD Intern (Europe)
++London, Paris, Zurich
++Apply Now
++Software Engineer – Intern (US)
++Chicago, Miami, New York
++Apply Now
++Quantitative Researcher – PhD Intern (Asia)
++Hong Kong, Singapore
++Apply Now
++International Equities Associate – Intern (Europe)
++London
++Apply Now
+ Quantitative Research Engineer – PhD Intern (US)
+ Miami, New York
+-Apply Now
+-Quantitative Researcher – PhD Intern (US)
+-Greenwich, Miami, New York
+-Apply Now
+-Quantitative Researcher – PhD Intern (Europe)
+-London, Paris, Zurich
+-Apply Now
+-Software Engineer – Intern (US)
+-Chicago, Miami, New York
+-Apply Now
+-Quantitative Researcher – PhD Intern (Asia)
+-Hong Kong, Singapore
+-Apply Now
+-International Equities Associate – Intern (Europe)
+-London
+ Apply Now
+ Investment & Trading – Intern (US)
+ Greenwich, Miami, New York
+```
+
+---
+
 ## 2025-07-10 07:30:17
 
 ### [https://www.janestreet.com/join-jane-street/open-roles/?type=internship&location=singapore](https://www.janestreet.com/join-jane-street/open-roles/?type=internship&location=singapore)

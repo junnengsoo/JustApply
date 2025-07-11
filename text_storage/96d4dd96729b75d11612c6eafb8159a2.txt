@@ -132,6 +132,7 @@ Applicant & Candidate Privacy
 open_in_new
 Terms
 open_in_new
+Manage cookies
 help
 Help
 open_in_new
@@ -178,6 +179,7 @@ Applicant & Candidate Privacy
 open_in_new
 Terms
 open_in_new
+Manage cookies
 help
 Help
 open_in_new
@@ -216,6 +218,7 @@ Applicant & Candidate Privacy
 open_in_new
 Terms
 open_in_new
+Manage cookies
 help
 Help
 open_in_new

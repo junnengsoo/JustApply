@@ -76,9 +76,10 @@ North America
 Atlanta
 Chicago
 New York
-San Francisco Bridge HQ
+New York Privy HQ
 Seattle
 South San Francisco HQ
+San Francisco Bridge HQ
 Washington DC
 Toronto
 Mexico City
