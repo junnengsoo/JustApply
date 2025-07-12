@@ -15,6 +15,7 @@ Executive Assistance
 Finance
 Human Resources
 Investment
+Legal
 Office Acquisition and Development
 Operations
 Recruiting & Talent Development
@@ -59,10 +60,10 @@ London, Madrid, Montreal, Bangalore, Singapore, Hong Kong, Warsaw
 Financial Reporting Manager
 London, New York
 Graduate Software Developer
-London, Montreal, Warsaw, New York
+London, Montreal, Warsaw, New York, Singapore
 Graduate Support Specialist
 London, Montreal, New York, Houston, Hong Kong
-HR Systems Analyst - Workday
+HR Systems Associate - Workday
 Bangalore, London, Singapore, Montreal, New York
 Human Resources Specialist
 London
@@ -82,6 +83,8 @@ Junior Risk Manager
 New York, London
 Junior Shift Trader
 Dubai, Singapore
+Legal Counsel - Employement (FTC)
+London
 Network Specialist
 Montreal, London, New York
 Operational Risk Analyst
@@ -117,7 +120,7 @@ Montreal, London & New York
 Property Assistant
 New York
 Quant Developer
-London, Montreal, Warsaw
+London, Montreal, Warsaw, Singapore
 Quant Developer (C++)
 Singapore, London, New York
 Quant Developer (Python)
@@ -147,7 +150,7 @@ Bangalore, Dubai, Geneva, Hong Kong, Houston, London, Madrid, Montreal, New York
 Site Management Specialist
 London
 Software Developer (C++)
-London, Montreal
+London, Montreal, Singapore
 Software Developer - Data Infrastructure
 London, Montreal, Singapore, Warsaw
 Software Developer - Data Pipelines (Python)
@@ -161,13 +164,13 @@ London, Montreal, Singapore, Warsaw
 Software Developer – Internal Compute Frameworks (Rust)
 London, Montreal, Singapore, Warsaw
 Software Developer (KDB+/Q)
-London, Montreal
+London, Montreal, Singapore
 Software Developer - Order Gateway
 London , Montreal , Singapore, Bangalore & Warsaw
 Software Developer - Order Gateway Integration
 Singapore
 Software Developer (Python)
-London, Montreal
+London, Montreal, Singapore
 Software Developer – Reliability
 Singapore & Montreal
 Software Developer - Risk Data Pipelines

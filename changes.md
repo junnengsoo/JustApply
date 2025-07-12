@@ -1,4 +1,128 @@
 
+## 2025-07-12 07:27:46
+
+### [https://optiver.com/working-at-optiver/career-opportunities/?_gl=1*x7c8ib*_up*MQ..*_ga*MTA5OTMxMjk3Mi4xNzQ1NjQxMDk2*_ga_YMLN3CLJVE*MTc0NTY0MTA5NS4xLjEuMTc0NTY0MTA5OC4wLjAuMA..&numberposts=10&paged=1&office=singapore&level=internship](https://optiver.com/working-at-optiver/career-opportunities/?_gl=1*x7c8ib*_up*MQ..*_ga*MTA5OTMxMjk3Mi4xNzQ1NjQxMDk2*_ga_YMLN3CLJVE*MTc0NTY0MTA5NS4xLjEuMTc0NTY0MTA5OC4wLjAuMA..&numberposts=10&paged=1&office=singapore&level=internship)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -168,19 +168,6 @@
+ Heading
+ Close
+ Hier de html
+-×
+-Notice
+-We   and selected third parties   use cookies or similar technologies for technical purposes and, with your consent, for
+-experience, measurement and “marketing (personalized ads)”
+-as specified in the
+-cookie policy
+-.
+-You can freely give, deny, or withdraw your consent at any time by accessing the preferences panel.  Denying consent may make related features unavailable.
+-Use the “Accept” button to consent. Use the “Reject” button to continue without accepting.
+-Press again to continue 0/2
+-Learn more and customize
+-Reject
+-Accept
+ Notifications
+ Close
+ Newsletter sign-up
+@@ -224,3 +211,16 @@
+ to see how we protect and manage your submitted personal data.
+ I agree to receive communications from Optiver about news, blog posts and Insights articles.
+ *
++×
++Notice
++We   and selected third parties   use cookies or similar technologies for technical purposes and, with your consent, for
++experience, measurement and “marketing (personalized ads)”
++as specified in the
++cookie policy
++.
++You can freely give, deny, or withdraw your consent at any time by accessing the preferences panel.  Denying consent may make related features unavailable.
++Use the “Accept” button to consent. Use the “Reject” button to continue without accepting.
++Press again to continue 0/2
++Learn more and customize
++Reject
++Accept
+```
+
+---
+### [https://www.squarepoint-capital.com/open-opportunities?id=6212106](https://www.squarepoint-capital.com/open-opportunities?id=6212106)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -15,6 +15,7 @@
+ Finance
+ Human Resources
+ Investment
++Legal
+ Office Acquisition and Development
+ Operations
+ Recruiting & Talent Development
+@@ -59,10 +60,10 @@
+ Financial Reporting Manager
+ London, New York
+ Graduate Software Developer
+-London, Montreal, Warsaw, New York
++London, Montreal, Warsaw, New York, Singapore
+ Graduate Support Specialist
+ London, Montreal, New York, Houston, Hong Kong
+-HR Systems Analyst - Workday
++HR Systems Associate - Workday
+ Bangalore, London, Singapore, Montreal, New York
+ Human Resources Specialist
+ London
+@@ -82,6 +83,8 @@
+ New York, London
+ Junior Shift Trader
+ Dubai, Singapore
++Legal Counsel - Employement (FTC)
++London
+ Network Specialist
+ Montreal, London, New York
+ Operational Risk Analyst
+@@ -117,7 +120,7 @@
+ Property Assistant
+ New York
+ Quant Developer
+-London, Montreal, Warsaw
++London, Montreal, Warsaw, Singapore
+ Quant Developer (C++)
+ Singapore, London, New York
+ Quant Developer (Python)
+@@ -147,7 +150,7 @@
+ Site Management Specialist
+ London
+ Software Developer (C++)
+-London, Montreal
++London, Montreal, Singapore
+ Software Developer - Data Infrastructure
+ London, Montreal, Singapore, Warsaw
+ Software Developer - Data Pipelines (Python)
+@@ -161,13 +164,13 @@
+ Software Developer – Internal Compute Frameworks (Rust)
+ London, Montreal, Singapore, Warsaw
+ Software Developer (KDB+/Q)
+-London, Montreal
++London, Montreal, Singapore
+ Software Developer - Order Gateway
+ London , Montreal , Singapore, Bangalore & Warsaw
+ Software Developer - Order Gateway Integration
+ Singapore
+ Software Developer (Python)
+-London, Montreal
++London, Montreal, Singapore
+ Software Developer – Reliability
+ Singapore & Montreal
+ Software Developer - Risk Data Pipelines
+```
+
+---
+
 ## 2025-07-11 07:31:03
 
 ### [https://stripe.com/jobs/search?office_locations=Asia+Pacific--Singapore&tags=University](https://stripe.com/jobs/search?office_locations=Asia+Pacific--Singapore&tags=University)

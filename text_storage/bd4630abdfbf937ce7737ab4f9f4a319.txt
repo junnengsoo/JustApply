@@ -168,19 +168,6 @@ Notices
 Heading
 Close
 Hier de html
-×
-Notice
-We   and selected third parties   use cookies or similar technologies for technical purposes and, with your consent, for
-experience, measurement and “marketing (personalized ads)”
-as specified in the
-cookie policy
-.
-You can freely give, deny, or withdraw your consent at any time by accessing the preferences panel.  Denying consent may make related features unavailable.
-Use the “Accept” button to consent. Use the “Reject” button to continue without accepting.
-Press again to continue 0/2
-Learn more and customize
-Reject
-Accept
 Notifications
 Close
 Newsletter sign-up
@@ -224,3 +211,16 @@ privacy policy
 to see how we protect and manage your submitted personal data.
 I agree to receive communications from Optiver about news, blog posts and Insights articles.
 *
+×
+Notice
+We   and selected third parties   use cookies or similar technologies for technical purposes and, with your consent, for
+experience, measurement and “marketing (personalized ads)”
+as specified in the
+cookie policy
+.
+You can freely give, deny, or withdraw your consent at any time by accessing the preferences panel.  Denying consent may make related features unavailable.
+Use the “Accept” button to consent. Use the “Reject” button to continue without accepting.
+Press again to continue 0/2
+Learn more and customize
+Reject
+Accept
