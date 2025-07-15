@@ -60,6 +60,9 @@ Work model
 Senior / Lead Software Engineer, FindX
 Hybrid
 View job
+Senior / Lead Software Engineer, HealthTech
+Hybrid
+View job
 Senior / Lead Software Engineer, Maps
 Hybrid
 View job
@@ -67,14 +70,14 @@ Senior / Lead Software Engineer, Traffic Enforcement
 Hybrid
 View job
 Senior Software Engineer, RedeemSG
-Hybrid
-View job
-Software Engineer / Senior Software Engineer, HealthTech
 Hybrid
 View job
 Senior / Lead Software Engineer, FindX
 Hybrid
 View job
+Senior / Lead Software Engineer, HealthTech
+Hybrid
+View job
 Senior / Lead Software Engineer, Maps
 Hybrid
 View job
@@ -82,8 +85,5 @@ Senior / Lead Software Engineer, Traffic Enforcement
 Hybrid
 View job
 Senior Software Engineer, RedeemSG
-Hybrid
-View job
-Software Engineer / Senior Software Engineer, HealthTech
 Hybrid
 View job

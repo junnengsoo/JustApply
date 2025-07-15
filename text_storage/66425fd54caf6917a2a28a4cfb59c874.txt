@@ -85,8 +85,12 @@ Junior Shift Trader
 Dubai, Singapore
 Legal Counsel - Employement (FTC)
 London
-Network Specialist
+Network Specialist - Core
 Montreal, London, New York
+Network Specialist - Reliability
+Montreal & New York
+Network Specialist - Security
+Montreal, New York & Singapore
 Operational Risk Analyst
 London
 Operations Intern
@@ -114,7 +118,7 @@ London, New York
 Platform Specialist - Windows and Virtualization
 London, Montreal
 Platform ULL - Colo - Reliability
-London, United Kingdom, Montreal, QC, Canada, New York, NY, United States, Singapore
+London, Montreal, New York & Singapore
 Platform ULL - Colo - Strategic
 Montreal, London & New York
 Property Assistant
