@@ -1,4 +1,196 @@
 
+## 2025-07-16 07:30:54
+
+### [https://optiver.com/working-at-optiver/career-opportunities/?_gl=1*x7c8ib*_up*MQ..*_ga*MTA5OTMxMjk3Mi4xNzQ1NjQxMDk2*_ga_YMLN3CLJVE*MTc0NTY0MTA5NS4xLjEuMTc0NTY0MTA5OC4wLjAuMA..&numberposts=10&paged=1&office=singapore&level=internship](https://optiver.com/working-at-optiver/career-opportunities/?_gl=1*x7c8ib*_up*MQ..*_ga*MTA5OTMxMjk3Mi4xNzQ1NjQxMDk2*_ga_YMLN3CLJVE*MTc0NTY0MTA5NS4xLjEuMTc0NTY0MTA5OC4wLjAuMA..&numberposts=10&paged=1&office=singapore&level=internship)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -68,7 +68,6 @@
+ Singapore
+ Sydney
+ Taipei
+-United States
+ Singapore
+ Sorry, no results available.
+ Internship
+```
+
+---
+### [https://stripe.com/jobs/search?office_locations=Asia+Pacific--Singapore&tags=University](https://stripe.com/jobs/search?office_locations=Asia+Pacific--Singapore&tags=University)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -148,6 +148,7 @@
+ Opens the multi-select filter menu
+ Tags (1)
+ Bridge
++Privy
+ University
+ No open roles match your search. Try removing filters or changing your search terms.
+ Clear all filters
+```
+
+---
+### [https://www.janestreet.com/join-jane-street/open-roles/?type=internship&location=singapore](https://www.janestreet.com/join-jane-street/open-roles/?type=internship&location=singapore)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -85,9 +85,9 @@
+ Internship
+ LOCATION
+ All Locations
++London
+ New York
+ Hong Kong
+-London
+ Singapore
+ Austin
+ Mumbai
+@@ -139,9 +139,9 @@
+ Internship
+ LOCATION
+ All Locations
++London
+ New York
+ Hong Kong
+-London
+ Singapore
+ Austin
+ Mumbai
+```
+
+---
+### [https://www.citadel.com/careers/open-opportunities?experience-filter=internships&loca tion-filter=singapore&selected-job-sections=388,389,387,390&current_page=1&sort_order=DESC&per_page=10&action=careers_listing_filter](https://www.citadel.com/careers/open-opportunities?experience-filter=internships&loca tion-filter=singapore&selected-job-sections=388,389,387,390&current_page=1&sort_order=DESC&per_page=10&action=careers_listing_filter)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -134,7 +134,7 @@
+ Open Opportunities
+ Open Opportunities
+ 1 filter applied
+-Opportunities (12)
++Opportunities (15)
+ Clear All Filters
+ Internships
+ Experience Level
+@@ -174,7 +174,7 @@
+ Viewing
+ 10
+ of
+-12
++15
+ Quantitative Researcher – PhD Intern (US)
+ Greenwich, Miami, New York
+ Apply Now
+@@ -187,6 +187,12 @@
+ Quantitative Researcher – PhD Intern (Asia)
+ Hong Kong, Singapore
+ Apply Now
++Site Reliability Engineer – Intern (Asia)
++Singapore
++Apply Now
++Software Engineer – Intern (Asia)
++Singapore
++Apply Now
+ International Equities Associate – Intern (Europe)
+ London
+ Apply Now
+@@ -198,12 +204,6 @@
+ Apply Now
+ Launch Intern – (US)
+ Chicago, Miami, New York
+-Apply Now
+-Quantitative Research Analyst Intern – BS/MS (US)
+-Greenwich, Miami, New York
+-Apply Now
+-Quantitative Research Analyst Intern – BS/MS (Asia)
+-Hong Kong, Singapore
+ Apply Now
+ 1
+ 2
+```
+
+---
+### [https://opengovernmentproducts.recruitee.com/?jobs-c88dea0d%5Bcountry%5D%5B%5D=SG&jobs-c88dea0d%5Bcity%5D%5B%5D=Singapore&jobs-c88dea0d%5Btab%5D=Software%20Engineering](https://opengovernmentproducts.recruitee.com/?jobs-c88dea0d%5Bcountry%5D%5B%5D=SG&jobs-c88dea0d%5Bcity%5D%5B%5D=Singapore&jobs-c88dea0d%5Btab%5D=Software%20Engineering)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -44,7 +44,7 @@
+ Singapore
+ Singapore
+ Singapore
+-5 jobs
++6 jobs
+ Share
+ Clear
+ Filters
+@@ -52,7 +52,7 @@
+ Singapore
+ Singapore
+ Singapore
+-5 jobs
++6 jobs
+ Share
+ Clear
+ Job title
+@@ -67,6 +67,9 @@
+ Hybrid
+ View job
+ Senior / Lead Software Engineer, Traffic Enforcement
++Hybrid
++View job
++Senior Software Engineer, DGS
+ Hybrid
+ View job
+ Senior Software Engineer, RedeemSG
+@@ -84,6 +87,9 @@
+ Senior / Lead Software Engineer, Traffic Enforcement
+ Hybrid
+ View job
++Senior Software Engineer, DGS
++Hybrid
++View job
+ Senior Software Engineer, RedeemSG
+ Hybrid
+ View job
+```
+
+---
+### [https://careers.jpmorgan.com/us/en/students/programs?search=&tags=location__AsiaPacific__Singapore](https://careers.jpmorgan.com/us/en/students/programs?search=&tags=location__AsiaPacific__Singapore)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -748,8 +748,6 @@
+ Canada, Hong Kong SAR, China, Singapore, Taiwan, United Kingdom, United States of America
+ Applications Not Open
+ Applications Now Open
+-To keep informed of when you can apply, please click
+-here.
+ Learn More
+ Internship
+ Global Private Bank Associate Internship
+```
+
+---
+
 ## 2025-07-15 07:31:48
 
 ### [https://optiver.com/working-at-optiver/career-opportunities/?_gl=1*x7c8ib*_up*MQ..*_ga*MTA5OTMxMjk3Mi4xNzQ1NjQxMDk2*_ga_YMLN3CLJVE*MTc0NTY0MTA5NS4xLjEuMTc0NTY0MTA5OC4wLjAuMA..&numberposts=10&paged=1&office=singapore&level=internship](https://optiver.com/working-at-optiver/career-opportunities/?_gl=1*x7c8ib*_up*MQ..*_ga*MTA5OTMxMjk3Mi4xNzQ1NjQxMDk2*_ga_YMLN3CLJVE*MTc0NTY0MTA5NS4xLjEuMTc0NTY0MTA5OC4wLjAuMA..&numberposts=10&paged=1&office=singapore&level=internship)
