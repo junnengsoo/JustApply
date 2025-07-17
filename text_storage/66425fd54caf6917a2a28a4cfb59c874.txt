@@ -83,7 +83,7 @@ Junior Risk Manager
 New York, London
 Junior Shift Trader
 Dubai, Singapore
-Legal Counsel - Employement (FTC)
+Legal Counsel - Employment (FTC)
 London
 Network Specialist - Core
 Montreal, London, New York
@@ -130,8 +130,6 @@ Singapore, London, New York
 Quant Developer (Python)
 Boston, Dubai, London, Montreal, Warsaw
 Quantitative Researcher – FICC Modeling
-New York
-Quantitative Researcher – Market Structure Research
 New York
 Recruitment Intern (Fall 2025)
 Montreal

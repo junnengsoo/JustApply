@@ -1,4 +1,127 @@
 
+## 2025-07-17 07:31:12
+
+### [https://stripe.com/jobs/search?office_locations=Asia+Pacific--Singapore&tags=University](https://stripe.com/jobs/search?office_locations=Asia+Pacific--Singapore&tags=University)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -347,3 +347,10 @@
+ +1 888 926 2289
+ Sign in
+ © 2025 Stripe, Inc.
++We use cookies to improve your experience and for marketing. Read our
++cookie policy
++or
++manage cookies
++.
++Accept all
++Reject all
+```
+
+---
+### [https://jobs.apple.com/en-us/search?location=singapore-SGP&team=internships-STDNT-INTRN](https://jobs.apple.com/en-us/search?location=singapore-SGP&team=internships-STDNT-INTRN)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -225,12 +225,6 @@
+ Apple Account and Password
+ Billing & Subscriptions
+ Accessibility
+-Quick Links
+-Find a Store
+-Apple Vision Pro
+-AirPods
+-Apple Intelligence
+-Apple Trade In
+ 0
+ +
+ Please enable Javascript in your browser for best experience.
+```
+
+---
+### [https://www.squarepoint-capital.com/open-opportunities?id=6212106](https://www.squarepoint-capital.com/open-opportunities?id=6212106)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -83,7 +83,7 @@
+ New York, London
+ Junior Shift Trader
+ Dubai, Singapore
+-Legal Counsel - Employement (FTC)
++Legal Counsel - Employment (FTC)
+ London
+ Network Specialist - Core
+ Montreal, London, New York
+@@ -130,8 +130,6 @@
+ Quant Developer (Python)
+ Boston, Dubai, London, Montreal, Warsaw
+ Quantitative Researcher – FICC Modeling
+-New York
+-Quantitative Researcher – Market Structure Research
+ New York
+ Recruitment Intern (Fall 2025)
+ Montreal
+```
+
+---
+### [https://www.citadel.com/careers/open-opportunities?experience-filter=internships&loca tion-filter=singapore&selected-job-sections=388,389,387,390&current_page=1&sort_order=DESC&per_page=10&action=careers_listing_filter](https://www.citadel.com/careers/open-opportunities?experience-filter=internships&loca tion-filter=singapore&selected-job-sections=388,389,387,390&current_page=1&sort_order=DESC&per_page=10&action=careers_listing_filter)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -134,7 +134,7 @@
+ Open Opportunities
+ Open Opportunities
+ 1 filter applied
+-Opportunities (15)
++Opportunities (16)
+ Clear All Filters
+ Internships
+ Experience Level
+@@ -174,7 +174,7 @@
+ Viewing
+ 10
+ of
+-15
++16
+ Quantitative Researcher – PhD Intern (US)
+ Greenwich, Miami, New York
+ Apply Now
+@@ -193,6 +193,9 @@
+ Software Engineer – Intern (Asia)
+ Singapore
+ Apply Now
++Sector Data Analyst – Intern (Europe)
++London
++Apply Now
+ International Equities Associate – Intern (Europe)
+ London
+ Apply Now
+@@ -201,9 +204,6 @@
+ Apply Now
+ Investment & Trading – Intern (US)
+ Greenwich, Miami, New York
+-Apply Now
+-Launch Intern – (US)
+-Chicago, Miami, New York
+ Apply Now
+ 1
+ 2
+```
+
+---
+
 ## 2025-07-16 07:30:54
 
 ### [https://optiver.com/working-at-optiver/career-opportunities/?_gl=1*x7c8ib*_up*MQ..*_ga*MTA5OTMxMjk3Mi4xNzQ1NjQxMDk2*_ga_YMLN3CLJVE*MTc0NTY0MTA5NS4xLjEuMTc0NTY0MTA5OC4wLjAuMA..&numberposts=10&paged=1&office=singapore&level=internship](https://optiver.com/working-at-optiver/career-opportunities/?_gl=1*x7c8ib*_up*MQ..*_ga*MTA5OTMxMjk3Mi4xNzQ1NjQxMDk2*_ga_YMLN3CLJVE*MTc0NTY0MTA5NS4xLjEuMTc0NTY0MTA5OC4wLjAuMA..&numberposts=10&paged=1&office=singapore&level=internship)
