@@ -17,6 +17,7 @@ Human Resources
 Investment
 Legal
 Office Acquisition and Development
+Office Management
 Operations
 Recruiting & Talent Development
 Tax
@@ -91,6 +92,8 @@ Network Specialist - Reliability
 Montreal & New York
 Network Specialist - Security
 Montreal, New York & Singapore
+Office Administrator
+Houston
 Operational Risk Analyst
 London
 Operations Intern
@@ -129,7 +132,11 @@ Quant Developer (C++)
 Singapore, London, New York
 Quant Developer (Python)
 Boston, Dubai, London, Montreal, Warsaw
+Quantitative Researcher - Capital Efficiency
+New York
 Quantitative Researcher – FICC Modeling
+New York
+Quantitative Researcher - Intraday Trading
 New York
 Recruitment Intern (Fall 2025)
 Montreal
@@ -185,8 +192,12 @@ Support Analyst - Integration & Deployment Management
 London, Montreal
 Tax Analyst
 Bangalore
+Tax Analyst
+London
 Tax Analyst - Funds
 London
+Tax Assistant
+Bangalore
 Team Executive Assistant
 London
 Technical Business Analyst/Project Manager

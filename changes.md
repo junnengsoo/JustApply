@@ -1,4 +1,112 @@
 
+## 2025-07-18 07:32:07
+
+### [https://stripe.com/jobs/search?office_locations=Asia+Pacific--Singapore&tags=University](https://stripe.com/jobs/search?office_locations=Asia+Pacific--Singapore&tags=University)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -347,10 +347,3 @@
+ +1 888 926 2289
+ Sign in
+ © 2025 Stripe, Inc.
+-We use cookies to improve your experience and for marketing. Read our
+-cookie policy
+-or
+-manage cookies
+-.
+-Accept all
+-Reject all
+```
+
+---
+### [https://www.janestreet.com/join-jane-street/open-roles/?type=internship&location=singapore](https://www.janestreet.com/join-jane-street/open-roles/?type=internship&location=singapore)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -85,9 +85,9 @@
+ Internship
+ LOCATION
+ All Locations
++Hong Kong
+ London
+ New York
+-Hong Kong
+ Singapore
+ Austin
+ Mumbai
+@@ -139,9 +139,9 @@
+ Internship
+ LOCATION
+ All Locations
++Hong Kong
+ London
+ New York
+-Hong Kong
+ Singapore
+ Austin
+ Mumbai
+```
+
+---
+### [https://www.squarepoint-capital.com/open-opportunities?id=6212106](https://www.squarepoint-capital.com/open-opportunities?id=6212106)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -17,6 +17,7 @@
+ Investment
+ Legal
+ Office Acquisition and Development
++Office Management
+ Operations
+ Recruiting & Talent Development
+ Tax
+@@ -91,6 +92,8 @@
+ Montreal & New York
+ Network Specialist - Security
+ Montreal, New York & Singapore
++Office Administrator
++Houston
+ Operational Risk Analyst
+ London
+ Operations Intern
+@@ -129,7 +132,11 @@
+ Singapore, London, New York
+ Quant Developer (Python)
+ Boston, Dubai, London, Montreal, Warsaw
++Quantitative Researcher - Capital Efficiency
++New York
+ Quantitative Researcher – FICC Modeling
++New York
++Quantitative Researcher - Intraday Trading
+ New York
+ Recruitment Intern (Fall 2025)
+ Montreal
+@@ -185,8 +192,12 @@
+ London, Montreal
+ Tax Analyst
+ Bangalore
++Tax Analyst
++London
+ Tax Analyst - Funds
+ London
++Tax Assistant
++Bangalore
+ Team Executive Assistant
+ London
+ Technical Business Analyst/Project Manager
+```
+
+---
+
 ## 2025-07-17 07:31:12
 
 ### [https://stripe.com/jobs/search?office_locations=Asia+Pacific--Singapore&tags=University](https://stripe.com/jobs/search?office_locations=Asia+Pacific--Singapore&tags=University)
