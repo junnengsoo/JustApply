@@ -85,9 +85,9 @@ Industrial Placement Year
 Internship
 LOCATION
 All Locations
-Hong Kong
 London
 New York
+Hong Kong
 Singapore
 Austin
 Mumbai
@@ -139,9 +139,9 @@ Industrial Placement Year
 Internship
 LOCATION
 All Locations
-Hong Kong
 London
 New York
+Hong Kong
 Singapore
 Austin
 Mumbai

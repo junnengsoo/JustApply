@@ -1,4 +1,94 @@
 
+## 2025-07-19 07:27:55
+
+### [https://www.janestreet.com/join-jane-street/open-roles/?type=internship&location=singapore](https://www.janestreet.com/join-jane-street/open-roles/?type=internship&location=singapore)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -85,9 +85,9 @@
+ Internship
+ LOCATION
+ All Locations
+-Hong Kong
+ London
+ New York
++Hong Kong
+ Singapore
+ Austin
+ Mumbai
+@@ -139,9 +139,9 @@
+ Internship
+ LOCATION
+ All Locations
+-Hong Kong
+ London
+ New York
++Hong Kong
+ Singapore
+ Austin
+ Mumbai
+```
+
+---
+### [https://www.citadel.com/careers/open-opportunities?experience-filter=internships&loca tion-filter=singapore&selected-job-sections=388,389,387,390&current_page=1&sort_order=DESC&per_page=10&action=careers_listing_filter](https://www.citadel.com/careers/open-opportunities?experience-filter=internships&loca tion-filter=singapore&selected-job-sections=388,389,387,390&current_page=1&sort_order=DESC&per_page=10&action=careers_listing_filter)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -175,26 +175,26 @@
+ 10
+ of
+ 16
++Quantitative Researcher – PhD Intern (Europe)
++London, Paris, Zurich
++Apply Now
++Software Engineer – Intern (US)
++Chicago, Miami, New York
++Apply Now
++Quantitative Researcher – PhD Intern (Asia)
++Hong Kong, Singapore
++Apply Now
++Site Reliability Engineer – Intern (Asia)
++Singapore
++Apply Now
++Software Engineer – Intern (Asia)
++Singapore
++Apply Now
++Sector Data Analyst – Intern (Europe)
++London
++Apply Now
+ Quantitative Researcher – PhD Intern (US)
+ Greenwich, Miami, New York
+-Apply Now
+-Quantitative Researcher – PhD Intern (Europe)
+-London, Paris, Zurich
+-Apply Now
+-Software Engineer – Intern (US)
+-Chicago, Miami, New York
+-Apply Now
+-Quantitative Researcher – PhD Intern (Asia)
+-Hong Kong, Singapore
+-Apply Now
+-Site Reliability Engineer – Intern (Asia)
+-Singapore
+-Apply Now
+-Software Engineer – Intern (Asia)
+-Singapore
+-Apply Now
+-Sector Data Analyst – Intern (Europe)
+-London
+ Apply Now
+ International Equities Associate – Intern (Europe)
+ London
+```
+
+---
+
 ## 2025-07-18 07:32:07
 
 ### [https://stripe.com/jobs/search?office_locations=Asia+Pacific--Singapore&tags=University](https://stripe.com/jobs/search?office_locations=Asia+Pacific--Singapore&tags=University)
