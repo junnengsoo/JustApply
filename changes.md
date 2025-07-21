@@ -1,4 +1,60 @@
 
+## 2025-07-21 07:37:32
+
+### [https://www.janestreet.com/join-jane-street/open-roles/?type=internship&location=singapore](https://www.janestreet.com/join-jane-street/open-roles/?type=internship&location=singapore)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -86,8 +86,8 @@
+ LOCATION
+ All Locations
+ London
++Hong Kong
+ New York
+-Hong Kong
+ Singapore
+ Austin
+ Mumbai
+@@ -140,8 +140,8 @@
+ LOCATION
+ All Locations
+ London
++Hong Kong
+ New York
+-Hong Kong
+ Singapore
+ Austin
+ Mumbai
+```
+
+---
+### [https://jobs.apple.com/en-us/search?location=singapore-SGP&team=internships-STDNT-INTRN](https://jobs.apple.com/en-us/search?location=singapore-SGP&team=internships-STDNT-INTRN)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -225,6 +225,12 @@
+ Apple Account and Password
+ Billing & Subscriptions
+ Accessibility
++Quick Links
++Find a Store
++Apple Vision Pro
++AirPods
++Apple Intelligence
++Apple Trade In
+ 0
+ +
+ Please enable Javascript in your browser for best experience.
+```
+
+---
+
 ## 2025-07-20 07:28:04
 
 **No changes for today**
