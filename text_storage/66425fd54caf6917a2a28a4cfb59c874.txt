@@ -66,8 +66,6 @@ Graduate Support Specialist
 London, Montreal, New York, Houston, Hong Kong
 HR Systems Associate - Workday
 Bangalore, London, Singapore, Montreal, New York
-Human Resources Specialist
-London
 Intern Quant Researcher
 London, Paris, New York, Singapore, Hong Kong
 Junior Commodities Fundamental Analyst
@@ -191,9 +189,9 @@ New York, Bangalore, London, Montreal and Paris
 Support Analyst - Integration & Deployment Management
 London, Montreal
 Tax Analyst
-Bangalore
-Tax Analyst
 London
+Tax Analyst
+Bangalore
 Tax Analyst - Funds
 London
 Tax Assistant

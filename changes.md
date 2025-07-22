@@ -1,4 +1,38 @@
 
+## 2025-07-22 07:32:15
+
+### [https://www.squarepoint-capital.com/open-opportunities?id=6212106](https://www.squarepoint-capital.com/open-opportunities?id=6212106)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -66,8 +66,6 @@
+ London, Montreal, New York, Houston, Hong Kong
+ HR Systems Associate - Workday
+ Bangalore, London, Singapore, Montreal, New York
+-Human Resources Specialist
+-London
+ Intern Quant Researcher
+ London, Paris, New York, Singapore, Hong Kong
+ Junior Commodities Fundamental Analyst
+@@ -191,9 +189,9 @@
+ Support Analyst - Integration & Deployment Management
+ London, Montreal
+ Tax Analyst
++London
++Tax Analyst
+ Bangalore
+-Tax Analyst
+-London
+ Tax Analyst - Funds
+ London
+ Tax Assistant
+```
+
+---
+
 ## 2025-07-21 07:37:32
 
 ### [https://www.janestreet.com/join-jane-street/open-roles/?type=internship&location=singapore](https://www.janestreet.com/join-jane-street/open-roles/?type=internship&location=singapore)
