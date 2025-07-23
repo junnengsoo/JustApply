@@ -57,6 +57,9 @@ Share
 Clear
 Job title
 Work model
+Lead Software Engineer, Civic Tech (Public Safety)
+Hybrid
+View job
 Senior / Lead Software Engineer, FindX
 Hybrid
 View job
@@ -64,9 +67,6 @@ Senior / Lead Software Engineer, HealthTech
 Hybrid
 View job
 Senior / Lead Software Engineer, Maps
-Hybrid
-View job
-Senior / Lead Software Engineer, Traffic Enforcement
 Hybrid
 View job
 Senior Software Engineer, DGS
@@ -75,6 +75,9 @@ View job
 Senior Software Engineer, RedeemSG
 Hybrid
 View job
+Lead Software Engineer, Civic Tech (Public Safety)
+Hybrid
+View job
 Senior / Lead Software Engineer, FindX
 Hybrid
 View job
@@ -82,9 +85,6 @@ Senior / Lead Software Engineer, HealthTech
 Hybrid
 View job
 Senior / Lead Software Engineer, Maps
-Hybrid
-View job
-Senior / Lead Software Engineer, Traffic Enforcement
 Hybrid
 View job
 Senior Software Engineer, DGS
