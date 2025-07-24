@@ -1,4 +1,4 @@
-Careers homepage
+Careers at Open Government Products
 Skip to content
 Open Government Products
 Homepage
@@ -44,7 +44,7 @@ Singapore
 Singapore
 Singapore
 Singapore
-6 jobs
+5 jobs
 Share
 Clear
 Filters
@@ -52,15 +52,12 @@ Singapore
 Singapore
 Singapore
 Singapore
-6 jobs
+5 jobs
 Share
 Clear
 Job title
 Work model
 Lead Software Engineer, Civic Tech (Public Safety)
-Hybrid
-View job
-Senior / Lead Software Engineer, FindX
 Hybrid
 View job
 Senior / Lead Software Engineer, HealthTech
@@ -76,9 +73,6 @@ Senior Software Engineer, RedeemSG
 Hybrid
 View job
 Lead Software Engineer, Civic Tech (Public Safety)
-Hybrid
-View job
-Senior / Lead Software Engineer, FindX
 Hybrid
 View job
 Senior / Lead Software Engineer, HealthTech

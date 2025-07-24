@@ -53,6 +53,7 @@ Internship
 All departments
 Business Operations
 Control
+Events
 Technology
 Trading, Research and Machine Learning
 All departments

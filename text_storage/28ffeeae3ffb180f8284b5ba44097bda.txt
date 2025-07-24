@@ -43,7 +43,7 @@ Financing
 College Student Offer
 More from Mac
 Mac Support
-AppleCare+ for Mac
+AppleCare
 macOS Tahoe 26 Preview
 Apple Intelligence
 Apps by Apple
@@ -70,7 +70,7 @@ Financing
 College Student Offer
 More from iPad
 iPad Support
-AppleCare+ for iPad
+AppleCare
 iPadOS 26 Preview
 Apple Intelligence
 Apps by Apple
@@ -93,7 +93,7 @@ Carrier Deals at Apple
 Financing
 More from iPhone
 iPhone Support
-AppleCare+ for iPhone
+AppleCare
 iOS 26 Preview
 Apple Intelligence
 Apps by Apple
@@ -120,7 +120,7 @@ Apple Trade In
 Financing
 More from Watch
 Apple Watch Support
-AppleCare+
+AppleCare
 watchOS 26 Preview
 Apple Watch For Your Kids
 Apps by Apple
@@ -136,7 +136,7 @@ Book a Demo
 Financing
 More from Vision
 Apple Vision Pro Support
-AppleCare+
+AppleCare
 visionOS 26 Preview
 AirPods
 Explore AirPods
@@ -150,7 +150,7 @@ Shop AirPods
 AirPods Accessories
 More from AirPods
 AirPods Support
-AppleCare+ for Headphones
+AppleCare
 Hearing Health
 Apple Music
 TV & Home
@@ -168,7 +168,8 @@ TV & Home Accessories
 More from TV & Home
 Apple TV Support
 HomePod Support
-AppleCare+
+AppleCare for Apple TV
+AppleCare for HomePod
 Apple TV app
 Apple TV+
 Home app
@@ -221,7 +222,7 @@ Community
 Check Coverage
 Repair
 Helpful Topics
-Get AppleCare+
+Get AppleCare
 Apple Account and Password
 Billing & Subscriptions
 Accessibility
