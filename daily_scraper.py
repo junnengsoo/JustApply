@@ -87,24 +87,40 @@ def extract_text(html: str) -> str:
 
 
 def get_text_diff(old_text: str, new_text: str) -> str:
-    """Generate a simple unified diff between two cleaned HTML text contents"""
-    old_lines = old_text.splitlines()
-    new_lines = new_text.splitlines()
+    """Generate a diff of line additions and removals between two text contents, diff-style."""
+    from collections import Counter
+    # Split by newlines
+    old_lines = [line.strip() for line in old_text.splitlines() if line.strip()]
+    new_lines = [line.strip() for line in new_text.splitlines() if line.strip()]
+    old_counts = Counter(old_lines)
+    new_counts = Counter(new_lines)
 
-    diff = difflib.unified_diff(
-        old_lines,
-        new_lines,
-        fromfile='old.txt',
-        tofile='new.txt',
-        lineterm='',
-        n=3  # Show 3 lines of context
-    )
-
-    return '\n'.join(diff)
+    all_lines = sorted(set(old_counts) | set(new_counts))
+    diff_lines = []
+    for line in all_lines:
+        old_count = old_counts.get(line, 0)
+        new_count = new_counts.get(line, 0)
+        if old_count == new_count:
+            continue
+        if new_count > old_count:
+            # Added lines
+            count = new_count - old_count
+            prefix = '+ '
+            suffix = f' x{count}' if count > 1 else ''
+            diff_lines.append(f'{prefix}{line}{suffix}')
+        elif old_count > new_count:
+            # Removed lines
+            count = old_count - new_count
+            prefix = '- '
+            suffix = f' x{count}' if count > 1 else ''
+            diff_lines.append(f'{prefix}{line}{suffix}')
+    if not diff_lines:
+        return "No line changes."
+    return '\n'.join(diff_lines)
 
 
 def has_text_changed(url: str, new_text: str) -> Tuple[bool, str]:
-    """Check if the text content has changed from the stored version and return diff if changed"""
+    """Check if the word count of the text content has changed from the stored version and return the word-count diff if changed"""
     filename = f"text_storage/{get_url_hash(url)}.txt"
 
     # If file doesn't exist, it's considered changed
@@ -115,7 +131,7 @@ def has_text_changed(url: str, new_text: str) -> Tuple[bool, str]:
     with open(filename, 'r', encoding='utf-8') as f:
         stored_text = f.read()
 
-    # Compare text directly
+    # Compare text directly (word count based)
     if stored_text != new_text:
         if stored_text.strip() or new_text.strip():
             diff = get_text_diff(stored_text, new_text)
@@ -139,7 +155,7 @@ def append_to_markdown(results: list[tuple[str, bool, str]]) -> None:
         for url, has_changes, diff in results:
             if has_changes:
                 new_content += f"### [{url}]({url})\n\n"  # Use markdown link format
-                new_content += "**Changes detected!**\n\n"
+                new_content += "**Line changes detected!**\n\n"
                 new_content += "```diff\n"
                 new_content += diff
                 new_content += "\n```\n"
