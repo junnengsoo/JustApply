@@ -50,12 +50,7 @@ jobs:
           CHANGES_CONTENT=$(cat changes.md)
           
           # Create Telegram message (Telegram supports HTML formatting)
-          MESSAGE="🔄 <b>Daily Scraper Update</b>
-
-<b>Changes detected:</b>
-<pre><code>$CHANGES_CONTENT</code></pre>
-
-<i>Updated at: $(date -u '+%Y-%m-%d %H:%M:%S') UTC</i>"
+          MESSAGE="🔄 <b>Daily Scraper Update</b>\n\n<b>Changes detected:</b>\n<pre><code>$CHANGES_CONTENT</code></pre>\n\n<i>Updated at: $(date -u '+%Y-%m-%d %H:%M:%S') UTC</i>"
           
           # Send to Telegram
           curl -s -X POST \
