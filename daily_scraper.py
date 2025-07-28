@@ -19,7 +19,7 @@ def get_url_hash(url: str) -> str:
 def setup_selenium():
     """Set up and return a configured Chrome WebDriver using webdriver-manager"""
     chrome_options = Options()
-    chrome_options.add_argument('--headless')  # Remove this line if you want to see the browser
+    # chrome_options.add_argument('--headless')  # Comment this line out for testing
     chrome_options.add_argument('--no-sandbox')
     chrome_options.add_argument('--disable-dev-shm-usage')
 
@@ -141,11 +141,11 @@ def has_text_changed(url: str, new_text: str) -> Tuple[bool, str]:
 
 
 def append_to_markdown(results: list[tuple[str, bool, str]]) -> None:
-    """Add change status for multiple URLs to the top of the markdown log file with a single timestamp"""
+    """Replace the markdown log file with the latest changes only"""
     timestamp = datetime.now().strftime('%Y-%m-%d %H:%M:%S')
 
-    # Create new content to add at the top
-    new_content = f"\n## {timestamp}\n\n"
+    # Create new content
+    new_content = f"# Latest Scraper Results\n\n## {timestamp}\n\n"
 
     # Check if any URLs have changes
     has_any_changes = any(has_changes for _, has_changes, _ in results)
@@ -164,16 +164,9 @@ def append_to_markdown(results: list[tuple[str, bool, str]]) -> None:
         # If no changes detected for any URL, show a single message
         new_content += "**No changes for today**\n\n---\n"
 
-    # Read existing content (if any)
-    try:
-        with open('changes.md', 'r', encoding='utf-8') as f:
-            existing_content = f.read()
-    except FileNotFoundError:
-        existing_content = ""
-
-    # Write new content followed by existing content
+    # Write new content, completely replacing the file
     with open('changes.md', 'w', encoding='utf-8') as f:
-        f.write(new_content + existing_content)
+        f.write(new_content)
 
 
 def process_urls(urls: list[str]) -> None:
