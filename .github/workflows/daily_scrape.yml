@@ -30,9 +30,41 @@ jobs:
           python daily_scraper.py
 
       - name: Commit changes
+        id: commit
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
           git add changes.md text_storage
-          git commit -m "🔄 Daily scrape update: $(date -u '+%Y-%m-%d %H:%M:%S') UTC" || echo "No changes to commit"
-          git push
+          if git diff --staged --quiet; then
+            echo "no_changes=true" >> $GITHUB_OUTPUT
+          else
+            git commit -m "🔄 Daily scrape update: $(date -u '+%Y-%m-%d %H:%M:%S') UTC"
+            git push
+            echo "no_changes=false" >> $GITHUB_OUTPUT
+          fi
+
+      - name: Send Telegram notification
+        if: steps.commit.outputs.no_changes == 'false'
+        run: |
+          # Read the changes.md file
+          CHANGES_CONTENT=$(cat changes.md)
+          
+          # Create Telegram message (Telegram supports HTML formatting)
+          MESSAGE="🔄 <b>Daily Scraper Update</b>
+
+<b>Changes detected:</b>
+<pre><code>$CHANGES_CONTENT</code></pre>
+
+<i>Updated at: $(date -u '+%Y-%m-%d %H:%M:%S') UTC</i>"
+          
+          # Send to Telegram
+          curl -s -X POST \
+               "https://api.telegram.org/bot${{ secrets.TELEGRAM_BOT_TOKEN }}/sendMessage" \
+               -H "Content-Type: application/json" \
+               -d "{
+                 \"chat_id\": \"${{ secrets.TELEGRAM_CHAT_ID }}\",
+                 \"text\": \"$MESSAGE\",
+                 \"parse_mode\": \"HTML\"
+               }"
+
+
