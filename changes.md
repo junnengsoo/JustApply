@@ -1,4 +1,30 @@
 
+## 2025-07-28 13:29:27
+
+### [https://jobs.apple.com/en-us/search?location=singapore-SGP&team=internships-STDNT-INTRN](https://jobs.apple.com/en-us/search?location=singapore-SGP&team=internships-STDNT-INTRN)
+
+**Line changes detected!**
+
+```diff
+- AirPods
+- Apple Intelligence
+- Apple Trade In
+- Apple Vision Pro
+- Find a Store
+- Quick Links
+```
+
+---
+### [https://www.squarepoint-capital.com/open-opportunities?id=6212106](https://www.squarepoint-capital.com/open-opportunities?id=6212106)
+
+**Line changes detected!**
+
+```diff
+No line changes.
+```
+
+---
+
 ## 2025-07-28 07:33:23
 
 ### [https://stripe.com/jobs/search?office_locations=Asia+Pacific--Singapore&tags=University](https://stripe.com/jobs/search?office_locations=Asia+Pacific--Singapore&tags=University)
