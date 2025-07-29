@@ -213,7 +213,6 @@ def main():
         "https://careers.point72.com/?experience=internships&location=singapore;hong%20kong;sydney",
         "https://careers.foodpanda.com/jobs?options=452,581&page=1",
         "https://www.grab.careers/en/jobs/?search=&team=Engineering&country=Singapore&pagesize=20#results",
-        ""
     ]
 
     process_urls(urls)
