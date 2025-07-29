@@ -132,8 +132,6 @@ Quant Developer (Python)
 Boston, Dubai, London, Montreal, Warsaw
 Quantitative Researcher - Capital Efficiency
 New York
-Quantitative Researcher – FICC Modeling
-New York
 Quantitative Researcher - Intraday Trading
 New York
 Recruitment Intern (Fall 2025)
@@ -189,9 +187,9 @@ New York, Bangalore, London, Montreal and Paris
 Support Analyst - Integration & Deployment Management
 London, Montreal
 Tax Analyst
-London
-Tax Analyst
 Bangalore
+Tax Analyst
+London
 Tax Analyst - Funds
 London
 Tax Assistant
