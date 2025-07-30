@@ -60,17 +60,55 @@ jobs:
           # Read the changes.md file
           CHANGES_CONTENT=$(cat changes.md)
           
-          # Create Telegram message (Telegram supports HTML formatting)
-          MESSAGE="🔄 <b>Daily Scraper Update</b>\n\n<b>Changes detected:</b>\n<pre><code>$CHANGES_CONTENT</code></pre>\n\n<i>Updated at: $(date -u '+%Y-%m-%d %H:%M:%S') UTC</i>"
+          # Function to send Telegram message
+          send_telegram_message() {
+            local message="$1"
+            curl -s -X POST \
+                 "https://api.telegram.org/bot${{ secrets.TELEGRAM_BOT_TOKEN }}/sendMessage" \
+                 -H "Content-Type: application/json" \
+                 -d "{
+                   \"chat_id\": \"${{ secrets.TELEGRAM_CHAT_ID }}\",
+                   \"text\": \"$message\",
+                   \"parse_mode\": \"HTML\"
+                 }"
+          }
           
-          # Send to Telegram
-          curl -s -X POST \
-               "https://api.telegram.org/bot${{ secrets.TELEGRAM_BOT_TOKEN }}/sendMessage" \
-               -H "Content-Type: application/json" \
-               -d "{
-                 \"chat_id\": \"${{ secrets.TELEGRAM_CHAT_ID }}\",
-                 \"text\": \"$MESSAGE\",
-                 \"parse_mode\": \"HTML\"
-               }"
+          # Send header message
+          TIMESTAMP=$(date -u '+%Y-%m-%d %H:%M:%S')
+          HEADER_MESSAGE="🔄 <b>Daily Scraper Update</b>\n\n<i>Updated at: $TIMESTAMP UTC</i>\n\n---"
+          send_telegram_message "$HEADER_MESSAGE"
+          
+          # Split content into chunks of max 4000 characters (safe for Telegram)
+          MAX_LENGTH=4000
+          CURRENT_CHUNK=""
+          CHUNK_NUMBER=1
+          
+          # Read changes.md line by line and build chunks
+          while IFS= read -r line; do
+            # If adding this line would exceed max length, send current chunk and start new one
+            if [ ${#CURRENT_CHUNK} -gt 0 ] && [ $((${#CURRENT_CHUNK} + ${#line} + 50)) -gt $MAX_LENGTH ]; then
+              # Send current chunk
+              send_telegram_message "$CURRENT_CHUNK"
+              CURRENT_CHUNK=""
+              CHUNK_NUMBER=$((CHUNK_NUMBER + 1))
+              sleep 1  # Small delay between messages
+            fi
+            
+            # Add line to current chunk
+            if [ ${#CURRENT_CHUNK} -eq 0 ]; then
+              CURRENT_CHUNK="<b>Part $CHUNK_NUMBER:</b>\n\n$line"
+            else
+              CURRENT_CHUNK="$CURRENT_CHUNK\n$line"
+            fi
+          done < changes.md
+          
+          # Send the last chunk if there's anything left
+          if [ ${#CURRENT_CHUNK} -gt 0 ]; then
+            send_telegram_message "$CURRENT_CHUNK"
+          fi
+          
+          # Send footer message
+          FOOTER_MESSAGE="---\n✅ <b>Scraping completed!</b>\n\n<i>Check the repository for the complete changes.md file</i>"
+          send_telegram_message "$FOOTER_MESSAGE"
 
 
