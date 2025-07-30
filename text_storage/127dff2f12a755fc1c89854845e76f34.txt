@@ -217,6 +217,12 @@ Get AppleCare+
 Apple Account and Password
 Billing & Subscriptions
 Accessibility
+Quick Links
+Find a Store
+Apple Vision Pro
+AirPods
+Apple Intelligence
+Apple Trade In
 0
 +
 Please enable Javascript in your browser for best experience.
@@ -256,7 +262,8 @@ Teams
 Clear Team(s)
 To reveal list of choices, type
 View all teams
-Students:
+Students
+:
 Internships
 Products and Services
 0
@@ -277,7 +284,8 @@ Save search
 Singapore
 United States
 London, England, United Kingdom
-Students:
+Students
+:
 Internships
 text
 More
@@ -287,7 +295,7 @@ Sort by:
 Newest
 Legal and Global Security Internships
 Students
-31 May 2025
+30 May 2025
 Various locations within United States
 See full role description
 Share
@@ -423,7 +431,7 @@ Imagine what you could do here. At Apple, new ideas have a way of becoming extra
 Submit CV
 Finance Development Program - 2026 Internship Opportunities
 Students
-02 Apr 2025
+01 Apr 2025
 Cupertino
 See full role description
 Share

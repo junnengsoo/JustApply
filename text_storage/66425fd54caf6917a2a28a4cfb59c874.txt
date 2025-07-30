@@ -60,6 +60,8 @@ Desk Quant Analyst
 London, Madrid, Montreal, Bangalore, Singapore, Hong Kong, Warsaw
 Financial Reporting Manager
 London, New York
+FP&A Manager
+London,  Montreal, Bangalore, Warsaw
 Graduate Software Developer
 London, Montreal, Warsaw, New York, Singapore
 Graduate Support Specialist
@@ -92,6 +94,8 @@ Network Specialist - Security
 Montreal, New York & Singapore
 Office Administrator
 Houston
+Office Administrator
+Warsaw
 Operational Risk Analyst
 London
 Operations Intern
@@ -171,7 +175,7 @@ London, Montreal, Singapore, Warsaw
 Software Developer (KDB+/Q)
 London, Montreal, Singapore
 Software Developer - Order Gateway
-London , Montreal , Singapore, Bangalore & Warsaw
+London , Montreal , Singapore & Warsaw
 Software Developer - Order Gateway Integration
 Singapore
 Software Developer (Python)

@@ -16,9 +16,9 @@ All
 Category
 Location
 C++ Software Developer
-Montréal
-C++ Software Developer
 Chicago
+C++ Software Developer
+Montréal
 Full Stack Software Developer
 Montréal
 Junior Software Development Engineer in Test
@@ -42,13 +42,15 @@ London
 Software Developer
 Montréal
 Software Developer
-Chicago
+London
 Software Developer
 Amsterdam
 Software Developer
-London
+Chicago
 Software Developer (C++)
 Singapore
+Software Developer - Equity Index Options
+London
 Software Developer Intern
 London
 Software Developer Intern
