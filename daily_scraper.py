@@ -19,9 +19,23 @@ def get_url_hash(url: str) -> str:
 def setup_selenium():
     """Set up and return a configured Chrome WebDriver using webdriver-manager"""
     chrome_options = Options()
-    # chrome_options.add_argument('--headless')  # Comment this line out for testing
+    chrome_options.add_argument('--headless')  # Enable headless mode for GitHub Actions
     chrome_options.add_argument('--no-sandbox')
     chrome_options.add_argument('--disable-dev-shm-usage')
+    chrome_options.add_argument('--disable-gpu')
+    chrome_options.add_argument('--remote-debugging-port=9222')
+    chrome_options.add_argument('--user-data-dir=/tmp/chrome-user-data')
+    chrome_options.add_argument('--disable-extensions')
+    chrome_options.add_argument('--disable-plugins')
+    chrome_options.add_argument('--disable-images')
+    chrome_options.add_argument('--disable-web-security')
+    chrome_options.add_argument('--allow-running-insecure-content')
+    chrome_options.add_argument('--disable-features=VizDisplayCompositor')
+    chrome_options.add_argument('--disable-background-timer-throttling')
+    chrome_options.add_argument('--disable-backgrounding-occluded-windows')
+    chrome_options.add_argument('--disable-renderer-backgrounding')
+    chrome_options.add_argument('--disable-features=TranslateUI')
+    chrome_options.add_argument('--disable-ipc-flooding-protection')
 
     # Automatically download and use the correct chromedriver
     service = Service(ChromeDriverManager().install())
@@ -31,25 +45,44 @@ def setup_selenium():
 def fetch_page(url: str) -> str | None:
     print(f"🌐 Fetching page content from {url}")
     driver = None
-    try:
-        driver = setup_selenium()
-        driver.get(url)
+    max_retries = 3
+    
+    for attempt in range(max_retries):
+        try:
+            driver = setup_selenium()
+            driver.set_page_load_timeout(30)
+            driver.get(url)
 
-        # Wait for the page to load with a fixed delay
-        print("Waiting 5 seconds for page to load and JavaScript to execute...")
-        time.sleep(15)
+            # Wait for the page to load with a fixed delay
+            print(f"Attempt {attempt + 1}: Waiting 15 seconds for page to load and JavaScript to execute...")
+            time.sleep(15)
 
-        # Get the page source after JavaScript execution
-        html_content = driver.page_source
-        print("Page fetched successfully with Selenium")
-        return html_content
+            # Get the page source after JavaScript execution
+            html_content = driver.page_source
+            print("Page fetched successfully with Selenium")
+            return html_content
 
-    except Exception as e:
-        print(f"Error fetching {url}: {e}")
-        return None
-    finally:
-        if driver:
-            driver.quit()
+        except Exception as e:
+            print(f"Attempt {attempt + 1} failed for {url}: {e}")
+            if driver:
+                try:
+                    driver.quit()
+                except:
+                    pass
+                driver = None
+            
+            if attempt < max_retries - 1:
+                print(f"Retrying in 5 seconds...")
+                time.sleep(5)
+            else:
+                print(f"All {max_retries} attempts failed for {url}")
+                return None
+        finally:
+            if driver:
+                try:
+                    driver.quit()
+                except:
+                    pass
 
 
 def save_text(url: str, text_content: str) -> None:
@@ -173,8 +206,8 @@ def process_urls(urls: list[str]) -> None:
     """Process URLs and store their text content"""
     results = []
 
-    for url in urls:
-        print(f"\nProcessing URL: {url}")
+    for i, url in enumerate(urls):
+        print(f"\nProcessing URL {i+1}/{len(urls)}: {url}")
         if html_content := fetch_page(url):
             # Extract text from HTML
             text_content = extract_text(html_content)
@@ -190,6 +223,11 @@ def process_urls(urls: list[str]) -> None:
         else:
             print(f"Failed to fetch content from {url}")
             results.append((url, False, "Failed to fetch content"))
+
+        # Add a small delay between requests to be respectful to servers
+        if i < len(urls) - 1:  # Don't delay after the last URL
+            print("Waiting 2 seconds before next request...")
+            time.sleep(2)
 
     # Append all results with a single timestamp
     append_to_markdown(results)

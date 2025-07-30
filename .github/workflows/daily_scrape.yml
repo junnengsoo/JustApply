@@ -21,9 +21,20 @@ jobs:
         with:
           python-version: '3.11'
 
-      - name: Install dependencies
+      - name: Install system dependencies
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y wget unzip xvfb
+
+      - name: Install Python dependencies
         run: |
           pip install -r requirements.txt
+
+      - name: Setup directories
+        run: |
+          mkdir -p text_storage
+          mkdir -p /tmp/chrome-user-data
+          chmod 755 /tmp/chrome-user-data
 
       - name: Run daily scraper
         run: |
