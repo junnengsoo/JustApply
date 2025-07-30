@@ -1,15 +1,142 @@
 # Latest Scraper Results
 
-## 2025-07-30 10:41:35
+## 2025-07-30 11:21:08
 
-### [https://www.google.com/about/careers/applications/jobs/results/?src=Online/Google%20Website/ByF&distance=50&employment_type=INTERN&company=Fitbit&company=Google&location=Singapore&location=London,%20UK](https://www.google.com/about/careers/applications/jobs/results/?src=Online/Google%20Website/ByF&distance=50&employment_type=INTERN&company=Fitbit&company=Google&location=Singapore&location=London,%20UK)
+### [https://careers.foodpanda.com/jobs?options=452,581&page=1](https://careers.foodpanda.com/jobs?options=452,581&page=1)
 
 **Line changes detected!**
 
 ```diff
-+ English x6
-+ Français (Canada) x3
-+ language x3
+- 1.打造《多元與
+- 2020 has been quite a journey – today, we’re serving our communities in almost 400 cities across 12 markets in Asia and we hope to have played a positive part in your lives. A big thank you to our rider partners, merchants and customers for riding it out together with us, and we look forward to doing more for you in 2021.
+- A Day In the Life Of
+- As my one year contract role with Google came to a sweet end in March 2020, it was time to put myself out there for an interview yet again. In the midst of hunting for a new opportunity, Covid
+- As my one year contract role with Google came to a sweet end in March 2020, it was time to put myself out there for an interview yet again. In the midst of hunting for a new opportunity, Covid19 presented itself to all of us globally. Knowing how difficult these past 6 months have been for many, I am thankful to share my latest career move and hope it inspires others to not give up hope. Feel free to reach out to me too if you’d like to discuss your career, find out more about the start-up world
+- At foodpanda, we believe that a diverse workforce is key to helping us innovate and get better at problem-solving as a company to build a tech platform that empowers our communities. x2
+- Awards x3
+- Before the pandemic hit, I visited our home chefs in P
+- Benjamin Mann, our Chief Technology Officer, was award
+- Blog Post x27
+- CIO of The Year for Leadership: Benjamin Mann, CTO foodpanda
+- Click play to learn more about what our Product Analytics team d
+- Click play to learn more about what our Product Analytics team does (and how they have fun!) from Bharath, Beliz and Lindsay.
+- Company Update x15
+- Content Type x27
+- Currently operating in 12 markets across Asia, foodpanda has been serving Singapore customers for the past 9 years since our launch in 2012. With most of our pandas (aka. employees) in Singa
+- Currently operating in 12 markets across Asia, foodpanda has been serving Singapore customers for the past 9 years since our launch in 2012. With most of our pandas (aka. employees) in Singapore working from home this month due to Covid-19 related measures, we didn’t
+- Enter quick commerce (q-commerce),
+- Events x4
+- Food assistance programme
+- Food delivery platform foodpanda is helping delivery riders to upgrade their skills through a partnership with e-learning platform Gnowbe and Singapore’s Temasek Polytechnic.
+- Food delivery platform foodpanda is helping delivery riders to upgrade their skills through a partnership with e-learning platform Gnowbe and Singapore’s Temasek Polytechnic. The partnership will see the birth of an e-learning portal that is accessible to more than
+- Food for Thought x4
+- Free COVID-19 insurance protection
+- Friday, 07 May 2021
+- Gone were the days where deliveries took days to fulfil. Today, speed is of the essence with advancements in technology to streamline delivery processes.
+- Gone were the days where deliveries took days to fulfil. Today, speed is of the essence with advancements in technology to streamline delivery processes. Enter quick commerce (q-commerce), the third evolution of e-commerce. foodpanda has grown from its humble
+- Happy International Women’s Day!
+- Happy New Year! x2
+- Happy New Year! Thank you for your support and wishing you all the best for your goals, plans, and resolutions as we ring in 2021.
+- Here’s a
+- How foodpanda celebrated International Women’s Day 2022
+- How foodpanda is fostering culture, wellbeing, and work-life harmony among 7,500 employees
+- How we celebrated foodpanda’s 9th anniversary in Singapore
+- I believe real impact comes from creating opportunities tha
+- I started my internship in the midst of Singapore’s circuit breaker. Offices had to close, and everyone had to transit into a purely work from home environment. During this strange period, I j
+- I started my internship in the midst of Singapore’s circuit breaker. Offices had to close, and everyone had to transit into a purely work from home environment. During this strange period, I joined foodpanda as a content intern. The internship lasted for 3 months, through the circuit breaker, so it ended up being a virtual one, which was a definitely interesting experience.
+- Inspiration
+- Life as a Developer at a Tech Giant
+- Meet the Product Analytics team
+- Meet the team that leverages data to deliver amazing experiences for millions of users on the foodpanda and Delivery Hero apps. x2
+- Monday, 08 March 2021
+- Monday, 14 February 2022
+- Monday, 15 February 2021 x4
+- Monday, 20 July 2020
+- Monday, 21 December 2020
+- Monday, 30 August 2021
+- My first Virtual Internship
+- New year, new beginnings – Pedram Assadi, foodpanda COO
+- New year, new beginnings. In what has been a year of social distancing, we found new ways to come together for a greater common good.
+- New year, new beginnings. In what has been a year of social distancing, we found new ways to come together for a greater common good. Before the pandemic hit, I visited our home chefs in Pakistan, where I was treated to my first ‘Ghar ka Khana’ (homemade)
+- Pakistan’s largest delivery platform, foodpanda, has partnered with
+- Partnering with 1000 retailers and selling more than 14,000 items, foodpanda has expanded its services beyond restaurant deliveries to everyday essentials including snacks, drinks, beauty an
+- Partnering with 1000 retailers and selling more than 14,000 items, foodpanda has expanded its services beyond restaurant deliveries to everyday essentials including snacks, drinks, beauty and baby products, all delivered within an average of 15 minutes.
+- Publish date x27
+- Read more x27
+- Sales
+- Saturday, 23 January 2021
+- Sebastian Rodriguez, our Senior Director of Engineering at foodpanda, sat down with GoSchool to talk about life at foodpanda, our adoption of Go programming language, and how we bridge the t
+- Sebastian Rodriguez, our Senior Director of Engineering at foodpanda, sat down with GoSchool to talk about life at foodpanda, our adoption of Go programming language, and how we bridge the tech talent gap. foodpanda is proud to be a hiring partner for GoSchool and.
+- Speeding past stereotypes: foodpanda and Women on Wheels partner to empower women in Pakistan
+- Summary x27
+- Sunday, 12 February 2023
+- Teaser x54
+- Thank you for your support and wishing you all the best for your goals, plans, and resolutions as we ring in 2021.
+- The Hong Kong Jockey Club has joined forces with the Hong Kong Christian Service and St. James’ Settlement, along with foodpanda to transport hot meals from local restaurants to eligible rec
+- The Hong Kong Jockey Club has joined forces with the Hong Kong Christian Service and St. James’ Settlement, along with foodpanda to transport hot meals from local restaurants to eligible recipients.It is estimated that over 70,000 people will benefit from the program
+- The partnersh
+- Thursday, 01 June 2023
+- Thursday, 09 December 2021
+- Thursday, 10 December 2020
+- Thursday, 11 March 2021
+- Thursday, 13 January 2022
+- Thursday, 30 July 2020
+- Tuesday, 01 February 2022
+- Tuesday, 09 March 2021
+- Tuesday, 12 July 2022
+- Tuesday, 19 October 2021
+- Tuesday, 26 January 2021
+- Virtual onboarding during Covid-19 with foodpanda
+- Wednesday, 03 February 2021
+- Wednesday, 10 March 2021
+- Wednesday, 16 March 2022
+- Wednesday, 23 December 2020
+- We’re proud of this achievement, but we won’t stop here. Our pandas are working hard to make our workplace as inclusive, engaging and in
+- What brands should and should not do on International Women’s Day
+- When it was founded in 2012, food delivery company foodpanda was one of the first food delivery companies in the Asia region, with just a small team running its operations. Fast forward to t
+- When it was founded in 2012, food delivery company foodpanda was one of the first food delivery companies in the Asia region, with just a small team running its operations. Fast forward to today, and the firm is now operating across more than 300 cities in 12 markets
+- Whether it is through internal hackathons, or collaborating to launch new services – innovation is always top of mind for our pandas.
+- Whether it is through internal hackathons, or collaborating to launch new services – innovation is always top of mind for our pandas. Benjamin Mann, our Chief Technology Officer, was awarded the CIO of The Year (Leadership) for 2021 by CIO Online. During the
+- WoW will provide free-of-cost bike riding training to Pakistani women in order to train them to become foodpanda riders.
+- WoW will provide free-of-cost bike riding training to Pakistani women in order to train them to become foodpanda riders. Pakistan’s largest delivery platform, foodpanda, has partnered with Women on Wheels (WoW), an initiative by the Salman Sufi Foundation (SSF) for
+- Women are often underrepresented in the workplace, especially in the tech sectors. According to Danelle Toh, Head of People Service at foodpanda APAC, women who pursue careers in tech often
+- Women are often underrepresented in the workplace, especially in the tech sectors. According to Danelle Toh, Head of People Service at foodpanda APAC, women who pursue careers in tech often struggle to find a balance between career, family, and personal goals
+- Women in Tech: Achieving Equality - Advice from Danelle Toh, Head of People Services at foodpanda
+- foodpanda CTO: Why autonomy is important for developing agile tech teams
+- foodpanda celebrated International Women’s Day 2022 at our brand new regional office in Singapore with a series of interactive and inspiring events, both virtually and in-person.
+- foodpanda celebrated International Women’s Day 2022 at our brand new regional office in Singapore with a series of interactive and inspiring events, both virtually and in-person. Here’s a round-up of some of the activities that went on:   Ask Me Anything...
+- foodpanda delivers e-learning portal to upskill riders
+- foodpanda is now a certified “Great Place to Work”! x2
+- foodpanda is now a certified “Great Place to Work”! We’re proud of this achievement, but we won’t stop here. Our pandas are working hard to make our workplace as inclusive, engaging and inspiring as it can be.
+- foodpanda is the 3rd most downloaded food delivery app in the world! x2
+- foodpanda is the 3rd most downloaded food delivery app in the world!2020 has been quite a journey – today, we’re serving our communities in almost 400 cities across 12 markets in Asia and we
+- foodpanda proactively helps Hong Kong F&B with free deliveries and by offering a payment delay scheme for independent and local vendors with a fund of up to $25 million HKD during coronaviru x2
+- foodpanda proactively helps Hong Kong F&B with free deliveries and by offering a payment delay scheme for independent and local vendors with a fund of up to $25 million HKD during coronavirus outbreak. In August, stores that newly joined the foodpanda mall
+- foodpanda proactively helps Hong Kong F&B with free deliveries and by offering a payment delay scheme for independent and local vendors with a fund of up to $25 million HKD during coronavirus outbreak. ​ The well-being of all our staff, partners and customers is
+- foodpanda supports HK F&B during coronavirus
+- foodpanda 攜手新創環保團體 RE-THINK 以及成功大學環境工程學系推動「環境友善店家」計畫，首創9大環保審查標準，推廣綠色外送。同時，宣布「循環容器外送」正式拓點台北，與台北市政府環保局及「好盒器」展開合作，鼓勵店家提供循環容器，在生活中漸進式取代免洗餐具，消費者可輕鬆響應環保。
+- foodpanda 攜手新創環保團體 RE-THINK 以及成功大學環境工程學系推動「環境友善店家」計畫，首創9大環保審查標準，推廣綠色外送。同時，宣布「循環容器外送」正式拓點台北，與台北市政府環保局及「好盒器」展開合作，鼓勵店家提供循環容器，在生活中漸進式取代免洗餐具，消費者可輕鬆響應環保。...
+- foodpanda 榮獲「台灣企業永續奧斯卡獎」
+- foodpanda 正式宣布加入「TALENT, in Taiwan，台灣人才永續行動聯盟」
+- foodpanda 自 2012 年搶進台灣市場後，僅花 7 年即完成全台 21 縣市外送服務，成為首家提供 24 小時即時外送之業者， 2019 年更拓展至生鮮雜貨外送，打造更完整外送版圖，另外，也積極投入環境永
+- foodpanda生鮮外送版圖再擴大，攜手全聯挑戰15億年營收！
+- foodpanda透過問卷調查平台用戶得出，其實有86%的消費者願意支持環保店家
+- foodpanda首批36家「環境友善店家」出爐！經由環保團體RE-THINK 9項指標篩選，再挑戰外送與環保共生性
+- pandamart launch
+- “International Women’s Day is more than just a day to celebrate the achievements of women, or a marketing opportunity for brands.
+- “International Women’s Day is more than just a day to celebrate the achievements of women, or a marketing opportunity for brands. I believe real impact comes from creating opportunities that uplift women in our communities, and we’ve done just that at
+- 人才培育發展與多元共融職場，一直是 foodpadna 重視的營運發展目標。 為了強化台灣社會的人才競爭力，同時因應 ESG 浪潮下、全球企業對人才社會責任的看重，在此關鍵時刻，foodpadna 正式宣布加入「TALENT, in Taiwan，台灣人才永續行動聯盟」！ 我們承諾落實《多元與包容》、《身心健康》與《人才成長》三項指標，並展開以下行動： 1.打造《多元與包容》環境，雇用女性員工比例為 60%，且女性高階主管佔比53
+- 人才培育發展與多元共融職場，一直是 foodpanda 重視的營運發展目標。
+- 愛地球才對味！foodpanda 5G 行動超前進度 實踐環保外送願景
+- 我們承諾落實《多元與包容》、《身心健康》與《人才成長》三項指標，並展開以下行動：
+- 有企業永續奧斯卡之稱的「TCSA台灣企業永續獎」今年邁入第15屆。foodpanda 首次報獎即拿下「台灣永續外商企業績優獎」，是全台唯一入圍且得獎之外送平台。
+- 有企業永續奧斯卡之稱的「TCSA台灣企業永續獎」今年邁入第15屆。foodpanda 首次報獎即拿下「台灣永續外商企業績優獎」，是全台唯一入圍且得獎之外送平台。 foodpanda 自 2012 年搶進台灣市場後，僅花 7 年即完成全台 21 縣市外送服務，成為首家提供 24 小時即時外送之業者， 2019 年更拓展至生鮮雜貨外送，打造更完整外送版圖，另外，也積極投入環境永續、社會關懷等議題，並於今年一舉奪下「台灣永續外商企業績優獎」。 對此，
+- 為了強化台灣社會的人才競爭力，同時因應 ESG 浪潮下、全球企業對人才社會責任的看重，在此關鍵時刻，foodpanda 正式宣布加入「TALENT, in Taiwan，台灣人才永續行動聯盟」！
+- 疫情之下民眾減少在外用餐，不管是外帶還是外送，有形無形中都增加了許多一次性包裝、餐具的使用量，在聯合國近年大聲疾呼環境永續、2050淨零碳排的目標下，foodpanda響應永續行動，提出「共享永續」新觀念，成為第一個將共享經濟模式與永續行動連結的外送產業，更宣布啟動全面性「5G」行動，包含發表永續宣言Green Commitment、首創環境友善店家Green Vendor、打
+- 疫情之下民眾減少在外用餐，不管是外帶還是外送，有形無形中都增加了許多一次性包裝、餐具的使用量，在聯合國近年大聲疾呼環境永續、2050淨零碳排的目標下，foodpanda響應永續行動，提出「共享永續」新觀念，成為第一個將共享經濟模式與永續行動連結的外送產業，更宣布啟動全面性「5G」行動，包含發表永續宣言Green Commitment、首創環境友善店家Green Vendor、打造永續外送Green Panda、鼓勵低碳騎士Green Rider、推廣環保饕客Green Customer，帶頭成就相對環保的外送消費模式
+- 看好消費者依賴線上購買與生鮮雜貨外送的方便性，全聯在 2021 年初宣布投入生鮮外送戰場，為持續拓展外送覆蓋率，全聯宣布與foodpanda展開戰略合作，上架到foo
+- 隨著台灣疫情持續延燒，消費者線上採買生鮮需求升溫。超市龍頭全聯1月13日宣布將與外送平台foodpanda合作，今年第一季將上架350間門市，預計將帶來15億元外送營收，期望成為提供生鮮外送最方便的龍頭電商。
+- 隨著台灣疫情持續延燒，消費者線上採買生鮮需求升溫。超市龍頭全聯1月13日宣布將與外送平台foodpanda合作，今年第一季將上架350間門市，預計將帶來15億元外送營收，期望成為提供生鮮外送最方便的龍頭電商。 看好消費者依賴線上購買與生鮮雜貨外送的方便性，全聯在 2021 年初宣布投入生鮮外送戰場，為持續拓展外送覆蓋率，全聯宣布與foodpanda展開戰略合作，上架到foodpanda平台，商品數上看3,000項；同時導入foodpanda的B2B服務pandago攻快商務
 ```
 
 ---
