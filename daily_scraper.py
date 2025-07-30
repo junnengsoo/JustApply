@@ -249,9 +249,6 @@ def main():
         "https://www.quantedge.com/careers",
         "https://careers.twosigma.com/careers/OpenRoles/?5081=%5B16718737%5D&5081_format=3146&listFilterMode=1&jobRecordsPerPage=10&",
         "https://careers.point72.com/?experience=internships&location=singapore;hong%20kong;sydney",
-        "https://careers.foodpanda.com/jobs?options=452,581&page=1",
-        "https://www.grab.careers/en/jobs/?search=&team=Engineering&country=Singapore&pagesize=20#results",
-        "https://careers.shopee.sg/jobs?region_id=25&dept_id=6&level=4&limit=50&offset=0"
     ]
 
     process_urls(urls)
