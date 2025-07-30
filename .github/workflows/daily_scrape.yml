@@ -73,22 +73,19 @@ jobs:
                  }"
           }
           
-          # Send header message
-          TIMESTAMP=$(date -u '+%Y-%m-%d %H:%M:%S')
-          HEADER_MESSAGE="🔄 <b>Daily Scraper Update</b>\n\n<i>Updated at: $TIMESTAMP UTC</i>\n\n---"
-          send_telegram_message "$HEADER_MESSAGE"
-          
-          # Split content into chunks of max 4000 characters (safe for Telegram)
-          MAX_LENGTH=4000
+          # Split content into chunks of max 3500 characters (safe for Telegram with your format)
+          MAX_LENGTH=3500
           CURRENT_CHUNK=""
           CHUNK_NUMBER=1
           
           # Read changes.md line by line and build chunks
           while IFS= read -r line; do
             # If adding this line would exceed max length, send current chunk and start new one
-            if [ ${#CURRENT_CHUNK} -gt 0 ] && [ $((${#CURRENT_CHUNK} + ${#line} + 50)) -gt $MAX_LENGTH ]; then
-              # Send current chunk
-              send_telegram_message "$CURRENT_CHUNK"
+            if [ ${#CURRENT_CHUNK} -gt 0 ] && [ $((${#CURRENT_CHUNK} + ${#line} + 200)) -gt $MAX_LENGTH ]; then
+              # Format current chunk with your preferred format
+              TIMESTAMP=$(date -u '+%Y-%m-%d %H:%M:%S')
+              MESSAGE="🔄 <b>Daily Scraper Update</b>\n\n<b>Changes detected:</b>\n<pre><code>$CURRENT_CHUNK</code></pre>\n\n<i>Updated at: $TIMESTAMP UTC</i>"
+              send_telegram_message "$MESSAGE"
               CURRENT_CHUNK=""
               CHUNK_NUMBER=$((CHUNK_NUMBER + 1))
               sleep 1  # Small delay between messages
@@ -96,7 +93,7 @@ jobs:
             
             # Add line to current chunk
             if [ ${#CURRENT_CHUNK} -eq 0 ]; then
-              CURRENT_CHUNK="<b>Part $CHUNK_NUMBER:</b>\n\n$line"
+              CURRENT_CHUNK="$line"
             else
               CURRENT_CHUNK="$CURRENT_CHUNK\n$line"
             fi
@@ -104,11 +101,9 @@ jobs:
           
           # Send the last chunk if there's anything left
           if [ ${#CURRENT_CHUNK} -gt 0 ]; then
-            send_telegram_message "$CURRENT_CHUNK"
+            TIMESTAMP=$(date -u '+%Y-%m-%d %H:%M:%S')
+            MESSAGE="🔄 <b>Daily Scraper Update</b>\n\n<b>Changes detected:</b>\n<pre><code>$CURRENT_CHUNK</code></pre>\n\n<i>Updated at: $TIMESTAMP UTC</i>"
+            send_telegram_message "$MESSAGE"
           fi
-          
-          # Send footer message
-          FOOTER_MESSAGE="---\n✅ <b>Scraping completed!</b>\n\n<i>Check the repository for the complete changes.md file</i>"
-          send_telegram_message "$FOOTER_MESSAGE"
 
 
