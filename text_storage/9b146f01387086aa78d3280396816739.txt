@@ -30,9 +30,9 @@ London
 Senior Software Engineer
 Tel Aviv
 Senior Software Engineer - Analytics Front Office
-London
-Senior Software Engineer - Analytics Front Office
 Chicago
+Senior Software Engineer - Analytics Front Office
+London
 Senior Software Engineer, Clojure
 London
 Senior Software Engineer - Endur
@@ -40,23 +40,23 @@ London
 Senior Software Engineer, Pricing and Derived Data
 London
 Software Developer
-Montréal
-Software Developer
-London
+Chicago
 Software Developer
 Amsterdam
 Software Developer
-Chicago
+Montréal
+Software Developer
+London
 Software Developer (C++)
 Singapore
 Software Developer - Equity Index Options
 London
 Software Developer Intern
-London
-Software Developer Intern
 Chicago
 Software Developer Intern
 Amsterdam
+Software Developer Intern
+London
 Software Developer Intern (C++)
 Singapore
 Software Engineer
