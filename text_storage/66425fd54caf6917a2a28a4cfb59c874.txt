@@ -19,7 +19,6 @@ Legal
 Office Acquisition and Development
 Office Management
 Operations
-Recruiting & Talent Development
 Tax
 Technology
 Offices
@@ -95,9 +94,9 @@ Montreal, New York & Singapore
 Network Specialist - ULL
 Montreal, London,  New York
 Office Administrator
-Houston
-Office Administrator
 Warsaw
+Office Administrator
+Houston
 Operational Risk Analyst
 London
 Operations Intern
@@ -140,8 +139,6 @@ Quantitative Researcher - Capital Efficiency
 New York
 Quantitative Researcher - Intraday Trading
 New York
-Recruitment Intern (Fall 2025)
-Montreal
 Senior Discretionary Trader - Credit
 London, New York
 Senior Discretionary Trader - Equities
@@ -163,7 +160,7 @@ London
 Software Developer (C++)
 London, Montreal, Singapore
 Software Developer - Data Infrastructure
-London, Montreal, Singapore, Warsaw
+London, Montreal, Singapore
 Software Developer - Data Pipelines (Python)
 London, Montreal, Madrid, Bangalore
 Software Developer – Data Products and Services
@@ -177,7 +174,7 @@ London, Montreal, Singapore, Warsaw
 Software Developer (KDB+/Q)
 London, Montreal, Singapore
 Software Developer - Order Gateway
-London , Montreal , Singapore & Warsaw
+Montreal , Singapore & Warsaw
 Software Developer - Order Gateway Integration
 Singapore
 Software Developer (Python)
