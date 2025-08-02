@@ -1,34 +1,46 @@
 # Latest Scraper Results
 
-## 2025-08-01 07:23:22
+## 2025-08-02 07:16:41
 
 ### [https://stripe.com/jobs/search?office_locations=Asia+Pacific--Singapore&tags=University](https://stripe.com/jobs/search?office_locations=Asia+Pacific--Singapore&tags=University)
 
 **Line changes detected!**
 
 ```diff
-+ .
-+ Accept all
-+ Reject all
-+ We use cookies to improve your experience and for marketing. Read our
-+ cookie policy
-+ manage cookies
-+ or
+- .
+- Accept all
++ Privy open roles
+- Reject all
+- We use cookies to improve your experience and for marketing. Read our
+- cookie policy
+- manage cookies
+- or
 ```
 
 ---
-### [https://www.squarepoint-capital.com/open-opportunities?id=6212106](https://www.squarepoint-capital.com/open-opportunities?id=6212106)
+### [https://www.jumptrading.com/careers/?locations=Singapore+New-York+Sydney+Chicago+Hong-Kong+London&titleSearch=campus+intern](https://www.jumptrading.com/careers/?locations=Singapore+New-York+Sydney+Chicago+Hong-Kong+London&titleSearch=campus+intern)
 
 **Line changes detected!**
 
 ```diff
-- London , Montreal , Singapore & Warsaw
-+ London, Montreal, Singapore
-- London, Montreal, Singapore, Warsaw
-- Montreal
-+ Montreal , Singapore & Warsaw
-- Recruiting & Talent Development
-- Recruitment Intern (Fall 2025)
+- 1
++ 11
++ Bristol
++ Campus Data Engineer (Intern)
++ Campus FPGA Engineer (Intern)
++ Campus Quantitative Researcher (Full-Time) x2
++ Campus Quantitative Researcher (Intern)
++ Campus Quantitative Researcher (M1/M2 Intern)
++ Campus Quantitative Researcher (Summer 2026 Intern)
++ Campus Software Engineer (Intern)
++ Campus Tech Ops Engineer (Intern)
++ Campus UI Software Engineer (Intern)
++ Hong Kong x2
++ London x5
++ London & Paris
++ London, Amsterdam
++ London, Paris, Amsterdam
++ Paris
 ```
 
 ---
@@ -37,41 +49,10 @@
 **Line changes detected!**
 
 ```diff
-No line changes.
-```
-
----
-### [https://caladan.xyz/careers/](https://caladan.xyz/careers/)
-
-**Line changes detected!**
-
-```diff
-- 2025 Investments Intern
-- As an Investments Associate at Caladan, you will work with the team to execute new business and investment efforts including developing analysis, performing transaction-related industry research, and meeting with entrepreneurs
-- As an Investments Intern at Caladan, you will work with the team to execute new business and investment efforts including developing analysis, performing transaction-related industry research, and meeting with entrepreneurs
-- Investments Associate
-- Singapore x2
-- View Details x2
-```
-
----
-### [https://www.qube-rt.com/careers?location=Singapore&sector=&experience=Students%20and%20New%20Grads](https://www.qube-rt.com/careers?location=Singapore&sector=&experience=Students%20and%20New%20Grads)
-
-**Line changes detected!**
-
-```diff
-- http://www.finos.ch
-+ https://www.finos.ch
-```
-
----
-### [https://www.qube-rt.com/careers?location=London&sector=&experience=Students%20and%20New%20Grads](https://www.qube-rt.com/careers?location=London&sector=&experience=Students%20and%20New%20Grads)
-
-**Line changes detected!**
-
-```diff
-- http://www.finos.ch
-+ https://www.finos.ch
++ Montréal
++ Software Developer (Golang)
+- Software Engineer – Cumberland/FICCO
++ Software Engineer – Cumberland/FICCO Tools Engineering
 ```
 
 ---
