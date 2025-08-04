@@ -249,6 +249,7 @@ def main():
         "https://www.quantedge.com/careers",
         "https://careers.twosigma.com/careers/OpenRoles/?5081=%5B16718737%5D&5081_format=3146&listFilterMode=1&jobRecordsPerPage=10&",
         "https://careers.point72.com/?experience=internships&location=singapore;hong%20kong;sydney",
+        "https://careers.thetradedesk.com/jobs?category=interns"
     ]
 
     process_urls(urls)
