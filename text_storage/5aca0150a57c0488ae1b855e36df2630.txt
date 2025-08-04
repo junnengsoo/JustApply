@@ -16,6 +16,7 @@ See open roles
 Close mobile navigation
 Expand economic access across the globe
 Bridge open roles
+Privy open roles
 Opens the multi-select filter menu
 Teams
 Administrative
