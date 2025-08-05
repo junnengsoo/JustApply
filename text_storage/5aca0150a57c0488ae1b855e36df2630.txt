@@ -302,8 +302,6 @@ Treasury
 Solutions
 Startups
 Enterprises
-Retail
-Nonprofits
 SaaS
 Platforms
 Ecommerce
@@ -314,6 +312,10 @@ AI companies
 Embedded finance
 Global businesses
 Finance automation
+Insurance
+Media and Entertainment
+Nonprofits
+Retail
 Integrations & custom solutions
 Stripe App Marketplace
 Partner ecosystem
