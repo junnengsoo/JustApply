@@ -1,26 +1,16 @@
 # Latest Scraper Results
 
-## 2025-08-05 07:24:08
+## 2025-08-06 07:23:21
 
-### [https://stripe.com/jobs/search?office_locations=Asia+Pacific--Singapore&tags=University](https://stripe.com/jobs/search?office_locations=Asia+Pacific--Singapore&tags=University)
-
-**Line changes detected!**
-
-```diff
-+ Insurance
-+ Media and Entertainment
-```
-
----
 ### [https://www.squarepoint-capital.com/open-opportunities?id=6212106](https://www.squarepoint-capital.com/open-opportunities?id=6212106)
 
 **Line changes detected!**
 
 ```diff
-- London, New York
-- Montreal , New York & London
-+ Montreal , New York , London & Singapore
-- Platform Specialist - Storage Developer
++ Bangalore
++ Indirect Tax Analyst
+- London, Montreal
++ Montreal, Warsaw
 ```
 
 ---
@@ -29,7 +19,14 @@
 **Line changes detected!**
 
 ```diff
-- Cranberry Township
+- 11
++ 16
++ Campus C++ Software Engineer (Intern)
++ Campus Python Software Engineer (Intern)
++ Campus Quantitative Researcher (Intern)
++ Campus Quantitative Trader (Intern)
++ Campus Tech Ops Engineer (Intern)
++ Singapore x5
 ```
 
 ---
@@ -38,17 +35,31 @@
 **Line changes detected!**
 
 ```diff
-- Software Engineer – Cumberland/FICC Options Desk Tools
-+ Software Engineer – Cumberland/FICC Options Tools Engineering
+No line changes.
 ```
 
 ---
-### [https://careers.thetradedesk.com/jobs?category=interns](https://careers.thetradedesk.com/jobs?category=interns)
+### [https://caladan.xyz/careers/](https://caladan.xyz/careers/)
 
 **Line changes detected!**
 
 ```diff
-No previous version found
++ About the Role
++ DeFi Quant Trader
++ Ho Chi Minh City
++ View Details
++ We are seeking a DeFi Quant Trader to join our firm
+```
+
+---
+### [https://www.qube-rt.com/careers?location=London&sector=&experience=Students%20and%20New%20Grads](https://www.qube-rt.com/careers?location=London&sector=&experience=Students%20and%20New%20Grads)
+
+**Line changes detected!**
+
+```diff
++ 2025 Internship or Graduate - Business Data Analyst
++ London
++ View opportunity
 ```
 
 ---

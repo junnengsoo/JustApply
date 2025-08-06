@@ -43,7 +43,7 @@ London, Jersey, Singapore, Hong Kong
 Accounts Payable Manager
 London, New York, Montreal
 Assistant Controller - Management Company
-London, Montreal
+Montreal, Warsaw
 Assistant Tax Manager
 London
 Compliance Analyst - Discretionary Trading & Fundamental Research
@@ -66,6 +66,8 @@ Graduate Support Specialist
 London, Montreal, New York, Houston, Hong Kong
 HR Systems Associate - Workday
 Bangalore, London, Singapore, Montreal, New York
+Indirect Tax Analyst
+Bangalore
 Intern Quant Researcher
 London, Paris, New York, Singapore, Hong Kong
 Junior Commodities Fundamental Analyst
