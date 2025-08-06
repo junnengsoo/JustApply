@@ -2,7 +2,7 @@ name: Daily Scraper
 
 on:
   schedule:
-    - cron: "0 7 * * *"      # Every day at 07:00 UTC
+    - cron: "0 3 * * *"      # Every day at 03:00 UTC
   workflow_dispatch:         # Allow manual run
 
 permissions:
