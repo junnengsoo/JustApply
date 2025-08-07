@@ -58,8 +58,8 @@ Your career
 expand_more
 Search Jobs
 Search sidebar
-0
-jobs matched
+1
+job matched
 Clear filters
 What do you want to do?
 Locations
@@ -143,13 +143,36 @@ English
 English
 Français (Canada)
 Jobs search results
-0
-jobs matched
+1
+job matched
 filter_list
-search
-No results
-Search again or try updating your filters
-Clear filters
+Research Scientist PhD Intern, 2026
+corporate_fare
+Google
+place
+London, UK
+; Zürich, Switzerland
+; +2 more
+; +1 more
+bar_chart
+Intern & Apprentice
+Google |
+London, UK
+; Zürich, Switzerland
+; +2 more
+; +1 more
+Minimum qualifications
+Currently enrolled in a PhD degree in Computer Science or a related technical field in the EMEA region, and in your penultimate/final year of education.
+Experience in one or more Research areas: NLU/Processing, Computer Vision, LLMs, AI Architecture, Audio Processing, Spatial/Temporal Modeling, Machine Learning, Algorithmic Foundations of Optimization, Data Mining, Machine Intelligence (Artificial Intelligence), AI/ML Algorithms, Deep Learning or Image Processing, Multimodal, Multilingual and Reinforcement Learning.
+Experience with research from previous internships, full-time industry experience, personal projects, lab work, or published papers.
+Experience in one or more general purpose programming languages: Java, C++, Python, or Go.
+Learn more
+share
+link
+Copy link
+email
+Email a friend
+1‑1 of 1
 Follow Life at Google on
 More about us
 About us

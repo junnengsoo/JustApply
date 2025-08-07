@@ -46,40 +46,62 @@ Spokane, WA
 Sydney
 (x)
 Roles
-16
+27
 found
 Campus C++ Software Engineer (Intern)
 Singapore
 Campus Data Engineer (Intern)
+Chicago
+Campus Data Engineer (Intern)
 London
 Campus FPGA Engineer (Intern)
 London
+Campus FPGA Engineer (Intern)
+Chicago
 Campus Python Software Engineer (Intern)
 Singapore
 Campus Quantitative Researcher (Fall 2025 / Spring 2026 Intern)
 Hong Kong
 Campus Quantitative Researcher (Full-Time)
-Hong Kong
-Campus Quantitative Researcher (Full-Time)
 London, Paris, Amsterdam
+Campus Quantitative Researcher (Full-Time)
+Chicago; New York
+Campus Quantitative Researcher (Full-Time)
+Hong Kong
 Campus Quantitative Researcher (Intern)
 London
 Campus Quantitative Researcher (Intern)
 Singapore
+Campus Quantitative Researcher (Intern)
+Chicago;  New York
 Campus Quantitative Researcher (M1/M2 Intern)
 London & Paris
 Campus Quantitative Researcher (Summer 2026 Intern)
 Hong Kong
+Campus Quantitative Trader (Full-Time)
+New York; Chicago
+Campus Quantitative Trader (Intern)
+New York; Chicago
 Campus Quantitative Trader (Intern)
 Singapore
+Campus Software Engineer (Full-Time)
+Chicago
+Campus Software Engineer (Intern)
+Chicago
 Campus Software Engineer (Intern)
 London
-Campus Tech Ops Engineer (Intern)
-London, Amsterdam
+Campus Tech Ops Engineer (Full-Time)
+Chicago
 Campus Tech Ops Engineer (Intern)
 Singapore
+Campus Tech Ops Engineer (Intern)
+Chicago
+Campus Tech Ops Engineer (Intern)
+London, Amsterdam
 Campus UI Software Engineer (Intern)
 London
+Campus UI Software Engineer (Intern)
+Chicago
 Not finding what you're looking for?
 Let us know
 Jump Trading Logo
