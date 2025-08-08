@@ -26,13 +26,13 @@ London
 Senior Research Software Engineer, Commodities (Python)
 Chicago
 Senior Software Engineer
-Tel Aviv
+London
 Senior Software Engineer
-London
-Senior Software Engineer - Analytics Front Office
-London
+Tel Aviv
 Senior Software Engineer - Analytics Front Office
 Chicago
+Senior Software Engineer - Analytics Front Office
+London
 Senior Software Engineer, Clojure
 London
 Senior Software Engineer - Endur
@@ -52,9 +52,9 @@ London
 Software Developer (Golang)
 Montréal
 Software Developer Intern
-Amsterdam
-Software Developer Intern
 Chicago
+Software Developer Intern
+Amsterdam
 Software Developer Intern
 London
 Software Developer Intern (C++)

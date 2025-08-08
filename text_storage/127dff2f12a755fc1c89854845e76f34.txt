@@ -249,8 +249,8 @@ Location
 Home Office
 Clear Location(s)
 To reveal list of choices, type
-Singapore
 United States
+Singapore
 London, England, United Kingdom
 Keyword
 0
@@ -281,8 +281,8 @@ Clear Language(s)
 To reveal list of choices, type
 4  Filter(s) Applied
 Save search
-Singapore
 United States
+Singapore
 London, England, United Kingdom
 Students
 :
