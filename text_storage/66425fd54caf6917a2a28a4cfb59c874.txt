@@ -97,9 +97,9 @@ Montreal, New York & Singapore
 Network Specialist - ULL
 Montreal, London,  New York
 Office Administrator
-Houston
-Office Administrator
 Warsaw
+Office Administrator
+Houston
 Operational Risk Analyst
 London
 Operations Intern
@@ -193,9 +193,9 @@ New York, Bangalore, London, Montreal and Paris
 Support Analyst - Integration & Deployment Management
 London, Montreal
 Tax Analyst
-London
-Tax Analyst
 Bangalore
+Tax Analyst
+London
 Tax Analyst - Funds
 London
 Tax Assistant
