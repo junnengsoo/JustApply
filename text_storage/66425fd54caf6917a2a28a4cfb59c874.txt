@@ -68,6 +68,8 @@ HR Systems Associate - Workday
 Bangalore, London, Singapore, Montreal, New York
 Indirect Tax Analyst
 Bangalore
+Information Security Analyst
+London
 Intern Quant Researcher
 London, Paris, New York, Singapore, Hong Kong
 Intern Software Developer - Winter 2026
@@ -98,8 +100,6 @@ Network Specialist - ULL
 Montreal, London,  New York
 Office Administrator
 Warsaw
-Office Administrator
-Houston
 Operational Risk Analyst
 London
 Operations Intern
@@ -123,7 +123,7 @@ Montreal, New York, Houston , Boston , Singapore & Hong Kong
 Platform Specialist - ULL
 London, New York
 Platform Specialist - Windows and Virtualization
-London, Montreal
+Bangalore
 Platform ULL - Colo - Reliability
 London, Montreal, New York & Singapore
 Platform ULL - Colo - Strategic
@@ -193,9 +193,9 @@ New York, Bangalore, London, Montreal and Paris
 Support Analyst - Integration & Deployment Management
 London, Montreal
 Tax Analyst
-Bangalore
-Tax Analyst
 London
+Tax Analyst
+Bangalore
 Tax Analyst - Funds
 London
 Tax Assistant
