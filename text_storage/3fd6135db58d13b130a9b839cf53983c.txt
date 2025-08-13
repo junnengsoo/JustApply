@@ -53,9 +53,9 @@ Chicago; New York
 Campus AI Researcher (Full-Time)
 London
 Campus AI Researcher (Intern)
-Chicago; New York
-Campus AI Researcher (Intern)
 London
+Campus AI Researcher (Intern)
+Chicago; New York
 Campus C++ Software Engineer (Intern)
 Singapore
 Campus Data Engineer (Intern)
@@ -71,45 +71,45 @@ London
 Campus ML Engineer (Full-Time)
 Chicago; New York
 Campus ML Engineer (Intern)
-Chicago; New York
-Campus ML Engineer (Intern)
 London
+Campus ML Engineer (Intern)
+Chicago; New York
 Campus Python Software Engineer (Intern)
 Singapore
 Campus Quantitative Researcher (Fall 2025 / Spring 2026 Intern)
 Hong Kong
 Campus Quantitative Researcher (Full-Time)
+London, Paris, Amsterdam
+Campus Quantitative Researcher (Full-Time)
 Hong Kong
 Campus Quantitative Researcher (Full-Time)
 Chicago; New York
-Campus Quantitative Researcher (Full-Time)
-London, Paris, Amsterdam
-Campus Quantitative Researcher (Intern)
-Chicago;  New York
 Campus Quantitative Researcher (Intern)
 London
 Campus Quantitative Researcher (Intern)
 Singapore
+Campus Quantitative Researcher (Intern)
+Chicago;  New York
 Campus Quantitative Researcher (Intern)
 Hong Kong
 Campus Quantitative Researcher (M1/M2 Intern)
 London & Paris
 Campus Quantitative Trader (Full-Time)
-London, Amsterdam
-Campus Quantitative Trader (Full-Time)
 New York; Chicago
-Campus Quantitative Trader (Intern)
-London
+Campus Quantitative Trader (Full-Time)
+London, Amsterdam
 Campus Quantitative Trader (Intern)
 New York; Chicago
 Campus Quantitative Trader (Intern)
 Singapore
+Campus Quantitative Trader (Intern)
+London
 Campus Software Engineer (Full-Time)
 Chicago
 Campus Software Engineer (Intern)
-Chicago
-Campus Software Engineer (Intern)
 London
+Campus Software Engineer (Intern)
+Chicago
 Campus Tech Ops Engineer (Full-Time)
 Chicago
 Campus Tech Ops Engineer (Intern)
@@ -119,9 +119,9 @@ Singapore
 Campus Tech Ops Engineer (Intern)
 London, Amsterdam
 Campus UI Software Engineer (Intern)
-Chicago
-Campus UI Software Engineer (Intern)
 London
+Campus UI Software Engineer (Intern)
+Chicago
 Not finding what you're looking for?
 Let us know
 Jump Trading Logo

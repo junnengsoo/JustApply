@@ -1,6 +1,6 @@
 # Latest Scraper Results
 
-## 2025-08-12 03:51:55
+## 2025-08-13 03:54:50
 
 ### [https://jobs.apple.com/en-sg/search?location=singapore-SGP+london-LND+united-states-USA&team=internships-STDNT-INTRN](https://jobs.apple.com/en-sg/search?location=singapore-SGP+london-LND+united-states-USA&team=internships-STDNT-INTRN)
 
@@ -16,12 +16,8 @@ No line changes.
 **Line changes detected!**
 
 ```diff
-+ Bangalore
-- Houston
-+ Information Security Analyst
-+ London
-- London, Montreal
-- Office Administrator
+- Accounts Payable Manager
+- London, New York, Montreal
 ```
 
 ---
@@ -30,22 +26,25 @@ No line changes.
 **Line changes detected!**
 
 ```diff
-- 36
-+ 37
-+ Campus Quantitative Researcher (Intern)
-- Campus Quantitative Researcher (Summer 2026 Intern)
-+ Campus Quantitative Trader (Full-Time)
-+ London, Amsterdam
+No line changes.
 ```
 
 ---
-### [https://www.drw.com/work-at-drw/listings?filterType=keyword&value=software](https://www.drw.com/work-at-drw/listings?filterType=keyword&value=software)
+### [https://careers.thetradedesk.com/jobs?category=interns](https://careers.thetradedesk.com/jobs?category=interns)
 
 **Line changes detected!**
 
 ```diff
-- Chicago
-- Senior Research Software Engineer, Commodities (Python)
++ 2026 Singapore Software Engineering Internship
+- 3 jobs
++ 4 jobs
++ August 12, 2025
++ Interns
+- Interns (3)
++ Interns (4)
++ Singapore
++ Singapore (1)
++ The Trade Desk is a global technology company with a mission to create a better, more open internet for everyone through principled, intelligent advertising. Handling over 1 trillion queries per day,…
 ```
 
 ---
