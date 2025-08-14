@@ -1,27 +1,18 @@
 # Latest Scraper Results
 
-## 2025-08-13 03:54:50
+## 2025-08-14 03:55:10
 
-### [https://jobs.apple.com/en-sg/search?location=singapore-SGP+london-LND+united-states-USA&team=internships-STDNT-INTRN](https://jobs.apple.com/en-sg/search?location=singapore-SGP+london-LND+united-states-USA&team=internships-STDNT-INTRN)
-
-**Line changes detected!**
-
-```diff
-No line changes.
-```
-
----
 ### [https://www.squarepoint-capital.com/open-opportunities?id=6212106](https://www.squarepoint-capital.com/open-opportunities?id=6212106)
 
 **Line changes detected!**
 
 ```diff
-- Accounts Payable Manager
-- London, New York, Montreal
++ Human Resources Specialist
+- Site Management Specialist
 ```
 
 ---
-### [https://www.jumptrading.com/careers/?locations=Singapore+New-York+Sydney+Chicago+Hong-Kong+London&titleSearch=campus+intern](https://www.jumptrading.com/careers/?locations=Singapore+New-York+Sydney+Chicago+Hong-Kong+London&titleSearch=campus+intern)
+### [https://www.drw.com/work-at-drw/listings?filterType=keyword&value=software](https://www.drw.com/work-at-drw/listings?filterType=keyword&value=software)
 
 **Line changes detected!**
 
@@ -35,15 +26,21 @@ No line changes.
 **Line changes detected!**
 
 ```diff
-+ 2026 Singapore Software Engineering Internship
-- 3 jobs
-+ 4 jobs
-+ August 12, 2025
++ 2026 London Data Science Internship
+- 4 jobs
++ 5 jobs
++ August 13, 2025
++ Full time (1)
 + Interns
-- Interns (3)
-+ Interns (4)
-+ Singapore
-+ Singapore (1)
+- Interns (4)
++ Interns (5)
++ Know Your Rights: Workplace Discrimination Is Illegal
+- Know Your Rights: Workplace Discrimination is Illegal
++ London
+- London (1)
++ London (2)
++ Request an Accommodation
+- Request an accomodation
 + The Trade Desk is a global technology company with a mission to create a better, more open internet for everyone through principled, intelligent advertising. Handling over 1 trillion queries per day,…
 ```
 

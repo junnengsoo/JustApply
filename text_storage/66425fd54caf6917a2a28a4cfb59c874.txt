@@ -64,6 +64,8 @@ Graduate Support Specialist
 London, Montreal, New York, Houston, Hong Kong
 HR Systems Associate - Workday
 Bangalore, London, Singapore, Montreal, New York
+Human Resources Specialist
+London
 Indirect Tax Analyst
 Bangalore
 Information Security Analyst
@@ -156,8 +158,6 @@ Senior Quant Researcher - Intraday Statistical Arbitrage
 Bangalore, Dubai, Geneva, Hong Kong, Houston, London, Madrid, Montreal, New York, Paris, Singapore, Zug, Boston
 Senior Quant Researcher - Volatility
 Bangalore, Dubai, Geneva, Hong Kong, Houston, London, Madrid, Montreal, New York, Paris, Singapore, Zug, Boston
-Site Management Specialist
-London
 Software Developer (C++)
 London, Montreal, Singapore
 Software Developer - Data Infrastructure
@@ -191,9 +191,9 @@ New York, Bangalore, London, Montreal and Paris
 Support Analyst - Integration & Deployment Management
 London, Montreal
 Tax Analyst
-London
-Tax Analyst
 Bangalore
+Tax Analyst
+London
 Tax Analyst - Funds
 London
 Tax Assistant
