@@ -191,9 +191,9 @@ New York, Bangalore, London, Montreal and Paris
 Support Analyst - Integration & Deployment Management
 London, Montreal
 Tax Analyst
-Bangalore
-Tax Analyst
 London
+Tax Analyst
+Bangalore
 Tax Analyst - Funds
 London
 Tax Assistant

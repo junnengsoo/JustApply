@@ -101,6 +101,7 @@ Amsterdam
 Warsaw
 Bucharest
 Madrid
+Barcelona
 Stockholm
 Latin America
 São Paulo
