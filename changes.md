@@ -1,13 +1,28 @@
 # Latest Scraper Results
 
-## 2025-08-15 03:55:36
+## 2025-08-16 03:48:38
 
-### [https://stripe.com/jobs/search?office_locations=Asia+Pacific--Singapore&tags=University](https://stripe.com/jobs/search?office_locations=Asia+Pacific--Singapore&tags=University)
+### [https://jobs.apple.com/en-sg/search?location=singapore-SGP+london-LND+united-states-USA&team=internships-STDNT-INTRN](https://jobs.apple.com/en-sg/search?location=singapore-SGP+london-LND+united-states-USA&team=internships-STDNT-INTRN)
 
 **Line changes detected!**
 
 ```diff
-+ Barcelona
+- 12 Result(s)
++ 13 Result(s)
++ 15 Aug 2025
++ 200616576-3278
++ 2026 Apple Internship - Information Systems and Technology
++ 2026 Apple Internship - Information Systems and Technology 200616576-3278
++ 40 Hours
++ As part of the Information Systems & Technology (IS&T) organization, you’ll join the teams that produce key business and technical infrastructure for our employees and customers. Our technology processes every transaction on Apple.com, delivers network bandwidth for our global services, and provides every Apple employee with the tools and platforms to do their life’s best work.
++ From Apple ID authentication to infrastructure in our stores that power products like the Vision Pro, IS&T manages the massive systems and services that our employees and customers rely on. We power Apple.
++ Role Number:
++ See full role description
++ Share
++ Singapore
++ Students
++ Submit CV
++ Weekly Hours:
 ```
 
 ---
@@ -16,7 +31,9 @@
 **Line changes detected!**
 
 ```diff
-No line changes.
+- Executive Assistance
+- London
+- Team Executive Assistant
 ```
 
 ---
@@ -25,10 +42,16 @@ No line changes.
 **Line changes detected!**
 
 ```diff
-+ 36
-- 37
-- Campus Quantitative Trader (Intern)
-- New York; Chicago
+No line changes.
+```
+
+---
+### [https://www.drw.com/work-at-drw/listings?filterType=keyword&value=software](https://www.drw.com/work-at-drw/listings?filterType=keyword&value=software)
+
+**Line changes detected!**
+
+```diff
+No line changes.
 ```
 
 ---
@@ -37,23 +60,8 @@ No line changes.
 **Line changes detected!**
 
 ```diff
-+ 2026 China Data Science Internship (Based in Shanghai)
-+ 2026 China Software Engineering Internship (Based in Shanghai)
-+ 2026 Hong Kong Software Engineering Internship
-- 5 jobs
-+ 8 jobs
-+ August 13, 2025
-+ August 14, 2025 x2
-- Full time (1)
-+ Full time (2)
-+ Hong Kong
-+ Hong Kong (1)
-+ Interns x3
-- Interns (5)
-+ Interns (8)
-+ Shanghai x2
-+ Shanghai (2)
-+ The Trade Desk is a global technology company with a mission to create a better, more open internet for everyone through principled, intelligent advertising. Handling over 1 trillion queries per day,… x3
+- August 12, 2025
++ August 15, 2025
 ```
 
 ---
