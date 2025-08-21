@@ -16,9 +16,9 @@ All
 Category
 Location
 C++ Software Developer
-Montréal
-C++ Software Developer
 Chicago
+C++ Software Developer
+Montréal
 Full Stack Software Developer
 Montréal
 Junior Software Development Engineer in Test
@@ -28,27 +28,25 @@ London
 Senior Software Engineer
 Tel Aviv
 Senior Software Engineer - Analytics Front Office
-Chicago
+London
 Senior Software Engineer - Analytics Front Office
-London
-Senior Software Engineer, C/FICCO Data
-London
+Chicago
 Senior Software Engineer, C/FICCO Data
 Chicago
-Senior Software Engineer, Clojure
+Senior Software Engineer, C/FICCO Data
 London
-Senior Software Engineer - Endur
+Senior Software Engineer, Clojure
 London
 Senior Software Engineer, Pricing and Derived Data
 London
 Software Developer
-London
+Chicago
 Software Developer
 Amsterdam
 Software Developer
-Montréal
+London
 Software Developer
-Chicago
+Montréal
 Software Developer - Equity Index Options
 London
 Software Developer (Golang)
@@ -56,9 +54,9 @@ Montréal
 Software Developer Intern
 Chicago
 Software Developer Intern
-Amsterdam
-Software Developer Intern
 London
+Software Developer Intern
+Amsterdam
 Software Developer Intern (C++)
 Singapore
 Software Engineer

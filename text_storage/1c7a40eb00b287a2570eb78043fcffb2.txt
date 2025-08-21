@@ -123,7 +123,9 @@ careers@caladan.xyz
 Address:
 123 Main Street, Anytown, USA
 Contact:
-services@caladan.xyz
+partnerships@caladan.xyz
+marketing@caladan.xyz
+careers@caladan.xyz
 Linkedin
 Youtube
 WHO WE ARE
