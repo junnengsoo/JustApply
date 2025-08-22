@@ -1,6 +1,6 @@
 # Latest Scraper Results
 
-## 2025-08-21 03:41:57
+## 2025-08-22 03:42:11
 
 ### [https://www.drw.com/work-at-drw/listings?filterType=keyword&value=software](https://www.drw.com/work-at-drw/listings?filterType=keyword&value=software)
 
@@ -8,19 +8,18 @@
 
 ```diff
 - London
-- Senior Software Engineer - Endur
+- Senior Software Engineer, Clojure
 ```
 
 ---
-### [https://caladan.xyz/careers/](https://caladan.xyz/careers/)
+### [https://www.qube-rt.com/careers?location=London&sector=&experience=Students%20and%20New%20Grads](https://www.qube-rt.com/careers?location=London&sector=&experience=Students%20and%20New%20Grads)
 
 **Line changes detected!**
 
 ```diff
-+ careers@caladan.xyz
-+ marketing@caladan.xyz
-+ partnerships@caladan.xyz
-- services@caladan.xyz
+- 2025 Internship - Market Data
+- London
+- View opportunity
 ```
 
 ---
