@@ -1,7 +1,13 @@
 # Latest Scraper Results
 
-## 2025-08-25 03:48:39
+## 2025-08-26 03:42:59
 
-**No changes for today**
+### [https://www.drw.com/work-at-drw/listings?filterType=keyword&value=software](https://www.drw.com/work-at-drw/listings?filterType=keyword&value=software)
+
+**Line changes detected!**
+
+```diff
+No line changes.
+```
 
 ---

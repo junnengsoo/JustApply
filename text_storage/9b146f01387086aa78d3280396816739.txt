@@ -16,17 +16,17 @@ All
 Category
 Location
 C++ Software Developer
-Montréal
-C++ Software Developer
 Chicago
+C++ Software Developer
+Montréal
 Full Stack Software Developer
 Montréal
 Junior Software Development Engineer in Test
 London
 Senior Software Engineer
-London
-Senior Software Engineer
 Tel Aviv
+Senior Software Engineer
+London
 Senior Software Engineer - Analytics Front Office
 Chicago
 Senior Software Engineer - Analytics Front Office
@@ -38,13 +38,13 @@ London
 Senior Software Engineer, Pricing and Derived Data
 London
 Software Developer
-London
+Chicago
 Software Developer
-Montréal
+London
 Software Developer
 Amsterdam
 Software Developer
-Chicago
+Montréal
 Software Developer - Equity Index Options
 London
 Software Developer (Golang)
