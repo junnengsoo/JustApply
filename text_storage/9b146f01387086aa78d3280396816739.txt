@@ -38,11 +38,11 @@ London
 Senior Software Engineer, Pricing and Derived Data
 London
 Software Developer
-London
-Software Developer
 Chicago
 Software Developer
 Amsterdam
+Software Developer
+London
 Software Developer
 Montréal
 Software Developer - Equity Index Options
@@ -50,21 +50,17 @@ London
 Software Developer (Golang)
 Montréal
 Software Developer Intern
-Amsterdam
+Chicago
 Software Developer Intern
 London
 Software Developer Intern
-Chicago
+Amsterdam
 Software Developer Intern (C++)
 Singapore
 Software Engineer
 London
 Software Engineer, C++
 Hong Kong
-Software Engineer – Cumberland/FICC Options Tools Engineering
-London
-Software Engineer – Cumberland/FICCO Tools Engineering
-Chicago
 Trade Support Software Engineer
 Chicago
 Who we are
