@@ -1,33 +1,16 @@
 # Latest Scraper Results
 
-## 2025-08-28 03:36:32
+## 2025-08-29 03:36:12
 
-### [https://www.drw.com/work-at-drw/listings?filterType=keyword&value=software](https://www.drw.com/work-at-drw/listings?filterType=keyword&value=software)
-
-**Line changes detected!**
-
-```diff
-- Chicago
-- London
-- Software Engineer – Cumberland/FICC Options Tools Engineering
-- Software Engineer – Cumberland/FICCO Tools Engineering
-```
-
----
-### [https://www.qube-rt.com/careers?location=London&sector=&experience=Students%20and%20New%20Grads](https://www.qube-rt.com/careers?location=London&sector=&experience=Students%20and%20New%20Grads)
+### [https://caladan.xyz/careers/](https://caladan.xyz/careers/)
 
 **Line changes detected!**
 
 ```diff
-- , x3
-- 2025 - Internship, Data Engineering
-- 2025 - Internship, Quantitative Developer
-- 2025 - Internship, Quantitative Research/Trading
-- Dubai
-- London x3
-- Paris
-- View opportunity x3
-- Zurich
++ Kraków
++ Post Trade Operations
++ View Details
++ We are looking for a hands-on Post Trade Operations Specialist responsible for executing and monitoring crypto and fiat settlements, running daily reconciliations, and resolving exceptions
 ```
 
 ---
