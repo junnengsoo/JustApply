@@ -24,8 +24,22 @@ Copy URL
 2025 Internship or Graduate - Business Data Analyst
 London
 View opportunity
-2026 Early Access - Internship, Quantitative Development & Data
+2026 - Internship, Data Engineering
+London
+,
+Paris
+View opportunity
+2026 - Internship, Quantitative Developer
+London
+,
+Paris
+View opportunity
+2026 - Internship, Quantitative Research/Trading
+Aarhus
+,
 Dubai
+,
+Geneva
 ,
 London
 ,
@@ -33,8 +47,12 @@ Paris
 ,
 Zurich
 View opportunity
-2026 Early Access - Internship, Research
+Quantitative Researcher – PhD & Postdoc Opportunities
 London
+,
+Paris
+,
+Zurich
 View opportunity
 VIE in Research
 London

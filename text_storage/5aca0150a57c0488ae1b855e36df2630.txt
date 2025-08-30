@@ -300,6 +300,7 @@ Sigma
 Tax
 Terminal
 Treasury
+Verified
 Solutions
 Startups
 Enterprises
