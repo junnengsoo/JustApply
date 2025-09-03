@@ -24,37 +24,37 @@ Montréal
 Junior Software Development Engineer in Test
 London
 Senior Software Engineer
-London
-Senior Software Engineer
 Tel Aviv
+Senior Software Engineer
+London
 Senior Software Engineer - Analytics Front Office
 Chicago
 Senior Software Engineer - Analytics Front Office
 London
 Senior Software Engineer, C/FICCO Data
-London
-Senior Software Engineer, C/FICCO Data
 Chicago
+Senior Software Engineer, C/FICCO Data
+London
 Senior Software Engineer, Pricing and Derived Data
 London
 Software Developer
-Chicago
+Montréal
 Software Developer
-London
+Chicago
 Software Developer
 Amsterdam
 Software Developer
-Montréal
+London
 Software Developer - Equity Index Options
 London
 Software Developer (Golang)
 Montréal
 Software Developer Intern
-Chicago
-Software Developer Intern
 Amsterdam
 Software Developer Intern
 London
+Software Developer Intern
+Chicago
 Software Developer Intern (C++)
 Singapore
 Software Engineer

@@ -152,8 +152,17 @@ Tags (1)
 Bridge
 Privy
 University
-No open roles match your search. Try removing filters or changing your search terms.
+Showing roles across across 1 location and all teams. 1 tag selected.
 Clear all filters
+Role
+Team
+Location
+Software Engineer, Intern
+University
+Singapore
+Software Engineering, New Grad
+University
+Singapore
 Stripe logo
 United States (English)
 Australia
