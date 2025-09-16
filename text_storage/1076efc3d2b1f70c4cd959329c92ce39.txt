@@ -1,10 +1,10 @@
 Point72 - Career Search
 P72 Careers - Header
-Menu
 About Us
 Careers
 Perspectives
 Browse Open Roles
+Menu
 About Us
 What We Do
 Our Values
@@ -23,6 +23,14 @@ Investment Services
 Proprietary Research
 Perspectives
 Browse Open Roles
+What We Do
+Learn about the strategies and asset classes that make up our global business.
+Our Values
+See how we support our people, communities, and the planet through our ESG efforts.
+Leadership
+Meet the team responsible for shaping our firm.
+Locations
+Find us in financial hubs across the globe as we pursue the world’s best talent.
 Working Here
 Learn about the culture and community you can expect when you join us.
 Define Your Path
@@ -37,14 +45,6 @@ Global Macro
 Private Investments
 Investment Services
 Proprietary Research
-What We Do
-Learn about the strategies and asset classes that make up our global business.
-Our Values
-See how we support our people, communities, and the planet through our ESG efforts.
-Leadership
-Meet the team responsible for shaping our firm.
-Locations
-Find us in financial hubs across the globe as we pursue the world’s best talent.
 Your submission is processing
 Browse Open Roles
 Filter by:
@@ -290,6 +290,7 @@ Systematic Investing
 LOCATION
 Singapore
 P72 Careers - Footer
+Point72
 About Us
 What We Do
 Our Values
@@ -314,7 +315,10 @@ Perspectives
 General Inquiries
 Press Inquiries
 Investor Login
-© 2025 Point72, L.P.    All Rights Reserved
+© 2025 Point72. All Rights Reserved
+|
 Global Privacy Policy
+|
 Terms of Use
+|
 Disclosures
