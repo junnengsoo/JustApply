@@ -58,7 +58,7 @@ Your career
 expand_more
 Search Jobs
 Search sidebar
-5
+6
 jobs matched
 Clear filters
 What do you want to do?
@@ -143,7 +143,7 @@ English
 English
 Français (Canada)
 Jobs search results
-5
+6
 jobs matched
 filter_list
 Associate Product Marketing Manager BS/MS Intern, 2026
@@ -189,6 +189,25 @@ Minimum qualifications
 Currently enrolled in a Bachelor's or Master's degree in Computer Science or a related technical field in the EMEA region.
 Experience working with data structures or algorithms during coursework/projects, research, internships, or practical experience in school or work (e.g. open-source coding).
 Coding experience in one of the following programming languages: Python, C, C++, Java, JavaScript.
+Learn more
+share
+link
+Copy link
+email
+Email a friend
+Associate Product Manager BS/MS Intern, 2026
+corporate_fare
+Google
+place
+London, UK
+bar_chart
+Intern & Apprentice
+Google |
+London, UK
+Minimum qualifications
+Currently enrolled in a Bachelor's or Master's degree in Product Management, Computer Science, Engineering, Data Science, Mathematics, Statistics or a related technical field in the EMEA region, and in your penultimate/final year of education.
+Relevant practical or internship experience, or relevant teaching assistant experience in software development, product management or a technical related field.
+Relevant practical or internship experience leading entrepreneurial efforts or outreach within organizations while building cross-functional relationships.
 Learn more
 share
 link
@@ -264,7 +283,7 @@ link
 Copy link
 email
 Email a friend
-1‑5 of 5
+1‑6 of 6
 Follow Life at Google on
 More about us
 About us
