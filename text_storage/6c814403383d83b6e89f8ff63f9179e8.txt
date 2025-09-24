@@ -163,7 +163,7 @@ London, UK
 ; +2 more
 Minimum qualifications
 Currently enrolled in a Bachelor's or Master's degree program.
-Relevant practical or internship experience in marketing, brand management, strategy consulting, marketing agency,  technology, or a related field through full time roles, internships, projects, or academic classes.
+Relevant practical or internship experience in marketing, brand management, strategy consulting, marketing agency, technology or a related field through full time roles, internships, projects or academic classes.
 Learn more
 share
 link
@@ -187,7 +187,7 @@ London, UK
 ; +6 more
 Minimum qualifications
 Currently enrolled in a Bachelor's or Master's degree in Computer Science or a related technical field in the EMEA region.
-Experience working with data structures or algorithms during coursework/projects, research, internships, or practical experience in school or work (e.g. open-source coding).
+Experience working with data structures or algorithms during coursework/projects, research, internships or practical experience in school or work (e.g., open-source coding).
 Coding experience in one of the following programming languages: Python, C, C++, Java, JavaScript.
 Learn more
 share
@@ -274,8 +274,8 @@ Munich, Germany
 Minimum qualifications
 Currently enrolled in a Bachelor's or Master's degree program in Design, Human-Computer Interaction (HCI), Product Design, Visual Communication, Interaction Design or a related field in the EMEA region.
 Relevant practical or internship experience in testing and iteration.
-Experience conducting user interviews or survey.
-Relevant practical or internship experience using design tools (e.g., Figma, Photoshop, Illustrator, Sketch, InVisio, Principle, After Effects, Framer Studio etc.).
+Experience conducting user interviews or surveys.
+Relevant practical or internship experience using design tools (e.g., Figma, Photoshop, Illustrator, Sketch, InVisio, Principle, After Effects, Framer Studio, etc.).
 A design portfolio that showcases design principles for web or mobile platforms.
 Learn more
 share
