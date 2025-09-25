@@ -24,39 +24,41 @@ Montréal
 Full Stack Software Developer
 Montréal
 Senior Software Engineer
-Tel Aviv
+London
 Senior Software Engineer
-London
-Senior Software Engineer - Analytics Front Office
-London
+Tel Aviv
 Senior Software Engineer - Analytics Front Office
 Chicago
-Senior Software Engineer, C/FICCO Data
+Senior Software Engineer - Analytics Front Office
 London
 Senior Software Engineer, C/FICCO Data
 Chicago
+Senior Software Engineer, C/FICCO Data
+London
 Senior Software Engineer, Pricing and Derived Data
 London
 Software Developer
-Chicago
+Montréal
 Software Developer
-Amsterdam
+Chicago
 Software Developer
 London
 Software Developer
-Montréal
+Amsterdam
 Software Developer (C++)
 Singapore
 Software Developer (Golang)
 Montréal
 Software Developer Intern
-London
-Software Developer Intern
 Chicago
 Software Developer Intern
 Amsterdam
+Software Developer Intern
+London
 Software Developer Intern (C++)
 Singapore
+Software Developer (Research)
+Montréal
 Software Engineer
 London
 Software Engineer, C++
