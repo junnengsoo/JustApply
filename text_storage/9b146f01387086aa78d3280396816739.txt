@@ -16,9 +16,9 @@ All
 Category
 Location
 C++ Software Developer
-Montréal
-C++ Software Developer
 Chicago
+C++ Software Developer
+Montréal
 Full Stack Software Developer
 Montréal
 Full Stack Software Developer
@@ -29,8 +29,6 @@ Senior Software Engineer
 Tel Aviv
 Senior Software Engineer - Analytics Front Office
 Chicago
-Senior Software Engineer - Analytics Front Office
-London
 Senior Software Engineer, C/FICCO Data
 Chicago
 Senior Software Engineer, C/FICCO Data
@@ -40,21 +38,21 @@ London
 Software Developer
 Chicago
 Software Developer
-Amsterdam
+London
 Software Developer
 Montréal
 Software Developer
-London
+Amsterdam
 Software Developer (C++)
 Singapore
 Software Developer (Golang)
 Montréal
 Software Developer Intern
-Chicago
-Software Developer Intern
 Amsterdam
 Software Developer Intern
 London
+Software Developer Intern
+Chicago
 Software Developer Intern (C++)
 Singapore
 Software Developer (Research)

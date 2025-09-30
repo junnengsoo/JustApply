@@ -311,23 +311,23 @@ Terminal
 Treasury
 Verified
 Solutions
-Startups
 Enterprises
-SaaS
-Platforms
-Ecommerce
-Marketplaces
+Startups
 Crypto
-Creator economy
-AI companies
+Ecommerce
 Embedded finance
-Global businesses
 Finance automation
+Global businesses
+Marketplaces
+Platforms
+SaaS
+AI companies
+Creator economy
+Hospitality, travel, and leisure
 Insurance
-Media and Entertainment
+Media and entertainment
 Nonprofits
 Retail
-Hospitality, travel and leisure
 Integrations & custom solutions
 Stripe App Marketplace
 Partner ecosystem
