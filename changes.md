@@ -1,16 +1,17 @@
 # Latest Scraper Results
 
-## 2025-09-30 03:33:04
+## 2025-10-01 03:44:20
 
 ### [https://stripe.com/jobs/search?office_locations=Asia+Pacific--Singapore&tags=University](https://stripe.com/jobs/search?office_locations=Asia+Pacific--Singapore&tags=University)
 
 **Line changes detected!**
 
 ```diff
-- Hospitality, travel and leisure
-+ Hospitality, travel, and leisure
-- Media and Entertainment
-+ Media and entertainment
++ Financial Accounts
+- Sigma
++ Stripe Sigma
+- Treasury
+- Verified
 ```
 
 ---
@@ -19,8 +20,20 @@
 **Line changes detected!**
 
 ```diff
-- London
-- Senior Software Engineer - Analytics Front Office
++ Chicago
++ London
++ Software Engineer, Research – Cumberland Systematic
++ Software Engineer, Trading – Cumberland Systematic
+```
+
+---
+### [https://www.qube-rt.com/careers?location=London&sector=&experience=Students%20and%20New%20Grads](https://www.qube-rt.com/careers?location=London&sector=&experience=Students%20and%20New%20Grads)
+
+**Line changes detected!**
+
+```diff
+- ,
+- Paris
 ```
 
 ---

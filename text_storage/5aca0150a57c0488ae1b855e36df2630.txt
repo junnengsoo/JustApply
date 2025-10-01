@@ -295,6 +295,7 @@ Climate
 Connect
 Data Pipeline
 Elements
+Financial Accounts
 Financial Connections
 Identity
 Invoicing
@@ -305,11 +306,9 @@ Payment Links
 Payouts
 Radar
 Revenue Recognition
-Sigma
+Stripe Sigma
 Tax
 Terminal
-Treasury
-Verified
 Solutions
 Enterprises
 Startups

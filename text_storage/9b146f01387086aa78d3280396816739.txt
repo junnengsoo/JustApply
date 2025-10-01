@@ -16,9 +16,9 @@ All
 Category
 Location
 C++ Software Developer
-Chicago
-C++ Software Developer
 Montréal
+C++ Software Developer
+Chicago
 Full Stack Software Developer
 Montréal
 Full Stack Software Developer
@@ -40,19 +40,19 @@ Chicago
 Software Developer
 London
 Software Developer
-Montréal
-Software Developer
 Amsterdam
+Software Developer
+Montréal
 Software Developer (C++)
 Singapore
 Software Developer (Golang)
 Montréal
 Software Developer Intern
-Amsterdam
-Software Developer Intern
 London
 Software Developer Intern
 Chicago
+Software Developer Intern
+Amsterdam
 Software Developer Intern (C++)
 Singapore
 Software Developer (Research)
@@ -62,6 +62,10 @@ London
 Software Engineer, C++
 Hong Kong
 Software Engineer - Compliance, Inquiry and Audit
+London
+Software Engineer, Research – Cumberland Systematic
+Chicago
+Software Engineer, Trading – Cumberland Systematic
 London
 Trade Support Software Engineer
 Chicago
