@@ -1,17 +1,13 @@
 # Latest Scraper Results
 
-## 2025-10-01 03:44:20
+## 2025-10-02 03:31:15
 
-### [https://stripe.com/jobs/search?office_locations=Asia+Pacific--Singapore&tags=University](https://stripe.com/jobs/search?office_locations=Asia+Pacific--Singapore&tags=University)
+### [https://www.google.com/about/careers/applications/jobs/results/?src=Online/Google%20Website/ByF&distance=50&employment_type=INTERN&company=Fitbit&company=Google&location=Singapore&location=London,%20UK](https://www.google.com/about/careers/applications/jobs/results/?src=Online/Google%20Website/ByF&distance=50&employment_type=INTERN&company=Fitbit&company=Google&location=Singapore&location=London,%20UK)
 
 **Line changes detected!**
 
 ```diff
-+ Financial Accounts
-- Sigma
-+ Stripe Sigma
-- Treasury
-- Verified
++ AI at Google
 ```
 
 ---
@@ -20,20 +16,16 @@
 **Line changes detected!**
 
 ```diff
-+ Chicago
-+ London
-+ Software Engineer, Research – Cumberland Systematic
-+ Software Engineer, Trading – Cumberland Systematic
+No line changes.
 ```
 
 ---
-### [https://www.qube-rt.com/careers?location=London&sector=&experience=Students%20and%20New%20Grads](https://www.qube-rt.com/careers?location=London&sector=&experience=Students%20and%20New%20Grads)
+### [https://www.quantedge.com/careers](https://www.quantedge.com/careers)
 
 **Line changes detected!**
 
 ```diff
-- ,
-- Paris
++ Privacy Policy
 ```
 
 ---
