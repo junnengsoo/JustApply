@@ -36,13 +36,13 @@ London
 Senior Software Engineer, Pricing and Derived Data
 London
 Software Developer
-London
+Montréal
 Software Developer
 Amsterdam
 Software Developer
-Chicago
+London
 Software Developer
-Montréal
+Chicago
 Software Developer (C++)
 Singapore
 Software Developer (Golang)

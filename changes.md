@@ -1,16 +1,7 @@
 # Latest Scraper Results
 
-## 2025-10-02 03:31:15
+## 2025-10-03 03:30:14
 
-### [https://www.google.com/about/careers/applications/jobs/results/?src=Online/Google%20Website/ByF&distance=50&employment_type=INTERN&company=Fitbit&company=Google&location=Singapore&location=London,%20UK](https://www.google.com/about/careers/applications/jobs/results/?src=Online/Google%20Website/ByF&distance=50&employment_type=INTERN&company=Fitbit&company=Google&location=Singapore&location=London,%20UK)
-
-**Line changes detected!**
-
-```diff
-+ AI at Google
-```
-
----
 ### [https://www.drw.com/work-at-drw/listings?filterType=keyword&value=software](https://www.drw.com/work-at-drw/listings?filterType=keyword&value=software)
 
 **Line changes detected!**
@@ -20,12 +11,17 @@ No line changes.
 ```
 
 ---
-### [https://www.quantedge.com/careers](https://www.quantedge.com/careers)
+### [https://caladan.xyz/careers/](https://caladan.xyz/careers/)
 
 **Line changes detected!**
 
 ```diff
-+ Privacy Policy
+- - Kuala Lumpur
+- HR Administrator
+- Kuala Lumpur
+- People x2
+- View Details
+- We are looking for a detail-oriented, proactive HR Administrator
 ```
 
 ---
