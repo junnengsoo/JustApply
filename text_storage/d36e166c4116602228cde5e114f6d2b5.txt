@@ -27,6 +27,7 @@ Hiring process
 Blog
 Log in/Create profile
 Search Meta Careers
+Search
 Hide filters
 0 Items
 Save this search
@@ -46,22 +47,14 @@ Artificial Intelligence
 Business Development & Partnerships
 Communications & Public Policy
 Show more
-Employment Type
+Employment type
 Full time employment
 Internship
 Short term employment
 Location
-London%2C%20UK
-Singapore
-Menlo%20Park%2C%20CA
-New%20York%2C%20NY
-Seattle%2C%20WA
-Menlo Park, CA
-London, UK
-Seattle, WA
-New York, NY
-Apply Filters
-Clear Filters
+Location
+Apply filters
+Clear filters
 There are currently no open roles matching your search.
 Log in or sign up for Career Profile to save your search and get alerts when opportunites open.
 Careers

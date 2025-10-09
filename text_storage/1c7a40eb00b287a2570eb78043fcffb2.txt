@@ -41,9 +41,11 @@ Careers
 All Departments
 Engineering & Trading
 Expeditions
+Finance & Legal
 Operations
 All Offices
 - Ho Chi Minh City
+- Kuala Lumpur
 - Singapore
 - Amsterdam
 - - Kraków
@@ -81,6 +83,11 @@ Investor Sales
 Singapore
 Caladan is a fast-growing leader in cryptocurrency markets with a reputation for cutting-edge technology and innovative strategies
 View Details
+Finance & Legal
+Senior Compliance Officer
+Kuala Lumpur | Singapore
+We’re looking for a proactive Compliance Manager to help operationalise our compliance framework as we scale — embedding strong controls and processes across trading, operations, and finance
+View Details
 Operations
 Liquidity Manager
 Singapore
@@ -96,7 +103,6 @@ We are looking for a hands-on, analytically sharp Risk Manager to build the foun
 View Details
 Technical Product Owner
 Kraków
-About the Role
 We are looking for a hands-on (Junior) Technical Product Owner to join our Back/Middle Office team
 View Details
 Treasury Operations Manager
