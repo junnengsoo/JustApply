@@ -1,29 +1,13 @@
 # Latest Scraper Results
 
-## 2025-10-09 03:34:21
+## 2025-10-10 03:34:16
 
-### [https://www.metacareers.com/jobs?roles%5B0%5D=Internship&offices%5B0%5D=London%252C%2520UK&offices%5B1%5D=Singapore&offices%5B2%5D=Menlo%2520Park%252C%2520CA&offices%5B3%5D=New%2520York%252C%2520NY&offices%5B4%5D=Seattle%252C%2520WA](https://www.metacareers.com/jobs?roles%5B0%5D=Internship&offices%5B0%5D=London%252C%2520UK&offices%5B1%5D=Singapore&offices%5B2%5D=Menlo%2520Park%252C%2520CA&offices%5B3%5D=New%2520York%252C%2520NY&offices%5B4%5D=Seattle%252C%2520WA)
+### [https://stripe.com/jobs/search?office_locations=Asia+Pacific--Singapore&tags=University](https://stripe.com/jobs/search?office_locations=Asia+Pacific--Singapore&tags=University)
 
 **Line changes detected!**
 
 ```diff
-- Apply Filters
-+ Apply filters
-- Clear Filters
-+ Clear filters
-- Employment Type
-+ Employment type
-+ Location
-- London%2C%20UK
-- London, UK
-- Menlo Park, CA
-- Menlo%20Park%2C%20CA
-- New York, NY
-- New%20York%2C%20NY
-+ Search
-- Seattle%2C%20WA
-- Seattle, WA
-- Singapore
++ Authorization Boost
 ```
 
 ---
@@ -32,8 +16,8 @@
 **Line changes detected!**
 
 ```diff
-+ London
-+ Software Engineer, Java, GD1
+- C++ Software Developer
+- Chicago
 ```
 
 ---
@@ -42,13 +26,13 @@
 **Line changes detected!**
 
 ```diff
-+ - Kuala Lumpur
-- About the Role
-+ Finance & Legal x2
++ Credit Risk Associate
++ Finance x2
+- Finance & Legal x2
 + Kuala Lumpur | Singapore
-+ Senior Compliance Officer
++ Treasury, Risk and Product x2
 + View Details
-+ We’re looking for a proactive Compliance Manager to help operationalise our compliance framework as we scale — embedding strong controls and processes across trading, operations, and finance
++ We are seeking a Credit Risk Associate to support our multi-strategy crypto trading firm
 ```
 
 ---

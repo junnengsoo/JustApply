@@ -16,8 +16,6 @@ All
 Category
 Location
 C++ Software Developer
-Chicago
-C++ Software Developer
 Montréal
 Full Stack Software Developer
 Montréal
@@ -36,9 +34,9 @@ London
 Senior Software Engineer, Pricing and Derived Data
 London
 Software Developer
-Chicago
-Software Developer
 Montréal
+Software Developer
+Chicago
 Software Developer
 London
 Software Developer (C++)

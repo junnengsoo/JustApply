@@ -288,6 +288,7 @@ Español
 Products & pricing
 Pricing
 Atlas
+Authorization Boost
 Billing
 Capital
 Checkout
