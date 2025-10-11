@@ -1,38 +1,33 @@
 # Latest Scraper Results
 
-## 2025-10-10 03:34:16
+## 2025-10-11 03:27:38
 
-### [https://stripe.com/jobs/search?office_locations=Asia+Pacific--Singapore&tags=University](https://stripe.com/jobs/search?office_locations=Asia+Pacific--Singapore&tags=University)
-
-**Line changes detected!**
-
-```diff
-+ Authorization Boost
-```
-
----
 ### [https://www.drw.com/work-at-drw/listings?filterType=keyword&value=software](https://www.drw.com/work-at-drw/listings?filterType=keyword&value=software)
 
 **Line changes detected!**
 
 ```diff
-- C++ Software Developer
-- Chicago
+No line changes.
 ```
 
 ---
-### [https://caladan.xyz/careers/](https://caladan.xyz/careers/)
+### [https://careers.point72.com/?experience=internships&location=singapore;hong%20kong;sydney](https://careers.point72.com/?experience=internships&location=singapore;hong%20kong;sydney)
 
 **Line changes detected!**
 
 ```diff
-+ Credit Risk Associate
-+ Finance x2
-- Finance & Legal x2
-+ Kuala Lumpur | Singapore
-+ Treasury, Risk and Product x2
-+ View Details
-+ We are seeking a Credit Risk Associate to support our multi-strategy crypto trading firm
++ 2026 Compliance Intern, Asia Pacific Trading
+- 6 Open Roles
++ 9 Open Roles
++ Compliance
++ FOCUS x3
++ Hong Kong
++ LOCATION x3
++ ROLE x3
++ Regulatory Reporting Intern
++ Securities Lending Trader Intern
++ Singapore x2
++ Trade Support & Reporting x2
 ```
 
 ---
