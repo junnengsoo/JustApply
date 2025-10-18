@@ -1,6 +1,6 @@
 # Latest Scraper Results
 
-## 2025-10-17 03:35:51
+## 2025-10-18 03:29:33
 
 ### [https://www.drw.com/work-at-drw/listings?filterType=keyword&value=software](https://www.drw.com/work-at-drw/listings?filterType=keyword&value=software)
 
@@ -16,10 +16,14 @@ No line changes.
 **Line changes detected!**
 
 ```diff
-+ 2026 Corporate Access Summer Intern, Hong Kong
-- 2026 Corporate Access Summer Intern, Hong Kong)
-+ Broker Relations
-- Corporate Communications
+- 11 Open Roles
++ 12 Open Roles
++ 2026 Operations Summer Intern, Singapore
++ FOCUS
++ LOCATION
++ Operations
++ ROLE
++ Singapore
 ```
 
 ---
