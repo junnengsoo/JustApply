@@ -45,6 +45,11 @@ Finance
 Operations
 Treasury, Risk and Product
 All Offices
+- Ho Chi Minh City
+- Kuala Lumpur
+- Singapore
+- Amsterdam
+- - Kraków
 Engineering & Trading
 DeFi Quant Trader
 Ho Chi Minh City
