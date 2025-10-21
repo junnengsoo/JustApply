@@ -34,11 +34,11 @@ London
 Senior Software Engineer, Pricing and Derived Data
 London
 Software Developer
-London
-Software Developer
 Chicago
 Software Developer
 Montréal
+Software Developer
+London
 Software Developer (C++)
 Singapore
 Software Developer Intern
