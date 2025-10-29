@@ -13,6 +13,7 @@ Available Positions:
 Portfolio Manager
 Trader
 Software Engineer (C++)
+Quantitative Researcher
 Junior Software Engineer (C++)
 About Us
 Technology

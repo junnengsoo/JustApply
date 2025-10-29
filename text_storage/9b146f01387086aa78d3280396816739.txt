@@ -22,9 +22,9 @@ Montréal
 Full Stack Software Developer
 Montréal
 Senior Software Engineer
-Tel Aviv
-Senior Software Engineer
 London
+Senior Software Engineer
+Tel Aviv
 Senior Software Engineer - Analytics Front Office
 Chicago
 Senior Software Engineer, C/FICCO Data
@@ -34,9 +34,9 @@ London
 Senior Software Engineer, Pricing and Derived Data
 London
 Software Developer
-Montréal
-Software Developer
 London
+Software Developer
+Montréal
 Software Developer
 Chicago
 Software Developer (C++)
@@ -44,9 +44,9 @@ Singapore
 Software Developer Intern
 Chicago
 Software Developer Intern
-Amsterdam
-Software Developer Intern
 London
+Software Developer Intern
+Amsterdam
 Software Developer Intern (C++)
 Singapore
 Software Developer (Research)
@@ -55,6 +55,8 @@ Software Engineer, C++
 Hong Kong
 Software Engineer - Compliance, Inquiry and Audit
 London
+Software Engineer - Compliance, Inquiry, and Audit
+Chicago
 Software Engineer, Java, GD1
 London
 Software Engineer, Research – Cumberland Systematic

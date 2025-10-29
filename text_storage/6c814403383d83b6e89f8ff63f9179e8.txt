@@ -59,8 +59,8 @@ Your career
 expand_more
 Search Jobs
 Search sidebar
-0
-jobs matched
+1
+job matched
 Clear filters
 What do you want to do?
 Locations
@@ -144,13 +144,34 @@ English
 English
 Français (Canada)
 Jobs search results
-0
-jobs matched
+1
+job matched
 filter_list
-search
-No results
-Search again or try updating your filters
-Clear filters
+Student Researcher, 2026
+corporate_fare
+Google
+place
+Zürich, Switzerland
+; Berlin, Germany
+; +7 more
+; +6 more
+bar_chart
+Intern & Apprentice
+Google |
+Zürich, Switzerland
+; Berlin, Germany
+; +7 more
+; +6 more
+Minimum qualifications
+Currently pursuing a Bachelor’s, Master’s, or PhD degree in Computer Science, Linguistics, Statistics, Biostatistics, Applied Mathematics, Operations Research, Economics, or Natural Sciences, or equivalent practical experience.
+Experience in one area of computer science (e.g., Natural Language Understanding, Human Computer Interactions, Generative Media, Computer Vision, Machine Learning, Deep Learning, Algorithmic Foundations of Optimization, Quantum Information Science, Data Science, Software Engineering, or similar areas).
+Learn more
+share
+link
+Copy link
+email
+Email a friend
+1‑1 of 1
 Follow Life at Google on
 More about us
 About us
