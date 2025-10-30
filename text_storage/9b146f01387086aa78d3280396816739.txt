@@ -34,23 +34,25 @@ London
 Senior Software Engineer, Pricing and Derived Data
 London
 Software Developer
-London
-Software Developer
 Montréal
+Software Developer
+London
 Software Developer
 Chicago
 Software Developer (C++)
 Singapore
 Software Developer Intern
+Amsterdam
+Software Developer Intern
 Chicago
 Software Developer Intern
 London
-Software Developer Intern
-Amsterdam
 Software Developer Intern (C++)
 Singapore
 Software Developer (Research)
 Montréal
+Software Engineer
+London
 Software Engineer, C++
 Hong Kong
 Software Engineer - Compliance, Inquiry and Audit

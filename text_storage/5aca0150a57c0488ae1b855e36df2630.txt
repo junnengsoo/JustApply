@@ -64,6 +64,7 @@ New Financial Products
 Payments
 Platform
 Professional Services
+Privy
 Revenue & Financial Automation
 Stripe Tax
 Terminal
