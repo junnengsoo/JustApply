@@ -1,7 +1,16 @@
 # Latest Scraper Results
 
-## 2025-11-02 03:47:42
+## 2025-11-03 03:52:52
 
-**No changes for today**
+### [https://caladan.xyz/careers/](https://caladan.xyz/careers/)
+
+**Line changes detected!**
+
+```diff
+- Kraków
+- Post Trade Operations
+- View Details
+- We are looking for a hands-on Post Trade Operations Specialist responsible for executing and monitoring crypto and fiat settlements, running daily reconciliations, and resolving exceptions
+```
 
 ---
