@@ -42,7 +42,6 @@ All Departments
 Engineering & Trading
 Expeditions
 Legal & Compliance
-Operations
 Treasury, Risk and Product
 All Offices
 - Ho Chi Minh City
@@ -88,11 +87,6 @@ Legal & Compliance
 Senior Compliance Officer
 Kuala Lumpur | Singapore
 We’re looking for a proactive Compliance Manager to help operationalise our compliance framework as we scale — embedding strong controls and processes across trading, operations, and finance
-View Details
-Operations
-Technical Product Owner
-Kraków
-We are looking for a hands-on (Junior) Technical Product Owner to join our Back/Middle Office team
 View Details
 Treasury, Risk and Product
 Credit Risk
