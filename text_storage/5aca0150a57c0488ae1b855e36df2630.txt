@@ -337,12 +337,13 @@ Documentation
 API reference
 API status
 API changelog
-Stripe Apps
+Libraries and SDKs
+Developer blog
 Resources
 Guides
 Customer stories
 Blog
-Annual conference
+Sessions annual conference
 Privacy & terms
 Prohibited & restricted businesses
 Licenses

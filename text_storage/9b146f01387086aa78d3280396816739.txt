@@ -36,19 +36,19 @@ London
 Software Developer
 Chicago
 Software Developer
-Montréal
-Software Developer
 London
+Software Developer
+Montréal
 Software Developer (C++)
 Singapore
 Software Developer (Data Analytics)
 Montréal
 Software Developer Intern
+Amsterdam
+Software Developer Intern
 Chicago
 Software Developer Intern
 London
-Software Developer Intern
-Amsterdam
 Software Developer Intern (C++)
 Singapore
 Software Developer (Research)
@@ -62,6 +62,8 @@ London
 Software Engineer - Compliance, Inquiry, and Audit
 Chicago
 Software Engineer, Java, GD1
+London
+Software Engineer, Research – Cumberland Systematic
 London
 Software Engineer, Research – Cumberland Systematic
 Chicago
