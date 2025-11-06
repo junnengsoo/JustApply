@@ -28,25 +28,25 @@ Tel Aviv
 Senior Software Engineer - Analytics Front Office
 Chicago
 Senior Software Engineer, C/FICCO Data
-Chicago
-Senior Software Engineer, C/FICCO Data
 London
+Senior Software Engineer, C/FICCO Data
+Chicago
 Senior Software Engineer, Pricing and Derived Data
 London
 Software Developer
-Chicago
+Montréal
 Software Developer
 London
 Software Developer
-Montréal
+Chicago
 Software Developer (C++)
 Singapore
 Software Developer (Data Analytics)
 Montréal
 Software Developer Intern
-Amsterdam
-Software Developer Intern
 Chicago
+Software Developer Intern
+Amsterdam
 Software Developer Intern
 London
 Software Developer Intern (C++)
@@ -62,6 +62,8 @@ London
 Software Engineer - Compliance, Inquiry, and Audit
 Chicago
 Software Engineer, Java, GD1
+London
+Software Engineer, Python, GD1
 London
 Software Engineer, Research – Cumberland Systematic
 London

@@ -42,6 +42,7 @@ All Departments
 Engineering & Trading
 Expeditions
 Legal & Compliance
+Operations
 Treasury, Risk and Product
 All Offices
 - Ho Chi Minh City
@@ -87,6 +88,11 @@ Legal & Compliance
 Senior Compliance Officer
 Kuala Lumpur | Singapore
 We’re looking for a proactive Compliance Manager to help operationalise our compliance framework as we scale — embedding strong controls and processes across trading, operations, and finance
+View Details
+Operations
+Post Trade Operations
+Kuala Lumpur
+We are looking for a hands-on Post Trade Operations Specialist responsible for executing and monitoring crypto and fiat settlements, running daily reconciliations, and resolving exceptions
 View Details
 Treasury, Risk and Product
 Credit Risk
