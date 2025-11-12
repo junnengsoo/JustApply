@@ -3,7 +3,7 @@ Skip to content
 Who We Are
 What We Do
 Market Making
-Structured Products
+OTC Trading
 DeFi Solutions
 API Liquidity
 Investments
@@ -12,7 +12,7 @@ Writing
 Who We Are
 What We Do
 Market Making
-Structured Products
+OTC Trading
 DeFi Solutions
 API Liquidity
 Investments
@@ -21,7 +21,7 @@ Writing
 Who We Are
 What We Do
 Market Making
-Structured Products
+OTC Trading
 DeFi Solutions
 API Liquidity
 Investments
@@ -30,7 +30,7 @@ Writing
 Who We Are
 What We Do
 Market Making
-Structured Products
+OTC Trading
 DeFi Solutions
 API Liquidity
 Investments
@@ -53,10 +53,6 @@ Engineering & Trading
 Business Management Intern
 Singapore
 We are looking for a proactive and motivated intern to join the OTC derivatives desk
-View Details
-DeFi Quant Trader
-Ho Chi Minh City
-We are seeking a DeFi Quant Trader to join our firm
 View Details
 Quantitative Researcher
 Singapore
@@ -92,15 +88,11 @@ Kuala Lumpur
 We are seeking a detail-oriented and highly organized General Ledger (GL) Accountant to manage and oversee the integrity of our financial records and reporting
 View Details
 Operations
-Post Trade Operations
+Post Trade Operations [US Coverage]
 Kuala Lumpur
 We are looking for a hands-on Post Trade Operations Specialist responsible for executing and monitoring crypto and fiat settlements, running daily reconciliations, and resolving exceptions
 View Details
 Treasury, Risk and Product
-Credit Risk
-Singapore
-We are seeking a Credit Risk Associate to support our multi-strategy crypto trading firm
-View Details
 Liquidity Manager
 Singapore
 We are seeking a Liquidity Manager to service our multi strategy crypto trading business

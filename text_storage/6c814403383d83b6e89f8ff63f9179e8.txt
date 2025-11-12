@@ -59,7 +59,7 @@ Your career
 expand_more
 Search Jobs
 Search sidebar
-3
+4
 jobs matched
 Clear filters
 What do you want to do?
@@ -144,7 +144,7 @@ English
 English
 Français (Canada)
 Jobs search results
-3
+4
 jobs matched
 filter_list
 Student Researcher, 2026
@@ -210,7 +210,25 @@ link
 Copy link
 email
 Email a friend
-1‑3 of 3
+Data Center Technician Intern, 2026
+corporate_fare
+Google
+place
+Singapore
+bar_chart
+Intern & Apprentice
+Google |
+Singapore
+Minimum qualifications
+Currently enrolled in a Bachelor's degree or Master's degree in Computer Science, Electronics, Information Technology, or similar technical area of study.
+Experience installing a network or Linux system and with the basic concepts around these.
+Learn more
+share
+link
+Copy link
+email
+Email a friend
+1‑4 of 4
 Follow Life at Google on
 More about us
 About us
