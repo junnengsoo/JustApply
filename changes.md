@@ -1,36 +1,7 @@
 # Latest Scraper Results
 
-## 2025-11-12 03:46:29
+## 2025-11-13 03:49:04
 
-### [https://www.google.com/about/careers/applications/jobs/results/?src=Online/Google%20Website/ByF&distance=50&employment_type=INTERN&company=Fitbit&company=Google&location=Singapore&location=London,%20UK](https://www.google.com/about/careers/applications/jobs/results/?src=Online/Google%20Website/ByF&distance=50&employment_type=INTERN&company=Fitbit&company=Google&location=Singapore&location=London,%20UK)
-
-**Line changes detected!**
-
-```diff
-- 1‑3 of 3
-+ 1‑4 of 4
-- 3 x2
-+ 4 x2
-+ Copy link
-+ Currently enrolled in a Bachelor's degree or Master's degree in Computer Science, Electronics, Information Technology, or similar technical area of study.
-+ Data Center Technician Intern, 2026
-+ Email a friend
-+ Experience installing a network or Linux system and with the basic concepts around these.
-+ Google
-+ Google |
-+ Intern & Apprentice
-+ Learn more
-+ Minimum qualifications
-+ Singapore x2
-+ bar_chart
-+ corporate_fare
-+ email
-+ link
-+ place
-+ share
-```
-
----
 ### [https://www.drw.com/work-at-drw/listings?filterType=keyword&value=software](https://www.drw.com/work-at-drw/listings?filterType=keyword&value=software)
 
 **Line changes detected!**
@@ -45,17 +16,10 @@ No line changes.
 **Line changes detected!**
 
 ```diff
-- Credit Risk
-- DeFi Quant Trader
-- Ho Chi Minh City
-+ OTC Trading x4
-- Post Trade Operations
-+ Post Trade Operations [US Coverage]
+- Quantitative Researcher
 - Singapore
-- Structured Products x4
-- View Details x2
-- We are seeking a Credit Risk Associate to support our multi-strategy crypto trading firm
-- We are seeking a DeFi Quant Trader to join our firm
+- The Quantitative Researcher will collaborate with traders, engineers, and other stakeholders to drive profitable, data-informed trading strategies in both CeFi and DeFi markets
+- View Details
 ```
 
 ---
@@ -64,27 +28,11 @@ No line changes.
 **Line changes detected!**
 
 ```diff
-+ Data Science
-+ Data Scientist - Internship [Summer 2026]
++ AI Research Scientist - Internship [2026 Summer]
 + Internship
++ Quantitative Research
 + United States - NY New York
 + View role x2
-```
-
----
-### [https://careers.point72.com/?experience=internships&location=singapore;hong%20kong;sydney](https://careers.point72.com/?experience=internships&location=singapore;hong%20kong;sydney)
-
-**Line changes detected!**
-
-```diff
-- 11 Open Roles
-+ 12 Open Roles
-+ FOCUS
-+ LOCATION
-+ New York   |   Hong Kong   |   Paris
-+ Quantitative Software Developer Intern
-+ ROLE
-+ Systematic Investing
 ```
 
 ---
