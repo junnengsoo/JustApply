@@ -252,7 +252,7 @@ Business Acceleration Team
 Private Equity & Venture Capital
 Finance & Accounting
 Find Open Roles
-12 Open Roles
+11 Open Roles
 ROLE
 2026 Economist Summer Intern
 FOCUS
@@ -313,12 +313,6 @@ FOCUS
 Systematic Investing
 LOCATION
 London   |   Hong Kong   |   Tokyo   |   Paris
-ROLE
-Quantitative Software Developer Intern
-FOCUS
-Systematic Investing
-LOCATION
-New York   |   Hong Kong   |   Paris
 ROLE
 Quantitative Alpha Researcher Intern
 FOCUS
