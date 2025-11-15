@@ -68,7 +68,7 @@ Privy
 Revenue & Financial Automation
 Stripe Tax
 Terminal
-Risk
+Risk & Financial Crimes
 Security
 Tech Programs
 University
@@ -157,9 +157,6 @@ Clear all filters
 Role
 Team
 Location
-Software Engineer, Intern
-University
-Singapore
 Software Engineering, New Grad
 University
 Singapore

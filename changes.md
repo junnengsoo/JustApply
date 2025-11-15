@@ -1,42 +1,30 @@
 # Latest Scraper Results
 
-## 2025-11-14 03:47:04
+## 2025-11-15 03:41:32
 
-### [https://www.drw.com/work-at-drw/listings?filterType=keyword&value=software](https://www.drw.com/work-at-drw/listings?filterType=keyword&value=software)
+### [https://stripe.com/jobs/search?office_locations=Asia+Pacific--Singapore&tags=University](https://stripe.com/jobs/search?office_locations=Asia+Pacific--Singapore&tags=University)
 
 **Line changes detected!**
 
 ```diff
-No line changes.
+- Risk
++ Risk & Financial Crimes
+- Singapore
+- Software Engineer, Intern
+- University
 ```
 
 ---
-### [https://caladan.xyz/careers/](https://caladan.xyz/careers/)
+### [https://careers.twosigma.com/careers/OpenRoles/?5081=%5B16718737%5D&5081_format=3146&listFilterMode=1&jobRecordsPerPage=10&](https://careers.twosigma.com/careers/OpenRoles/?5081=%5B16718737%5D&5081_format=3146&listFilterMode=1&jobRecordsPerPage=10&)
 
 **Line changes detected!**
 
 ```diff
-+ Kuala Lumpur
-+ Legal & Compliance x2
-+ Legal Counsel (Corporate Generalist)
-+ View Details
-+ We’re looking for a versatile and proactive Legal Counsel (Corporate Generalist) to join our legal team
-```
-
----
-### [https://careers.point72.com/?experience=internships&location=singapore;hong%20kong;sydney](https://careers.point72.com/?experience=internships&location=singapore;hong%20kong;sydney)
-
-**Line changes detected!**
-
-```diff
-+ 11 Open Roles
-- 12 Open Roles
-- FOCUS
-- LOCATION
-- New York   |   Hong Kong   |   Paris
-- Quantitative Software Developer Intern
-- ROLE
-- Systematic Investing
++ Engineering
++ Internship
++ Software Engineering Internship - NYC
++ United States - NY New York
++ View role x2
 ```
 
 ---
