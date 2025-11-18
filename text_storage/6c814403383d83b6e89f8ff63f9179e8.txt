@@ -59,7 +59,7 @@ Your career
 expand_more
 Search Jobs
 Search sidebar
-4
+5
 jobs matched
 Clear filters
 What do you want to do?
@@ -144,7 +144,7 @@ English
 English
 Français (Canada)
 Jobs search results
-4
+5
 jobs matched
 filter_list
 Student Researcher, 2026
@@ -165,6 +165,26 @@ Zürich, Switzerland
 Minimum qualifications
 Currently pursuing a Bachelor’s, Master’s, or PhD degree in Computer Science, Linguistics, Statistics, Biostatistics, Applied Mathematics, Operations Research, Economics, or Natural Sciences, or equivalent practical experience.
 Experience in one area of computer science (e.g., Natural Language Understanding, Human Computer Interactions, Generative Media, Computer Vision, Machine Learning, Deep Learning, Algorithmic Foundations of Optimization, Quantum Information Science, Data Science, Software Engineering, or similar areas).
+Learn more
+share
+link
+Copy link
+email
+Email a friend
+User Experience Design Summer Intern, 2026
+corporate_fare
+Google
+place
+Singapore
+bar_chart
+Intern & Apprentice
+Google |
+Singapore
+Minimum qualifications
+Currently enrolled in a Bachelor's degree or Master's degree in Design, Human-Computer Interaction, Product Design, Visual Communication, Interaction Design, Interactive Media or related field.
+Experience with design tools (e.g., Figma, Adobe, etc.).
+Experience conducting user interviews or surveys. Experience applying user-centered principles in intern, work, or project setting.
+A design portfolio that demonstrates design principles.
 Learn more
 share
 link
@@ -228,7 +248,7 @@ link
 Copy link
 email
 Email a friend
-1‑4 of 4
+1‑5 of 5
 Follow Life at Google on
 More about us
 About us
