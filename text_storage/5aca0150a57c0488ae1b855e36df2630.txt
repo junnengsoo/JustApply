@@ -315,6 +315,7 @@ Ecommerce
 Embedded finance
 Finance automation
 Global businesses
+In-app payments
 Marketplaces
 Platforms
 SaaS
