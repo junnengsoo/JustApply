@@ -41,6 +41,9 @@ London
 Account Executive, BaaS Product Sales (German Speaking)
 Sales
 Berlin
+Account Executive, Benelux & Nordics - Existing Business
+Sales
+Dublin HQ
 Account Executive, Commercial - DACH
 Sales
 Berlin
@@ -52,37 +55,37 @@ Sales
 Dublin HQ
 Account Executive, Commercial (Existing Business)
 Sales
-Remote in United States
+Chicago
 Account Executive, Commercial (Existing Business)
 Sales
-Chicago
+Remote in United States
 Account Executive, Commercial (New Business)
 Sales
 Chicago
 Account Executive, Enterprise
 Sales
-Toronto
+Remote in Canada
 Account Executive, Enterprise
 Sales
-Remote in Canada
+Toronto
+Account Executive, Enterprise - Public Sector (New Business)
+Sales
+Chicago
 Account Executive, Enterprise - Public Sector (New Business)
 Sales
 Washington DC
 Account Executive, Enterprise - Public Sector (New Business)
 Sales
-Remote in United States
+New York
 Account Executive, Enterprise - Public Sector (New Business)
 Sales
 South San Francisco HQ
 Account Executive, Enterprise - Public Sector (New Business)
 Sales
-New York
-Account Executive, Enterprise - Public Sector (New Business)
-Sales
-Chicago
+Remote in United States
 Account Executive, Enterprise (Existing Business)
 Sales
-New York
+Remote in United States
 Account Executive, Enterprise (Existing Business)
 Sales
 Remote in United States
@@ -91,46 +94,46 @@ Sales
 Chicago
 Account Executive, Enterprise (Existing Business)
 Sales
-Remote in United States
+New York
 Account Executive, Enterprise (Existing Business)
 Sales
 South San Francisco HQ
 Account Executive, Enterprise (New Business)
 Sales
 Chicago
-Account Executive, Enterprise (New Business)
-Sales
-Remote in United States
 Account Executive, Enterprise (New Business)
 Sales
 Seattle
 Account Executive, Enterprise (New Business)
 Sales
 New York
-Account Executive, Enterprise AUNZ
+Account Executive, Enterprise (New Business)
 Sales
-Melbourne
+Remote in United States
 Account Executive, Enterprise AUNZ
 Sales
 Sydney
+Account Executive, Enterprise AUNZ
+Sales
+Melbourne
 Account Executive, Enterprise Japan
 Sales
 Tokyo
+Account Executive, Enterprise Platforms, Hunter
+Sales
+Chicago
 Account Executive, Enterprise Platforms, Hunter
 Sales
 New York
 Account Executive, Enterprise Platforms, Hunter
 Sales
 Remote in United States
-Account Executive, Enterprise Platforms, Hunter
-Sales
-Chicago
-Account Executive, Existing Business - Startups
-Sales
-Sydney
 Account Executive, Existing Business - Startups
 Sales
 Melbourne
+Account Executive, Existing Business - Startups
+Sales
+Sydney
 Account Executive, Funded Startups
 Sales
 Dublin HQ
@@ -139,10 +142,10 @@ Sales
 London
 Account Executive, Funded Startups (Existing Business)
 Sales
-South San Francisco HQ
+Chicago
 Account Executive, Funded Startups (Existing Business)
 Sales
-Chicago
+South San Francisco HQ
 Account Executive, Iberia
 Sales
 Madrid
@@ -151,19 +154,19 @@ Sales
 Singapore
 Account Executive, Platforms (Existing Business)
 Sales
-South San Francisco HQ
+New York
 Account Executive, Platforms (Existing Business)
 Sales
-New York
+South San Francisco HQ
 Account Executive, Platforms (French Speaking)
 Sales
 Dublin HQ
 Account Executive, Platforms (Grower)
 Sales
-South San Francisco HQ
+New York
 Account Executive, Platforms (Grower)
 Sales
-New York
+South San Francisco HQ
 Account Executive, Platforms (New Business)
 Sales
 Chicago
@@ -205,10 +208,13 @@ Sales
 New York
 Account Executive, Product Sales, Radar (NYC)
 Sales
-Remote in United States
+Chicago
 Account Executive, Product Sales, Radar (NYC)
 Sales
-Chicago
+Remote in United States
+Account Executive, SMB (French Speaking)
+Sales
+Dublin HQ
 Account Executive, SMB Platforms (New Business)
 Sales
 New York
@@ -268,13 +274,13 @@ People Functions
 Singapore
 APAC Product Marketing Lead
 Marketing
-Singapore
-APAC Product Marketing Lead
-Marketing
 Sydney
 APAC Product Marketing Lead
 Marketing
 Melbourne
+APAC Product Marketing Lead
+Marketing
+Singapore
 Associate, Services Consulting
 Professional Services
 Chicago
@@ -289,10 +295,10 @@ Infrastructure & Corporate Tech
 Toronto
 Backend Engineer, Core Technology
 Infrastructure & Corporate Tech
-Dublin HQ
+Seattle
 Backend Engineer, Core Technology
 Infrastructure & Corporate Tech
-Seattle
+Dublin HQ
 Backend Engineer, Core Technology
 Infrastructure & Corporate Tech
 South San Francisco HQ
@@ -314,12 +320,6 @@ New York
 Backend Engineer, Payments and Risk
 Payments
 Seattle
-Backend Engineer, Payments and Risk
-Payments
-South San Francisco HQ
-Backend Engineer, Payments and Risk
-Payments
-Toronto
 1
 2
 3
