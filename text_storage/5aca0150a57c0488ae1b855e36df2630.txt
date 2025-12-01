@@ -37,19 +37,19 @@ Sales
 South San Francisco HQ
 Account Executive, BaaS Product Sales (German Speaking)
 Sales
-London
+Berlin
 Account Executive, BaaS Product Sales (German Speaking)
 Sales
-Berlin
+London
 Account Executive, Benelux & Nordics - Existing Business
 Sales
 Dublin HQ
 Account Executive, Commercial - DACH
 Sales
-Berlin
+Remote in Germany
 Account Executive, Commercial - DACH
 Sales
-Remote in Germany
+Berlin
 Account Executive, Commercial - German Speaking
 Sales
 Dublin HQ
@@ -64,49 +64,49 @@ Sales
 Chicago
 Account Executive, Enterprise
 Sales
-Remote in Canada
+Toronto
 Account Executive, Enterprise
 Sales
-Toronto
+Remote in Canada
 Account Executive, Enterprise - Public Sector (New Business)
 Sales
-Chicago
+New York
 Account Executive, Enterprise - Public Sector (New Business)
 Sales
 Washington DC
 Account Executive, Enterprise - Public Sector (New Business)
 Sales
-New York
+Remote in United States
+Account Executive, Enterprise - Public Sector (New Business)
+Sales
+Chicago
 Account Executive, Enterprise - Public Sector (New Business)
 Sales
 South San Francisco HQ
-Account Executive, Enterprise - Public Sector (New Business)
+Account Executive, Enterprise (Existing Business)
 Sales
-Remote in United States
+South San Francisco HQ
 Account Executive, Enterprise (Existing Business)
 Sales
 Remote in United States
 Account Executive, Enterprise (Existing Business)
 Sales
 Remote in United States
+Account Executive, Enterprise (Existing Business)
+Sales
+New York
 Account Executive, Enterprise (Existing Business)
 Sales
 Chicago
-Account Executive, Enterprise (Existing Business)
+Account Executive, Enterprise (New Business)
 Sales
 New York
-Account Executive, Enterprise (Existing Business)
-Sales
-South San Francisco HQ
 Account Executive, Enterprise (New Business)
 Sales
 Chicago
 Account Executive, Enterprise (New Business)
 Sales
 Seattle
-Account Executive, Enterprise (New Business)
-Sales
-New York
 Account Executive, Enterprise (New Business)
 Sales
 Remote in United States
@@ -121,19 +121,19 @@ Sales
 Tokyo
 Account Executive, Enterprise Platforms, Hunter
 Sales
-Chicago
+New York
 Account Executive, Enterprise Platforms, Hunter
 Sales
-New York
+Chicago
 Account Executive, Enterprise Platforms, Hunter
 Sales
 Remote in United States
 Account Executive, Existing Business - Startups
 Sales
-Melbourne
+Sydney
 Account Executive, Existing Business - Startups
 Sales
-Sydney
+Melbourne
 Account Executive, Funded Startups
 Sales
 Dublin HQ
@@ -142,10 +142,10 @@ Sales
 London
 Account Executive, Funded Startups (Existing Business)
 Sales
-Chicago
+South San Francisco HQ
 Account Executive, Funded Startups (Existing Business)
 Sales
-South San Francisco HQ
+Chicago
 Account Executive, Iberia
 Sales
 Madrid
@@ -184,10 +184,10 @@ Sales
 Remote in United States
 Account Executive, Product (Crypto Sales)
 Sales
-Remote in United States
+New York
 Account Executive, Product (Crypto Sales)
 Sales
-New York
+Remote in United States
 Account Executive, Product Sales - Radar
 Sales
 Singapore
@@ -196,22 +196,22 @@ Sales
 New York
 Account Executive, Product Sales (Radar)
 Sales
+South San Francisco HQ
+Account Executive, Product Sales (Radar)
+Sales
 Remote in United States
 Account Executive, Product Sales (Radar)
 Sales
 Chicago
-Account Executive, Product Sales (Radar)
-Sales
-South San Francisco HQ
 Account Executive, Product Sales, Radar (NYC)
 Sales
 New York
 Account Executive, Product Sales, Radar (NYC)
 Sales
-Chicago
+Remote in United States
 Account Executive, Product Sales, Radar (NYC)
 Sales
-Remote in United States
+Chicago
 Account Executive, SMB (French Speaking)
 Sales
 Dublin HQ
@@ -223,10 +223,10 @@ Sales
 Chicago
 Account Executive, Startup Platforms (Existing Business)
 Sales
-New York
+South San Francisco HQ
 Account Executive, Startup Platforms (Existing Business)
 Sales
-South San Francisco HQ
+New York
 Account Executive, Startup SaaS Platforms - German Speaking
 Sales
 Dublin HQ
@@ -274,13 +274,13 @@ People Functions
 Singapore
 APAC Product Marketing Lead
 Marketing
+Singapore
+APAC Product Marketing Lead
+Marketing
 Sydney
 APAC Product Marketing Lead
 Marketing
 Melbourne
-APAC Product Marketing Lead
-Marketing
-Singapore
 Associate, Services Consulting
 Professional Services
 Chicago
@@ -298,10 +298,10 @@ Infrastructure & Corporate Tech
 Seattle
 Backend Engineer, Core Technology
 Infrastructure & Corporate Tech
-Dublin HQ
+South San Francisco HQ
 Backend Engineer, Core Technology
 Infrastructure & Corporate Tech
-South San Francisco HQ
+Dublin HQ
 Backend Engineer, Data
 Data Platform
 Remote in Canada
