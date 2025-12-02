@@ -17,316 +17,149 @@ Close mobile navigation
 Expand economic access across the globe
 Bridge open roles
 Privy open roles
+Opens the multi-select filter menu
+Teams
+Administrative
+Communications
+Corporate Development
+Corporate Security
+Corporate Strategy
+Data & Data Science
+Data Platform
+Design
+Executive
+Finance
+Controllership
+Finance & Strategy
+Internal Audit
+Investor Relations
+Tax
+Treasury
+Workplace
+Global Partnerships
+Go-to-Market
+Customer Success
+Global Strategic Pursuits
+GTM Partnerships
+Marketing
+Revenue Operations
+Sales
+Scaled Sales
+Solutions Architect
+Infrastructure & Corporate Tech
+Legal
+Machine Learning
+Operations
+People
+Recruiting
+People Functions
+Products
+Banking as a Service
+Climate
+Connect
+Crypto
+Mobile
+Money Movement and Storage
+New Financial Products
+Payments
+Platform
+Professional Services
+Privy
+Revenue & Financial Automation
+Stripe Tax
+Terminal
+Risk & Financial Crimes
+Security
+Tech Programs
+University
+Opens the multi-select filter menu
+Office Locations (1)
+North America
+Atlanta
+Chicago
+New York
+Seattle
+South San Francisco HQ
+San Francisco Bridge HQ
+Washington DC
+Toronto
+Mexico City
+Asia Pacific
+Sydney
+Melbourne
+Jakarta
+Bengaluru
+Tokyo
+Singapore
+Bangkok
+Europe
+Paris
+Berlin
+London
+Dublin HQ
+Amsterdam
+Warsaw
+Bucharest
+Madrid
+Barcelona
+Stockholm
+Latin America
+São Paulo
+Mexico City
+Middle East
+Dubai
+Opens the multi-select filter menu
+Remote Locations
+North America
+United States
+Canada
+Mexico
+Asia Pacific
+Australia
+Hong Kong
+Indonesia
+India
+Japan
+Malaysia
+New Zealand
+South Korea
+Thailand
+Europe
+Austria
+Belgium
+Czechia
+Estonia
+France
+Germany
+Great Britain
+Ireland
+Israel
+Italy
+Netherlands
+Poland
+Portugal
+Romania
+Spain
+Sweden
+Switzerland
+Latin America
+Argentina
+Brazil
+Chile
+Mexico
+Opens the multi-select filter menu
+Tags (1)
+Bridge
+Privy
+University
+Showing roles across across 1 location and all teams. 1 tag selected.
+Clear all filters
 Role
 Team
 Location
-Account Executive - Enterprise
-Sales
-Mexico City
-Account Executive -Mexico (SSMB)
-Sales
-Mexico City
-Account Executive, AI Sales
-Sales
-South San Francisco HQ
-Account Executive, AI Sales
-Sales
-South San Francisco HQ
-Account Executive, AI Startups - Existing Business
-Sales
-South San Francisco HQ
-Account Executive, BaaS Product Sales (German Speaking)
-Sales
-Berlin
-Account Executive, BaaS Product Sales (German Speaking)
-Sales
-London
-Account Executive, Benelux & Nordics - Existing Business
-Sales
-Dublin HQ
-Account Executive, Commercial - DACH
-Sales
-Remote in Germany
-Account Executive, Commercial - DACH
-Sales
-Berlin
-Account Executive, Commercial - German Speaking
-Sales
-Dublin HQ
-Account Executive, Commercial (Existing Business)
-Sales
-Chicago
-Account Executive, Commercial (Existing Business)
-Sales
-Remote in United States
-Account Executive, Commercial (New Business)
-Sales
-Chicago
-Account Executive, Enterprise
-Sales
-Toronto
-Account Executive, Enterprise
-Sales
-Remote in Canada
-Account Executive, Enterprise - Public Sector (New Business)
-Sales
-New York
-Account Executive, Enterprise - Public Sector (New Business)
-Sales
-Washington DC
-Account Executive, Enterprise - Public Sector (New Business)
-Sales
-Remote in United States
-Account Executive, Enterprise - Public Sector (New Business)
-Sales
-Chicago
-Account Executive, Enterprise - Public Sector (New Business)
-Sales
-South San Francisco HQ
-Account Executive, Enterprise (Existing Business)
-Sales
-South San Francisco HQ
-Account Executive, Enterprise (Existing Business)
-Sales
-Remote in United States
-Account Executive, Enterprise (Existing Business)
-Sales
-Remote in United States
-Account Executive, Enterprise (Existing Business)
-Sales
-New York
-Account Executive, Enterprise (Existing Business)
-Sales
-Chicago
-Account Executive, Enterprise (New Business)
-Sales
-New York
-Account Executive, Enterprise (New Business)
-Sales
-Chicago
-Account Executive, Enterprise (New Business)
-Sales
-Seattle
-Account Executive, Enterprise (New Business)
-Sales
-Remote in United States
-Account Executive, Enterprise AUNZ
-Sales
-Sydney
-Account Executive, Enterprise AUNZ
-Sales
-Melbourne
-Account Executive, Enterprise Japan
-Sales
-Tokyo
-Account Executive, Enterprise Platforms, Hunter
-Sales
-New York
-Account Executive, Enterprise Platforms, Hunter
-Sales
-Chicago
-Account Executive, Enterprise Platforms, Hunter
-Sales
-Remote in United States
-Account Executive, Existing Business - Startups
-Sales
-Sydney
-Account Executive, Existing Business - Startups
-Sales
-Melbourne
-Account Executive, Funded Startups
-Sales
-Dublin HQ
-Account Executive, Funded Startups
-Sales
-London
-Account Executive, Funded Startups (Existing Business)
-Sales
-South San Francisco HQ
-Account Executive, Funded Startups (Existing Business)
-Sales
-Chicago
-Account Executive, Iberia
-Sales
-Madrid
-Account Executive, Platforms
-Sales
+Software Engineering, New Grad
+University
 Singapore
-Account Executive, Platforms (Existing Business)
-Sales
-New York
-Account Executive, Platforms (Existing Business)
-Sales
-South San Francisco HQ
-Account Executive, Platforms (French Speaking)
-Sales
-Dublin HQ
-Account Executive, Platforms (Grower)
-Sales
-New York
-Account Executive, Platforms (Grower)
-Sales
-South San Francisco HQ
-Account Executive, Platforms (New Business)
-Sales
-Chicago
-Account Executive, Platforms (Spanish - Speaking)
-Sales
-Dublin HQ
-Account Executive, Platforms (Strategics)
-Sales
-South San Francisco HQ
-Account Executive, Platforms, New Zealand
-Sales
-Remote in New Zealand
-Account Executive, Product - Disputes
-Sales
-Remote in United States
-Account Executive, Product (Crypto Sales)
-Sales
-New York
-Account Executive, Product (Crypto Sales)
-Sales
-Remote in United States
-Account Executive, Product Sales - Radar
-Sales
-Singapore
-Account Executive, Product Sales (Radar)
-Sales
-New York
-Account Executive, Product Sales (Radar)
-Sales
-South San Francisco HQ
-Account Executive, Product Sales (Radar)
-Sales
-Remote in United States
-Account Executive, Product Sales (Radar)
-Sales
-Chicago
-Account Executive, Product Sales, Radar (NYC)
-Sales
-New York
-Account Executive, Product Sales, Radar (NYC)
-Sales
-Remote in United States
-Account Executive, Product Sales, Radar (NYC)
-Sales
-Chicago
-Account Executive, SMB (French Speaking)
-Sales
-Dublin HQ
-Account Executive, SMB Platforms (New Business)
-Sales
-New York
-Account Executive, SMB Platforms (New Business)
-Sales
-Chicago
-Account Executive, Startup Platforms (Existing Business)
-Sales
-South San Francisco HQ
-Account Executive, Startup Platforms (Existing Business)
-Sales
-New York
-Account Executive, Startup SaaS Platforms - German Speaking
-Sales
-Dublin HQ
-Account Executive, Startups/ SMB, Grower, New Zealand
-Sales
-Remote in New Zealand
-Accounting - Legal Entity Controller
-Controllership
-Bengaluru
-Accounting Analyst - Product Accounting - MaaS Accounting
-Controllership
-Bengaluru
-Accounting Analyst - Product Accounting - Processing Cost
-Controllership
-Bengaluru
-Accounting Analyst - Revenue
-Controllership
-Bengaluru
-Accounts Receivable Manager
-Controllership
-Bengaluru
-AI/ML Engineering Manager, Payment Intelligence
-Payments
-Remote in United States
-AMER GTM Finance & Strategy Segment Lead
-Finance & Strategy
-New York
-AMER GTM Finance & Strategy Segment Lead
-Finance & Strategy
-South San Francisco HQ
-AMER Sales Strategy and Operations Analyst
-Revenue Operations
-Remote in United States
-Analytics Lead, Privy
-Privy
-New York
-Android Engineer, Link
-Payments
-Toronto
-APAC Integration Engineer (Customer facing)
-Professional Services
-Singapore
-APAC People Consultant
-People Functions
-Singapore
-APAC Product Marketing Lead
-Marketing
-Singapore
-APAC Product Marketing Lead
-Marketing
-Sydney
-APAC Product Marketing Lead
-Marketing
-Melbourne
-Associate, Services Consulting
-Professional Services
-Chicago
-Backend / API Engineer, Payouts
-Crypto
-London
-Backend Engineer
-Infrastructure & Corporate Tech
-Dublin HQ
-Backend Engineer, Core Tech, Canada
-Infrastructure & Corporate Tech
-Toronto
-Backend Engineer, Core Technology
-Infrastructure & Corporate Tech
-Seattle
-Backend Engineer, Core Technology
-Infrastructure & Corporate Tech
-South San Francisco HQ
-Backend Engineer, Core Technology
-Infrastructure & Corporate Tech
-Dublin HQ
-Backend Engineer, Data
-Data Platform
-Remote in Canada
-Backend Engineer, Data
-Data Platform
-Toronto
-Backend Engineer, DEeP
-Platform
-Toronto
-Backend Engineer, Infrastructure
-Infrastructure & Corporate Tech
-Bucharest
-Backend Engineer, Payments and Risk
-Payments
-New York
-Backend Engineer, Payments and Risk
-Payments
-Seattle
-1
-2
-3
-4
-5
-Next
-Last
 Stripe logo
 United States (English)
 Australia
