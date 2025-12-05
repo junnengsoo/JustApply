@@ -17,62 +17,11 @@ global-recruitment@qube-rt.com
 Sector
 Select sector
 Location
-London
+Select location
 Experience
-Students and New Grads
+Select experience
 Copy URL
-2026 Graduate - FPGA Engineering
-London
-View opportunity
-2026 Graduate - Production Support
-London
-View opportunity
-2026 - Internship, Data Engineering
-London
-,
-Paris
-View opportunity
-2026 Internship/Graduate - Platform Technology Services
-London
-View opportunity
-2026 Internship or Graduate - Infrastructure Engineering
-London
-View opportunity
-2026 - Internship, Quantitative Developer
-London
-View opportunity
-2026 - Internship, Quantitative Research/Trading
-Aarhus
-,
-Dubai
-,
-Geneva
-,
-London
-,
-Paris
-,
-Zurich
-View opportunity
-2026 Internship - Security Engineering
-London
-View opportunity
-2026 Internship - Software Engineering
-London
-View opportunity
-Internship or Graduate - Business Data Analyst
-London
-View opportunity
-Quantitative Researcher – PhD & Postdoc Opportunities
-London
-,
-Paris
-,
-Zurich
-View opportunity
-VIE in Research
-London
-View opportunity
+There are currently no matching jobs.
 About us
 Contact us
 Qube Research & Technologies Limited is authorised and regulated by the Financial Conduct Authority. Qube Research & Technologies Hong Kong Limited is licensed by the Hong Kong Securities and Futures Commission. Qube Research & Technologies Paris SAS is authorised and regulated by the French Authorities des Marches Financiers. Qube Research & Technologies Singapore Pte. Ltd is authorised and regulated by the Monetary Authority of Singapore. Qube Research and Technologies (DIFC) Limited is regulated by the Dubai Financial Services Authority. Qube Research and Technologies Switzerland AG is regulated by the Swiss Financial Market Supervisory Authority and is affiliated with
