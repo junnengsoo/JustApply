@@ -44,11 +44,11 @@ Singapore
 Software Developer (Data Analytics)
 Montréal
 Software Developer Intern
+London
+Software Developer Intern
 Amsterdam
 Software Developer Intern
 Chicago
-Software Developer Intern
-London
 Software Developer Intern (C++)
 Singapore
 Software Engineer
@@ -62,9 +62,9 @@ London
 Software Engineer, Python, GD1
 London
 Software Engineer, Research – Cumberland Systematic
-Chicago
-Software Engineer, Research – Cumberland Systematic
 London
+Software Engineer, Research – Cumberland Systematic
+Chicago
 Software Engineer, Trading – Cumberland Systematic
 London
 Who we are
