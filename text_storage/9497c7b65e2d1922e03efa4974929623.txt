@@ -1,13 +1,13 @@
 Trading - Grasshopper
-Home
+Who we are
 Technology
-Careers
 Our Culture
+Careers
 Trading
 Technology
 Middle Office
-About
-Contact
+Newsroom
+Contact Us
 Trading
 Available Positions:
 Portfolio Manager
@@ -15,10 +15,11 @@ Trader
 Software Engineer (C++)
 Quantitative Researcher
 Junior Software Engineer (C++)
-About Us
+Who We Are
 Technology
-Careers & Culture
 Newsroom
+Careers
+Contact
 Privacy Policy
 Terms & Conditions
 © Grasshopper Pte Ltd
