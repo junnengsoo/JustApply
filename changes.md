@@ -1,14 +1,13 @@
 # Latest Scraper Results
 
-## 2025-12-17 03:56:45
+## 2025-12-18 03:57:39
 
 ### [https://www.drw.com/work-at-drw/listings?filterType=keyword&value=software](https://www.drw.com/work-at-drw/listings?filterType=keyword&value=software)
 
 **Line changes detected!**
 
 ```diff
-- Hong Kong
-- Software Engineer, C++
+No line changes.
 ```
 
 ---
