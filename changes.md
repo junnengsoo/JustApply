@@ -1,6 +1,6 @@
 # Latest Scraper Results
 
-## 2025-12-19 03:59:25
+## 2025-12-20 03:50:50
 
 ### [https://www.drw.com/work-at-drw/listings?filterType=keyword&value=software](https://www.drw.com/work-at-drw/listings?filterType=keyword&value=software)
 
@@ -8,17 +8,6 @@
 
 ```diff
 No line changes.
-```
-
----
-### [https://www.qube-rt.com/careers?location=London&sector=&experience=Students%20and%20New%20Grads](https://www.qube-rt.com/careers?location=London&sector=&experience=Students%20and%20New%20Grads)
-
-**Line changes detected!**
-
-```diff
-- Internship or Graduate - Business Data Analyst
-- London
-- View opportunity
 ```
 
 ---
