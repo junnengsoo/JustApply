@@ -1,69 +1,357 @@
-Privacy error
-Your connection is not private
-Attackers might be trying to steal your information from
-careers.point72.com
-(for example, passwords, messages, or credit cards).
-Learn more about this warning
-net::ERR_CERT_AUTHORITY_INVALID
-Subject:
-campus.point72.com
-Issuer:
-DigiCert EV RSA CA G2
-Expires on:
-Mar 1, 2026
-Current date:
-Dec 21, 2025
-PEM encoded chain:
------BEGIN CERTIFICATE-----
-MIIHITCCBgmgAwIBAgIQD+9O9n4m2/j9sav0ozsriTANBgkqhkiG9w0BAQsFADBE
-MQswCQYDVQQGEwJVUzEVMBMGA1UEChMMRGlnaUNlcnQgSW5jMR4wHAYDVQQDExVE
-aWdpQ2VydCBFViBSU0EgQ0EgRzIwHhcNMjUwMTI5MDAwMDAwWhcNMjYwMzAxMjM1
-OTU5WjCByTETMBEGCysGAQQBgjc8AgEDEwJVUzEZMBcGCysGAQQBgjc8AgECEwhE
-ZWxhd2FyZTEdMBsGA1UEDwwUUHJpdmF0ZSBPcmdhbml6YXRpb24xEDAOBgNVBAUT
-BzYxNTM2MjgxCzAJBgNVBAYTAlVTMRQwEgYDVQQIEwtDb25uZWN0aWN1dDERMA8G
-A1UEBxMIU3RhbWZvcmQxEzARBgNVBAoTClBvaW50NzIgTFAxGzAZBgNVBAMTEmNh
-bXB1cy5wb2ludDcyLmNvbTCCASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEB
-AKrhzsu6UmB4MYZwJdfm8zzrY3fN/i1ixgj8o9wW6pvplg6mKqY4iMT9qwzTbKen
-OYdAg2gAjsyji4ASybi2cFY+crar3nU0xJ/NlJVM2N4f2rFTd5x4XdGKJguz6yFT
-DdSDMGNIq+5TcOGz5CX0+/+ruq8RnRTZ64wbyYJ+XaJVoQ6DDQKHOMgyPnA2PvGj
-F5p3u2vupPLuMJ8/C/hl3QEm7YxlBbo7M3c9PS6JD+JcuHNYYKIM3deNL3dVY83m
-RLQTKiobYIlu4K23MDewW1/lZ2IYo1W8QQgHguBI56jMwMEqQA7B3pWgn7zCfQwb
-KiYLjJKWtgihN8ScOajYjckCAwEAAaOCA4cwggODMB8GA1UdIwQYMBaAFGpOUL+Y
-aJ1beyB11FkBeUhmkjIGMB0GA1UdDgQWBBSpdBh5XbCT9xNeMycY9mKn9HcQjDBK
-BgNVHREEQzBBghJjYW1wdXMucG9pbnQ3Mi5jb22CFmN1YmlzdGNvbmYucG9pbnQ3
-Mi5jb22CE2NhcmVlcnMucG9pbnQ3Mi5jb20wSgYDVR0gBEMwQTALBglghkgBhv1s
-AgEwMgYFZ4EMAQEwKTAnBggrBgEFBQcCARYbaHR0cDovL3d3dy5kaWdpY2VydC5j
-b20vQ1BTMA4GA1UdDwEB/wQEAwIFoDAdBgNVHSUEFjAUBggrBgEFBQcDAQYIKwYB
-BQUHAwIwdQYDVR0fBG4wbDA0oDKgMIYuaHR0cDovL2NybDMuZGlnaWNlcnQuY29t
-L0RpZ2lDZXJ0RVZSU0FDQUcyLmNybDA0oDKgMIYuaHR0cDovL2NybDQuZGlnaWNl
-cnQuY29tL0RpZ2lDZXJ0RVZSU0FDQUcyLmNybDBzBggrBgEFBQcBAQRnMGUwJAYI
-KwYBBQUHMAGGGGh0dHA6Ly9vY3NwLmRpZ2ljZXJ0LmNvbTA9BggrBgEFBQcwAoYx
-aHR0cDovL2NhY2VydHMuZGlnaWNlcnQuY29tL0RpZ2lDZXJ0RVZSU0FDQUcyLmNy
-dDAMBgNVHRMBAf8EAjAAMIIBfgYKKwYBBAHWeQIEAgSCAW4EggFqAWgAdwAOV5S8
-866pPjMbLJkHs/eQ35vCPXEyJd0hqSWsYcVOIQAAAZSy+GeBAAAEAwBIMEYCIQCU
-9KMSj/a3k8ZmvoqQGp92lJ8cqib1liZ4VnU040/GEAIhAJ/lPd/VZjShKltjk0+u
-fpyqSyhy0qvicHEk7NVAlHwBAHYAZBHEbKQS7KeJHKICLgC8q08oB9QeNSer6v7V
-A8l9zfAAAAGUsvhnrAAABAMARzBFAiEAnHO9z8upAf82JGAVWUEmTfohdMdIQlGO
-PutW62/FxlcCIGuiCNc3WAkdbM5kUDx8U/6WQJf1Gtb/QmE5yfNqOeJvAHUASZyb
-ad4dfOz8Nt7Nh2SmuFuvCoeAGdFVUvvp6ynd+MMAAAGUsvhnvQAABAMARjBEAiB8
-LUnXRubbt6FWkEaru/D0TRkBd0b/Y5PO2eAYuy7RSgIgO/hCYdN4pVa9SiY//O5C
-UFpCi4fjvEx2Bi6vVGd9mJIwDQYJKoZIhvcNAQELBQADggEBAE268iQSaCSzKNZ8
-ZhJvRFMcMLf7EazRlYF1DwAlzZfYst1KBdCCLFunjpRYRmKrWKb70h8//vuEaMbr
-azlIC1IwQfvcI4n7fPPeo3Qr/XFwFxkKfL2v+KF9U/d0AlMirMLKUY55mtdoKBRy
-pGgrqEU+Q4mK/AbyM1RsMkf7wTT0dLWxsJsk4jTTS9YYz7WUjT2zSUKjTYrBsOKk
-6lFyqqFW7aBSh8ODMh7vSd2cEPy4lkHZ8eqdHwTPaYacXYJcrcVU8srv9jW3ogOd
-dUVoZ34vT4myxa8YisvkCt+KshkrwsMJC82MoFm2wmIk7e/f9Ai2yfeYllyHsl+N
-0iF26qU=
------END CERTIFICATE-----
-Help improve security on the web for everyone by sending
-URLs of some pages you visit, limited system information, and some page content
-to Google.
-Privacy policy
-Turn on enhanced protection
-to get Chrome's highest level of security
-Back to safety
-Advanced
-This server could not prove that it is
-careers.point72.com
-; its security certificate is not trusted by your computer's operating system. This may be caused by a misconfiguration or an attacker intercepting your connection.
-Proceed to careers.point72.com (unsafe)
+Point72 - Career Search
+P72 Careers - Header
+About Us
+Careers
+Perspectives
+Browse Open Roles
+Menu
+About Us
+What We Do
+Our Values
+Leadership
+Locations
+Careers
+Working Here
+Students & Early-Career
+Point72 Academy
+Fundamental Equities
+Cubist Systematic
+Point72 LaunchPoint
+Global Macro
+Private Investments
+Investment Services
+Proprietary Research
+Perspectives
+Browse Open Roles
+What We Do
+Learn about the strategies and asset classes that make up our global business.
+Our Values
+See how we support our people, communities, and the planet through our ESG efforts.
+Leadership
+Meet the team responsible for shaping our firm.
+Locations
+Find us in financial hubs across the globe as we pursue the world’s best talent.
+Working Here
+Learn about the culture and community you can expect when you join us.
+Define Your Path
+Students & Early-Career
+All Programs
+Point72 Academy
+Experienced Professionals
+Fundamental Equities
+Cubist Systematic
+Point72 LaunchPoint
+Global Macro
+Private Investments
+Investment Services
+Proprietary Research
+Your submission is processing
+Browse Open Roles
+Filter by:
+Remove All Filters
+Experienced Professionals
+Internships
+Early Career
+×
+Internships
+Experienced Professionals
+Internships
+Early Career
+Stamford
+New York
+Chicago
+San Francisco
+Seattle
+Toronto
+Washington, DC
+West Palm Beach / Miami
+Dubai, UAE
+London
+Milan
+Paris
+Warsaw, PL
+Bengaluru, India
+Hong Kong
+Singapore
+Sydney
+Taipei City
+Tokyo
+×
+Hong Kong
+×
+Singapore
+×
+Sydney
+Stamford
+New York
+Chicago
+San Francisco
+Seattle
+Toronto
+Washington, DC
+West Palm Beach / Miami
+Dubai, UAE
+London
+Milan
+Paris
+Warsaw, PL
+Bengaluru, India
+Hong Kong
+Singapore
+Sydney
+Taipei City
+Tokyo
+Executive Office
+Finance & Treasury
+General Services
+Investing
+Legal & Compliance
+Research, Data & Analytics
+Risk Management
+Sourcing
+Talent & Engagement
+Technology & Engineering
+Trading & Transaction Management
+Executive Office
+Finance & Treasury
+General Services
+Investing
+Legal & Compliance
+Research, Data & Analytics
+Risk Management
+Sourcing
+Talent & Engagement
+Technology & Engineering
+Trading & Transaction Management
+Treasury
+Long/Short Investing
+Global Macro Investing
+Systematic Investing
+Point72 Academy
+Cubist Quant Academy
+Point72 Academy Data Science
+Portfolio Construction Analytics
+Data Science & Analytics
+Product Management
+Supply Chain Research (Canvas)
+Data Insights
+Systematic Data
+Point72 Academy  Data Science
+Legal
+Compliance
+Intelligence **
+Corporate Access
+Broker Relations
+Data Sourcing & Strategy
+Accounting
+Tax
+Reporting and Analysis
+Financial Planning
+Procurement
+Payroll
+Finance Rotational Program
+Financing & Lending
+Controller
+Business Management
+Data Engineering
+Information Security
+IT Support
+Network Engineering
+Program Management
+QA
+Quant Tech Strategy
+Software & System Engineering
+Technology Innovation
+Trading & Execution Technology
+Human Capital
+Business Development
+Talent Acquisition
+Professional Development
+Community Matters
+Office of Inclusion and Engagement
+Risk
+Internal Audit
+Operational Risk
+Leadership
+Investor Relations
+Strategy
+Corporate Communications
+Trading
+Operations
+Trade Support & Reporting
+Trading Research
+Facilities
+Reception
+Admin
+User Experience
+Business Acceleration Team
+Private Equity & Venture Capital
+Finance & Accounting
+Treasury
+Long/Short Investing
+Global Macro Investing
+Systematic Investing
+Point72 Academy
+Cubist Quant Academy
+Point72 Academy Data Science
+Portfolio Construction Analytics
+Data Science & Analytics
+Product Management
+Supply Chain Research (Canvas)
+Data Insights
+Systematic Data
+Point72 Academy  Data Science
+Legal
+Compliance
+Intelligence **
+Corporate Access
+Broker Relations
+Data Sourcing & Strategy
+Accounting
+Tax
+Reporting and Analysis
+Financial Planning
+Procurement
+Payroll
+Finance Rotational Program
+Financing & Lending
+Controller
+Business Management
+Data Engineering
+Information Security
+IT Support
+Network Engineering
+Program Management
+QA
+Quant Tech Strategy
+Software & System Engineering
+Technology Innovation
+Trading & Execution Technology
+Human Capital
+Business Development
+Talent Acquisition
+Professional Development
+Community Matters
+Office of Inclusion and Engagement
+Risk
+Internal Audit
+Operational Risk
+Leadership
+Investor Relations
+Strategy
+Corporate Communications
+Trading
+Operations
+Trade Support & Reporting
+Trading Research
+Facilities
+Reception
+Admin
+User Experience
+Business Acceleration Team
+Private Equity & Venture Capital
+Finance & Accounting
+Find Open Roles
+11 Open Roles
+ROLE
+2026 Long/Short Equity Support Research intern, Hong Kong (12 weeks)
+FOCUS
+Trading Research
+LOCATION
+Hong Kong
+ROLE
+2026 Economist Summer Intern
+FOCUS
+Data Sourcing & Strategy
+LOCATION
+Hong Kong   |   Singapore
+ROLE
+2026 Trader Summer Intern, Hong Kong (12-week program)
+FOCUS
+Trading
+LOCATION
+Hong Kong
+ROLE
+2026 Corporate Access Summer Intern, Hong Kong
+FOCUS
+Broker Relations
+LOCATION
+Hong Kong
+ROLE
+2026 Regulatory Reporting Summer Intern, Singapore
+FOCUS
+Trade Support & Reporting
+LOCATION
+Singapore
+ROLE
+2026 Securities Lending Trader Summer Intern, Singapore
+FOCUS
+Trade Support & Reporting
+LOCATION
+Singapore
+ROLE
+2026 Operations Summer Intern, Singapore
+FOCUS
+Operations
+LOCATION
+Singapore
+ROLE
+2026 Compliance Summer Intern, Hong Kong
+FOCUS
+Compliance
+LOCATION
+Hong Kong
+ROLE
+Quantitative Alpha Researcher Intern
+FOCUS
+Systematic Investing
+LOCATION
+Hong Kong
+ROLE
+Quantitative Researcher - Intern
+FOCUS
+Systematic Investing
+LOCATION
+London   |   Hong Kong   |   Tokyo   |   Paris
+ROLE
+Quantitative Alpha Researcher Intern
+FOCUS
+Systematic Investing
+LOCATION
+Singapore
+Load More
+P72 Careers - Footer
+Point72
+About Us
+What We Do
+Our Values
+Leadership
+Locations
+Join Our Team
+Working Here
+Students & Early-Career
+Asia-Pacific Offices
+Warsaw Office
+Career Paths
+Fundamental Equities
+Point72 Academy
+Point72 LaunchPoint
+Cubist Systematic
+Global Macro
+Point72 Private Investments
+Proprietary Research
+Investment Services
+Resources
+Perspectives
+General Inquiries
+Press Inquiries
+Investor Login
+© 2025 Point72. All Rights Reserved
+|
+Global Privacy Policy
+|
+Terms of Use
+|
+Disclosures
+|
+Brand Misuse – Fraudulent Schemes Notice
