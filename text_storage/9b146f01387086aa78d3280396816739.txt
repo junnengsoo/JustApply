@@ -26,13 +26,13 @@ London
 Senior Software Engineer - Analytics Front Office
 Chicago
 Senior Software Engineer, C/FICCO Data
-London
+Chicago
 Senior Software Engineer, C/FICCO Data
-Chicago
-Software Developer
-Chicago
+London
 Software Developer
 Montréal
+Software Developer
+Chicago
 Software Developer
 London
 Software Developer (C++)
@@ -56,9 +56,9 @@ London
 Software Engineer, Python, GD1
 London
 Software Engineer, Research – Cumberland Systematic
-London
-Software Engineer, Research – Cumberland Systematic
 Chicago
+Software Engineer, Research – Cumberland Systematic
+London
 Software Engineer, Trading – Cumberland Systematic
 London
 Who we are
