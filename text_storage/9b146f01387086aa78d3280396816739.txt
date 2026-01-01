@@ -20,9 +20,9 @@ Montréal
 Full Stack Software Developer
 Montréal
 Senior Software Engineer
-Tel Aviv
-Senior Software Engineer
 London
+Senior Software Engineer
+Tel Aviv
 Senior Software Engineer - Analytics Front Office
 Chicago
 Senior Software Engineer, C/FICCO Data
@@ -30,21 +30,19 @@ Chicago
 Senior Software Engineer, C/FICCO Data
 London
 Software Developer
-Montréal
-Software Developer
 Chicago
 Software Developer
-London
+Montréal
 Software Developer (C++)
 Singapore
 Software Developer (Data Analytics)
 Montréal
 Software Developer Intern
+Chicago
+Software Developer Intern
 London
 Software Developer Intern
 Amsterdam
-Software Developer Intern
-Chicago
 Software Developer Intern (C++)
 Singapore
 Software Engineer
@@ -56,9 +54,9 @@ London
 Software Engineer, Python, GD1
 London
 Software Engineer, Research – Cumberland Systematic
-Chicago
-Software Engineer, Research – Cumberland Systematic
 London
+Software Engineer, Research – Cumberland Systematic
+Chicago
 Software Engineer, Trading – Cumberland Systematic
 London
 Who we are
@@ -83,7 +81,7 @@ DRW Canada
 FR
 EN
 ©
-2025
+2026
 DRW Holdings, LLC. All Rights Reserved.
 Privacy Policy
 We use cookies (or similar) to measure the performance of our Website and to enhance your experience on our Website. By clicking 'Accept' and continuing to use this Website, you agree to the use of these cookies. For more information and to learn how you can change your cookie settings, please see our
